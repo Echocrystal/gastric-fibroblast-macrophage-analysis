@@ -1,0 +1,17 @@
+figure_term	model_id	term	metric	original_value	reproduced_value	absolute_difference	pass
+Average ecosystem	ecosystem_z__MSI_adjusted	ecosystem_z	OR	0.785465188795428	0.785465188795428	2.22044604925031e-16	TRUE
+Average ecosystem	ecosystem_z__MSI_adjusted	ecosystem_z	CI_low	0.383845312881423	0.383845312881423	4.9960036108132e-16	TRUE
+Average ecosystem	ecosystem_z__MSI_adjusted	ecosystem_z	CI_high	1.60730258285067	1.60730258285067	3.77475828372553e-15	TRUE
+Average ecosystem	ecosystem_z__MSI_adjusted	ecosystem_z	P	0.508621009633346	0.508621009633346	2.22044604925031e-16	TRUE
+Fibroblast sender	sender_receiver_MSI	sender_primary_z	OR	0.400565580855264	0.400565580855264	2.77555756156289e-16	TRUE
+Fibroblast sender	sender_receiver_MSI	sender_primary_z	CI_low	0.170381070312099	0.170381070312099	4.16333634234434e-16	TRUE
+Fibroblast sender	sender_receiver_MSI	sender_primary_z	CI_high	0.941728938971933	0.941728938971933	3.33066907387547e-16	TRUE
+Fibroblast sender	sender_receiver_MSI	sender_primary_z	P	0.0359389282904283	0.0359389282904282	7.63278329429795e-17	TRUE
+Macrophage receiver	sender_receiver_MSI	receiver_specific_z	OR	1.97873851443165	1.97873851443165	1.77635683940025e-15	TRUE
+Macrophage receiver	sender_receiver_MSI	receiver_specific_z	CI_low	0.789333625738742	0.789333625738742	2.22044604925031e-16	TRUE
+Macrophage receiver	sender_receiver_MSI	receiver_specific_z	CI_high	4.96039441475804	4.96039441475804	1.77635683940025e-15	TRUE
+Macrophage receiver	sender_receiver_MSI	receiver_specific_z	P	0.14554469329085	0.14554469329085	2.77555756156289e-17	TRUE
+Sender x receiver	sender_receiver_interaction	sender_primary_z:receiver_specific_z	OR	0.423398539366611	0.423398539366611	2.77555756156289e-16	TRUE
+Sender x receiver	sender_receiver_interaction	sender_primary_z:receiver_specific_z	CI_low	0.150876315010564	0.150876315010564	1.66533453693773e-16	TRUE
+Sender x receiver	sender_receiver_interaction	sender_primary_z:receiver_specific_z	CI_high	1.1881674279043	1.1881674279043	4.66293670342566e-15	TRUE
+Sender x receiver	sender_receiver_interaction	sender_primary_z:receiver_specific_z	P	0.102579651062391	0.10257965106239	5.41233724504764e-16	TRUE

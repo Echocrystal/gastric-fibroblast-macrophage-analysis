@@ -1,0 +1,12 @@
+{
+  "deidentified_input_rows": 45,
+  "events": 12,
+  "original_identifiers_replaced": true,
+  "original_numerical_fields_unchanged": true,
+  "coefficients_fit_summary_and_four_figure_terms_byte_identical_to_verified_work_outputs": true,
+  "original_identifiers_and_absolute_machine_paths_not_detected_in_package": true,
+  "run_from_public_package_successful": true,
+  "script_supports_optional_package_root_argument": true,
+  "raw_expression_data_included": false,
+  "model_specifications_added": false
+}

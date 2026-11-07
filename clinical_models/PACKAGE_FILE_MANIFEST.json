@@ -1,0 +1,82 @@
+[
+  {
+    "file": "export_existing_Kim2018_models.R",
+    "bytes": 12857,
+    "sha256": "131ceca448f9ee8e161636ef16220e2595e50789d7678b0518218b589f5d4aac"
+  },
+  {
+    "file": "INPUT_FILE_MANIFEST.json",
+    "bytes": 1026,
+    "sha256": "a3958e2f7843a9f6361826e319fa91545a3512d40dc17b395ccfcb97ec390da4"
+  },
+  {
+    "file": "inputs/Figure6h_Kim2018_continuous_models_original.tsv",
+    "bytes": 383,
+    "sha256": "9a100f055c2b8bd299e6150e48b669724edca7ba91a1293290c225ca63ac828b"
+  },
+  {
+    "file": "inputs/Kim2018_bias_reduced_response_models_original.tsv",
+    "bytes": 1119,
+    "sha256": "c68081aca65d9c08a30d0aae603b042fd780c4b7f8a2c89840fd717156618a87"
+  },
+  {
+    "file": "inputs/Kim2018_continuous_joint_state_response_models_original.tsv",
+    "bytes": 1149,
+    "sha256": "8f031264c538f946f9654a5bdf6a898303074f0dcd5b6432c34c8e38a9802663"
+  },
+  {
+    "file": "inputs/Kim2018_model_inputs_deidentified.tsv",
+    "bytes": 4915,
+    "sha256": "36cf83d425bbdaa08d6b71fe6075a31d5e98a8de0206241558314fe96ac3b69d"
+  },
+  {
+    "file": "outputs/Figure6H_four_terms_complete.tsv",
+    "bytes": 2489,
+    "sha256": "fe0365744dab441c25263adfa86d2d3da85a3fc1ad705c3b0c652e1d4d7654a0"
+  },
+  {
+    "file": "outputs/Figure6H_four_terms_REPRODUCTION_QA.tsv",
+    "bytes": 2183,
+    "sha256": "4a61588bc5247ce0fef66df3450f9e497cc3e43cb54cb4f66ecb215f002bf8dd"
+  },
+  {
+    "file": "outputs/Kim2018_existing_models_ALL_TERMS.tsv",
+    "bytes": 14174,
+    "sha256": "68512cd481eac89bc83413a9742d1cea06d684277142c9d7c48fc76f3365867f"
+  },
+  {
+    "file": "outputs/Kim2018_existing_models_complete.json",
+    "bytes": 41792,
+    "sha256": "213370a8b72909f7cb8e8695bb07e6037abc41e0107e523c611f9009c190da0a"
+  },
+  {
+    "file": "outputs/Kim2018_existing_models_FIT_SUMMARY.tsv",
+    "bytes": 2840,
+    "sha256": "bcc7a1dd4eb9b3d3f5801bd4dbe022b50242ad714e60344ff63e61748ac62b3b"
+  },
+  {
+    "file": "outputs/Kim2018_model_patient_inclusion.tsv",
+    "bytes": 23920,
+    "sha256": "3aab1b061310affc1f4942ff6b019a83e1a681946cefd84d1b390bf0b3a54b35"
+  },
+  {
+    "file": "outputs/Kim2018_original16_terms_REPRODUCTION_QA.tsv",
+    "bytes": 7783,
+    "sha256": "2229f3c40fbd4ee9b50b4b09bcf2b4ccd72ecdf75374371d792e38fdc1693057"
+  },
+  {
+    "file": "outputs/PUBLIC_PACKAGE_QA.json",
+    "bytes": 515,
+    "sha256": "d688591870261e25c3c368589f21bfeff77897743971e6b47d3b7acebac16a8c"
+  },
+  {
+    "file": "outputs/sessionInfo.txt",
+    "bytes": 705,
+    "sha256": "8b9a98d57feddc5c00039ef2a99aa75eefcbe560ac965e2b9b890e1456a1dafb"
+  },
+  {
+    "file": "README.md",
+    "bytes": 4161,
+    "sha256": "2fc3a6fd50c34ffbfdc95d1418b4a584593b103245c3d63b351f42c333d5249c"
+  }
+]

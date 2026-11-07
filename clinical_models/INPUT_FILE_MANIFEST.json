@@ -1,0 +1,25 @@
+{
+  "input_note": "Public frozen numerical model inputs only; original cohort patient identifiers have been replaced by sequential arbitrary KIM001-KIM045 identifiers. All model numerical values and row order are unchanged.",
+  "files": [
+    {
+      "file": "inputs/Figure6h_Kim2018_continuous_models_original.tsv",
+      "bytes": 383,
+      "sha256": "9a100f055c2b8bd299e6150e48b669724edca7ba91a1293290c225ca63ac828b"
+    },
+    {
+      "file": "inputs/Kim2018_bias_reduced_response_models_original.tsv",
+      "bytes": 1119,
+      "sha256": "c68081aca65d9c08a30d0aae603b042fd780c4b7f8a2c89840fd717156618a87"
+    },
+    {
+      "file": "inputs/Kim2018_continuous_joint_state_response_models_original.tsv",
+      "bytes": 1149,
+      "sha256": "8f031264c538f946f9654a5bdf6a898303074f0dcd5b6432c34c8e38a9802663"
+    },
+    {
+      "file": "inputs/Kim2018_model_inputs_deidentified.tsv",
+      "bytes": 4915,
+      "sha256": "36cf83d425bbdaa08d6b71fe6075a31d5e98a8de0206241558314fe96ac3b69d"
+    }
+  ]
+}

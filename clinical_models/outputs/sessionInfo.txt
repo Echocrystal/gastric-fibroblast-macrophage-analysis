@@ -1,0 +1,25 @@
+R version 4.4.0 (2024-04-24 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] jsonlite_2.0.0      brglm2_1.0.1        data.table_1.18.2.1
+
+loaded via a namespace (and not attached):
+ [1] nleqslv_3.3.7       MASS_7.3-60.2       compiler_4.4.0     
+ [4] Matrix_1.7-0        enrichwith_0.4.0    nnet_7.3-19        
+ [7] grid_4.4.0          numDeriv_2016.8-1.1 statmod_1.5.1      
+[10] lattice_0.22-6     
