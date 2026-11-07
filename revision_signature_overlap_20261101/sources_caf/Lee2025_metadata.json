@@ -1,0 +1,587 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "EXT_ID:39580151",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "39580151",
+        "source": "MED",
+        "pmid": "39580151",
+        "pmcid": "PMC12013559",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12013559"
+          ]
+        },
+        "doi": "10.1136/gutjnl-2024-332901",
+        "title": "Spatial dissection of tumour microenvironments in gastric cancers reveals the immunosuppressive crosstalk between &lt;i&gt;CCL2+&lt;/i&gt; fibroblasts and &lt;i&gt;STAT3&lt;/i&gt;-activated macrophages.",
+        "authorString": "Lee SH, Lee D, Choi J, Oh HJ, Ham IH, Ryu D, Lee SY, Han DJ, Kim S, Moon Y, Song IH, Song KY, Lee H, Lee S, Hur H, Kim TM.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Lee SH",
+              "lastName": "Lee",
+              "firstName": "Sung Hak",
+              "initials": "SH",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Hospital Pathology, Seoul St. Mary's Hostpital, Collage of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lee D",
+              "lastName": "Lee",
+              "firstName": "Dagyeong",
+              "initials": "D",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6542-6526"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgery, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Choi J",
+              "lastName": "Choi",
+              "firstName": "Junyong",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgery, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "Cancer Biology Graduate Program, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Oh HJ",
+              "lastName": "Oh",
+              "firstName": "Hye Jeong",
+              "initials": "HJ",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgery, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ham IH",
+              "lastName": "Ham",
+              "firstName": "In-Hye",
+              "initials": "IH",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgery, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "Inflamm-Aging Translational Research Center, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ryu D",
+              "lastName": "Ryu",
+              "firstName": "Daeun",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medical Informatics, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lee SY",
+              "lastName": "Lee",
+              "firstName": "Seo-Yeong",
+              "initials": "SY",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medical Informatics, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "Department of Biomedicine & Health Sciences, Graduate School, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Han DJ",
+              "lastName": "Han",
+              "firstName": "Dong-Jin",
+              "initials": "DJ",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medical Informatics, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "Department of Biomedicine & Health Sciences, Graduate School, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kim S",
+              "lastName": "Kim",
+              "firstName": "Sunmin",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medical Informatics, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "Department of Biomedicine & Health Sciences, Graduate School, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Moon Y",
+              "lastName": "Moon",
+              "firstName": "Youngbeen",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medical Informatics, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "Department of Biomedicine & Health Sciences, Graduate School, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Song IH",
+              "lastName": "Song",
+              "firstName": "In-Hye",
+              "initials": "IH",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pathology, Asan Medical Center, University of Ulsan, College of Medicine, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Song KY",
+              "lastName": "Song",
+              "firstName": "Kyo Young",
+              "initials": "KY",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Gastrointestinal Surgery, Department of Surgery, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lee H",
+              "lastName": "Lee",
+              "firstName": "Hyeseong",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Hospital Pathology, Seoul St. Mary's Hostpital, Collage of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lee S",
+              "lastName": "Lee",
+              "firstName": "Seungho",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgery, Yonsei University, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hur H",
+              "lastName": "Hur",
+              "firstName": "Hoon",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgery, Ajou University School of Medicine, Suwon, The Republic of Korea tmkim@catholic.ac.kr hhcmc75@ajou.ac.kr."
+                  },
+                  {
+                    "affiliation": "Cancer Biology Graduate Program, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "Inflamm-Aging Translational Research Center, Ajou University School of Medicine, Suwon, The Republic of Korea."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kim TM",
+              "lastName": "Kim",
+              "firstName": "Tae-Min",
+              "initials": "TM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medical Informatics, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea tmkim@catholic.ac.kr hhcmc75@ajou.ac.kr."
+                  },
+                  {
+                    "affiliation": "Cancer Research Institute, College of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea."
+                  },
+                  {
+                    "affiliation": "CMC Institute for Basic Medical Science, the Catholic Medical Center of The Catholic University of Korea, Seoul, The Republic of Korea."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-6542-6526"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-7993-9701"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-1020-5838"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data",
+            "related_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "5",
+          "volume": "74",
+          "journalIssueId": 3926526,
+          "dateOfPublication": "2025 Apr",
+          "monthOfPublication": 4,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Gut",
+            "title": "Gut",
+            "essn": "1468-3288",
+            "issn": "0017-5749",
+            "isoabbreviation": "Gut",
+            "nlmid": "2985108R"
+          },
+          "printPublicationDate": "2025-04-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "714-727",
+        "abstractText": "<h4>Background</h4>A spatially resolved, niche-level analysis of tumour microenvironments (TME) can provide insights into cellular interactions and their functional impacts in gastric cancers (GC).<h4>Objective</h4>Our goal was to translate the spatial organisation of GC ecosystems into a functional landscape of cellular interactions involving malignant, stromal and immune cells.<h4>Design</h4>We performed spatial transcriptomics on nine primary GC samples using the Visium platform to delineate the transcriptional landscape and dynamics of malignant, stromal and immune cells within the GC tissue architecture, highlighting cellular crosstalks and their functional consequences in the TME.<h4>Results</h4>GC spatial transcriptomes with substantial cellular heterogeneity were delineated into six regional compartments. Specifically, the fibroblast-enriched TME upregulates epithelial-to-mesenchymal transformation and immunosuppressive response in malignant and TME cells, respectively. Cell type-specific transcriptional dynamics revealed that malignant and endothelial cells promote the cellular proliferations of TME cells, whereas the fibroblasts and immune cells are associated with procancer and anticancer immunity, respectively. Ligand-receptor analysis revealed that <i>CCL2</i>-expressing fibroblasts promote the tumour progression via JAK-STAT3 signalling and inflammatory response in tumour-infiltrated macrophages. <i>CCL2+</i> fibroblasts\u2009and <i>STAT3</i>-activated macrophages are co-localised and their co-abundance was associated with unfavourable prognosis. We experimentally validated that <i>CCL2+</i> fibroblasts recruit myeloid cells and stimulate <i>STAT3</i> activation in recruited macrophages. The development of immunosuppressive TME by <i>CCL2+</i> fibroblasts were also validated in syngeneic mouse models.<h4>Conclusion</h4>GC spatial transcriptomes revealed functional cellular crosstalk involving multiple cell types among which the interaction between <i>CCL2+</i> fibroblasts\u2009and <i>STAT3</i>-activated macrophages plays roles in establishing immune-suppressive GC TME with potential clinical relevance.",
+        "affiliation": "Department of Hospital Pathology, Seoul St. Mary's Hostpital, Collage of Medicine, The Catholic University of Korea, Seoul, The Republic of Korea.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "National Research Foundation of Korea",
+              "grantId": "2019R1A5A2027588",
+              "orderIn": 0
+            },
+            {
+              "agency": "Ministry of Education of Korea",
+              "grantId": "2020R1A6A1A03043539",
+              "orderIn": 0
+            },
+            {
+              "agency": "Ministry of Science and ICT, South Korea",
+              "grantId": "RS-2023-00221174",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Research Foundation of Korea",
+              "grantId": "2019M3E5D3073104",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Research Foundation of Korea",
+              "grantId": "2022R1A2C2010644",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Fibroblasts",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "IM",
+                    "qualifierName": "immunology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Macrophages",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "IM",
+                    "qualifierName": "immunology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Animals"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Mice"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Stomach Neoplasms",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "IM",
+                    "qualifierName": "immunology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PA",
+                    "qualifierName": "pathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cell Communication"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Signal Transduction"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "STAT3 Transcription Factor",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Chemokine CCL2",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Tumor Microenvironment",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "IM",
+                    "qualifierName": "immunology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cancer-Associated Fibroblasts"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Gastric cancer"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "STAT3 Transcription Factor",
+              "registryNumber": "0"
+            },
+            {
+              "name": "STAT3 protein, human",
+              "registryNumber": "0"
+            },
+            {
+              "name": "CCL2 protein, human",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Chemokine CCL2",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1136/gutjnl-2024-332901"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12013559"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12013559?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 46,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "EMBL"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "geo"
+          ]
+        },
+        "dateOfCompletion": "2025-04-07",
+        "dateOfCreation": "2024-11-23",
+        "dateOfRevision": "2025-04-24",
+        "electronicPublicationDate": "2025-04-07",
+        "firstPublicationDate": "2025-04-07",
+        "firstIndexDate": "2024-11-24",
+        "fullTextReceivedDate": "2025-12-05",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

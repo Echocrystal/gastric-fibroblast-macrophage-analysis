@@ -1,0 +1,177 @@
+[
+  {
+    "file": "gutjnl-74-5-s001.pdf",
+    "bytes": 12037499,
+    "sha256": "71746344f98b275c45d05cb848ac98f978bdd1560eabe0287a7a93cf5135bf84"
+  },
+  {
+    "file": "gutjnl-74-5-s001.txt",
+    "bytes": 16691,
+    "sha256": "328e462684cd74245df84ec75ffe01a6f441fc1f916e570087411e9f41425e15"
+  },
+  {
+    "file": "gutjnl-74-5-s002.pdf",
+    "bytes": 88587,
+    "sha256": "e5ba938a9c8a7df9744c4cbc02a8fcd67ec464c82095b7fe0b5c1196fc2f7595"
+  },
+  {
+    "file": "gutjnl-74-5-s002.txt",
+    "bytes": 21815,
+    "sha256": "6d9b8d6cbd8afca3963181ed5efcd4342e04ff219f6bf3315928abd2c2176de5"
+  },
+  {
+    "file": "gutjnl-74-5-s003.pdf",
+    "bytes": 244511,
+    "sha256": "f4edba8f65bb522f716684711ffe377037fd7f0024cc4f313d1672baf7822a1d"
+  },
+  {
+    "file": "gutjnl-74-5-s003.txt",
+    "bytes": 27381,
+    "sha256": "b2e0c37039a22e3e6970d54dc46f447a2d20f0fd64cb557b09253e43335cf5bd"
+  },
+  {
+    "file": "gutjnl-74-5-s004.pdf",
+    "bytes": 137908,
+    "sha256": "9a5fa1649d73392421c3ec7168b56646841b7c3b710f3a6f92b08392bade9c91"
+  },
+  {
+    "file": "gutjnl-74-5-s004.txt",
+    "bytes": 9791,
+    "sha256": "4a69e976041b75bb242723261663271c4f411b15a526a59796dd4941ca3ed8a2"
+  },
+  {
+    "file": "gutjnl-74-5-s005.pptx",
+    "bytes": 2115150,
+    "sha256": "997fc3172d89827c74b6f284932d67038a864b4c87fe6f21f462d338d7e6f95d"
+  },
+  {
+    "file": "Lee2025_CCL2_fibroblast425.json",
+    "bytes": 7464,
+    "sha256": "127943dbc5f1267eeccbb23e53971f992b643731ac2293e4df95f491005076bc"
+  },
+  {
+    "file": "Lee2025_CCL2_fibroblast425.tsv",
+    "bytes": 11655,
+    "sha256": "f940a91af0d39a086c8c3ebd7c2ac73f73c129e80086e0156e2faccbe237e1f5"
+  },
+  {
+    "file": "Lee2025_fulltext.xml",
+    "bytes": 131459,
+    "sha256": "ff535c1fed225c67c3965f22185de6504d473de36d463675a18231a98153be07"
+  },
+  {
+    "file": "Lee2025_metadata.json",
+    "bytes": 22839,
+    "sha256": "8c16f84c1f97138fd88d506e48fa63cdfa703f9397d55d978dd6655ed0337c23"
+  },
+  {
+    "file": "Lee2025_STAT3_macrophage425.json",
+    "bytes": 7583,
+    "sha256": "b642e96de8b3f5a9909fba18270e49ba0051a2f561b296b922a24e3dff843eda"
+  },
+  {
+    "file": "Lee2025_STAT3_macrophage425.tsv",
+    "bytes": 12578,
+    "sha256": "533725f77555d2280b639762c85b7a0ffb1ecf89576c595c72d89d8a4d326fca"
+  },
+  {
+    "file": "Lee2025_supp.zip",
+    "bytes": 15414482,
+    "sha256": "b951d376cc494c65ea849c068aa847ff9d48e4eec0fe201dbe33f0ad637a333d"
+  },
+  {
+    "file": "Li2022_article.html",
+    "bytes": 104365,
+    "sha256": "4c148982b631cfd1cc567dac0b1cb00ea082a9b4e45891ec3c48640f8439ffc0"
+  },
+  {
+    "file": "Li2022_eCAF_cluster3_deposited.json",
+    "bytes": 8069,
+    "sha256": "5a9cbb33c5a61069c974b498051dee761b19b0f114fb5c228ed852ea38dbf13f"
+  },
+  {
+    "file": "Li2022_eCAF_cluster3_deposited.tsv",
+    "bytes": 22514,
+    "sha256": "91e86696da7da901996637c089c363bd561178db99642c3f65d7958216cdbf3a"
+  },
+  {
+    "file": "Li2022_eCAF_cluster3_padj05.json",
+    "bytes": 8071,
+    "sha256": "03b07a7dcaa8a8dfbdaee5f3a53b0bf3a134ac1f06e2ff95627e01d6d0ee7497"
+  },
+  {
+    "file": "Li2022_fulltext.xml",
+    "bytes": 140038,
+    "sha256": "ab5136858f7bb0909afdbe721404d5ee195a8f8823653de8564b8ae7e8877fc1"
+  },
+  {
+    "file": "Li2022_metadata.json",
+    "bytes": 20615,
+    "sha256": "8682b35d6e50ad955990532f5743ce9b681f5391ce43d0eef008bf57223d755b"
+  },
+  {
+    "file": "Li2022_s2.xlsx",
+    "bytes": 19842,
+    "sha256": "fbb36fba9b6327c8695d89da5f6161f1e61e93a3b6886334d68453bf93d4cc8e"
+  },
+  {
+    "file": "Li2022_s3.xlsx",
+    "bytes": 18327,
+    "sha256": "d60ec0e02777c9addee73fa7a13f1b96e54a62a39314de7fdf58bdb16d8f111a"
+  },
+  {
+    "file": "Li2022_s4.xlsx",
+    "bytes": 78197,
+    "sha256": "f862d550696f0a0354dac01b9a34d6d8460ae314736dee0be561e884ca014324"
+  },
+  {
+    "file": "Li2022_s5.xlsx",
+    "bytes": 2984029,
+    "sha256": "43c9ab458daba90f90fc4fd8569ec320d4005080f796cb8dab5bf10443886e54"
+  },
+  {
+    "file": "Li2022_s6.xlsx",
+    "bytes": 13099,
+    "sha256": "6e2c319c5bfe4500c8992ec6f38a4c9f75fb7829ba1edaf72e66f3bec60d9384"
+  },
+  {
+    "file": "Li2022_s7.xlsx",
+    "bytes": 17606,
+    "sha256": "9bf3ab43275a7db0e45b374f78245bfc054a797287d4067e46c76060f7e6f59e"
+  },
+  {
+    "file": "Sahai2020_fulltext.xml",
+    "bytes": 266765,
+    "sha256": "26cb57c3e1dec7b941dfa7d95f9c6bd45d48c673377da1ccdef7bd60f24a855e"
+  },
+  {
+    "file": "Sahai2020_metadata.json",
+    "bytes": 36448,
+    "sha256": "4cc4a21a454d3550f968a89942ced85c2d114b27c4273434ca24c926ffa85344"
+  },
+  {
+    "file": "Sahai2020_not_computable.json",
+    "bytes": 4158,
+    "sha256": "3d14a71a214724107dfd68a0356120c6dafab8bdc20d3f07407deb0e55e70ba2"
+  },
+  {
+    "file": "Yang2025_ECM_hub10.json",
+    "bytes": 5022,
+    "sha256": "630e9264cd80f52d251f745611a59989a0f0196b98ec29d2a3241612a86fd4f7"
+  },
+  {
+    "file": "Yang2025_ECM_hub10.tsv",
+    "bytes": 281,
+    "sha256": "18e6b8e79ca7a07016aeb42014a0a68ae7ca383ccad3ccbdb99ab29e08255244"
+  },
+  {
+    "file": "Yang2025_fulltext.xml",
+    "bytes": 141344,
+    "sha256": "c686be69d312ca2ceda6bca03bc04af87ae02f910db5d0bfb98b8a05c5c48e41"
+  },
+  {
+    "file": "Yang2025_metadata.json",
+    "bytes": 14864,
+    "sha256": "3b5f4ce1fbcab2aedec85d99e679ac1b4bb9f43c53be180a57f127c76c81a450"
+  }
+]

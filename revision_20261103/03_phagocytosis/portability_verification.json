@@ -1,0 +1,72 @@
+{
+  "command": "python run_phagocytosis_analysis.py --snapshots-only --project-root I:/__PHAGOCYTOSIS_PORTABILITY_TEST_NO_SUCH_PROJECT__",
+  "exit_code": 0,
+  "source_snapshots_verified": 11,
+  "count_cache_files_verified": 3,
+  "original_source_manifest_rows_preserved": 37,
+  "original_H5_hash_rows_preserved": 26,
+  "all_uncompressed_results_and_original_source_manifest_byte_identical": true,
+  "gzip_note": "gene_patient_effects.tsv.gz may have a new gzip timestamp; numerical computation is unchanged.",
+  "checks": [
+    {
+      "path": "results\\analysis_audit.json",
+      "sha256_before": "c4f04f063cc20141bb728ac628dbb945d50da28e1589847827e7fe2eabf761d3",
+      "sha256_after": "c4f04f063cc20141bb728ac628dbb945d50da28e1589847827e7fe2eabf761d3",
+      "byte_identical": true
+    },
+    {
+      "path": "results\\gene_direction_weight_summary.tsv",
+      "sha256_before": "1911ca04925bbade3733f184d908bf2a4630bb7ff0256d068693d3c20162dba8",
+      "sha256_after": "1911ca04925bbade3733f184d908bf2a4630bb7ff0256d068693d3c20162dba8",
+      "byte_identical": true
+    },
+    {
+      "path": "results\\gene_effects_and_GSEA_weights.tsv",
+      "sha256_before": "53d75494066cc2623346264fa998c3d9e6adfb924d1ddd5e06a6d7c67184de04",
+      "sha256_after": "53d75494066cc2623346264fa998c3d9e6adfb924d1ddd5e06a6d7c67184de04",
+      "byte_identical": true
+    },
+    {
+      "path": "results\\gene_membership_audit.tsv",
+      "sha256_before": "689ac0777af58b21379047019b063d1a4dc6ff7fec272f6ec305b3cdccb072bc",
+      "sha256_after": "689ac0777af58b21379047019b063d1a4dc6ff7fec272f6ec305b3cdccb072bc",
+      "byte_identical": true
+    },
+    {
+      "path": "results\\gene_patient_effects.tsv.gz",
+      "sha256_before": "484c32f6cd56d81a5ac5807fb4dda40d8d2fa549a7d9444cf76e2696d929e3a3",
+      "sha256_after": "338262f848987e068949ef4fe288aea60cd3736d86eda876918076625c4bde2f",
+      "byte_identical": false
+    },
+    {
+      "path": "results\\gsea_all14_original_and_matched.tsv",
+      "sha256_before": "142db9d067dc0e676b83e35783c50c0ca7c80f564a7a2091933da38b35c97f6c",
+      "sha256_after": "142db9d067dc0e676b83e35783c50c0ca7c80f564a7a2091933da38b35c97f6c",
+      "byte_identical": true
+    },
+    {
+      "path": "results\\gsea_summary.tsv",
+      "sha256_before": "a22c8d0597dc0c8c1246d579458032610bf4a0dc4276466c98fc0ecc411e93e5",
+      "sha256_after": "a22c8d0597dc0c8c1246d579458032610bf4a0dc4276466c98fc0ecc411e93e5",
+      "byte_identical": true
+    },
+    {
+      "path": "results\\patient_paired_scores.tsv",
+      "sha256_before": "02038428a6060a1070f68da0bec848053fd187c8e1f71a72a65e0b5c341387ca",
+      "sha256_after": "02038428a6060a1070f68da0bec848053fd187c8e1f71a72a65e0b5c341387ca",
+      "byte_identical": true
+    },
+    {
+      "path": "results\\scoring_summary.tsv",
+      "sha256_before": "a33dcaec978ff11f4fb583523967e8aa5b3562667ea4f3452f305f01ea5b43cc",
+      "sha256_after": "a33dcaec978ff11f4fb583523967e8aa5b3562667ea4f3452f305f01ea5b43cc",
+      "byte_identical": true
+    },
+    {
+      "path": "inputs/source_provenance_sha256.tsv",
+      "sha256_before": "ea16d42c28845874c3c4a97bb856c9c0895ab1dd25cf51dca5c704dcee55742f",
+      "sha256_after": "ea16d42c28845874c3c4a97bb856c9c0895ab1dd25cf51dca5c704dcee55742f",
+      "byte_identical": true
+    }
+  ]
+}

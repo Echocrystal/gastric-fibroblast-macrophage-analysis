@@ -1,0 +1,1084 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "EXT_ID:31980749",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "31980749",
+        "source": "MED",
+        "pmid": "31980749",
+        "pmcid": "PMC7046529",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC7046529"
+          ]
+        },
+        "doi": "10.1038/s41568-019-0238-1",
+        "title": "A framework for advancing our understanding of cancer-associated fibroblasts.",
+        "authorString": "Sahai E, Astsaturov I, Cukierman E, DeNardo DG, Egeblad M, Evans RM, Fearon D, Greten FR, Hingorani SR, Hunter T, Hynes RO, Jain RK, Janowitz T, Jorgensen C, Kimmelman AC, Kolonin MG, Maki RG, Powers RS, Pur\u00e9 E, Ramirez DC, Scherz-Shouval R, Sherman MH, Stewart S, Tlsty TD, Tuveson DA, Watt FM, Weaver V, Weeraratna AT, Werb Z.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Sahai E",
+              "lastName": "Sahai",
+              "firstName": "Erik",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3932-5086"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Francis Crick Institute, London, UK. erik.sahai@crick.ac.uk."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Astsaturov I",
+              "lastName": "Astsaturov",
+              "firstName": "Igor",
+              "initials": "I",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-8613-1890"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Marvin and Concetta Greenberg Pancreatic Cancer Institute, Fox Chase Cancer Center, Philadelphia, PA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cukierman E",
+              "lastName": "Cukierman",
+              "firstName": "Edna",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1452-9576"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cancer Biology Program, Marvin & Concetta Greenberg Pancreatic Cancer Institute, Fox Chase Cancer Center, Philadelphia, PA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "DeNardo DG",
+              "lastName": "DeNardo",
+              "firstName": "David G",
+              "initials": "DG",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3655-5783"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Oncology, Washington University Medical School, St Louis, MO, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Egeblad M",
+              "lastName": "Egeblad",
+              "firstName": "Mikala",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3371-1445"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Evans RM",
+              "lastName": "Evans",
+              "firstName": "Ronald M",
+              "initials": "RM",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9986-5965"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Gene Expression Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA."
+                  },
+                  {
+                    "affiliation": "Howard Hughes Medical Institute, Salk Institute for Biological Studies, La Jolla, CA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Fearon D",
+              "lastName": "Fearon",
+              "firstName": "Douglas",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA."
+                  },
+                  {
+                    "affiliation": "Weill Cornell Medicine, New York, NY, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Greten FR",
+              "lastName": "Greten",
+              "firstName": "Florian R",
+              "initials": "FR",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3928-6080"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Institute for Tumor Biology and Experimental Therapy, Georg-Speyer-Haus, Frankfurt, Germany."
+                  },
+                  {
+                    "affiliation": "Frankfurt Cancer Institute, Goethe University Frankfurt, Frankfurt, Germany."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hingorani SR",
+              "lastName": "Hingorani",
+              "firstName": "Sunil R",
+              "initials": "SR",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3869-8729"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hunter T",
+              "lastName": "Hunter",
+              "firstName": "Tony",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Molecular and Cell Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hynes RO",
+              "lastName": "Hynes",
+              "firstName": "Richard O",
+              "initials": "RO",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Jain RK",
+              "lastName": "Jain",
+              "firstName": "Rakesh K",
+              "initials": "RK",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7571-3548"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Edwin L Steele Laboratories, Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Janowitz T",
+              "lastName": "Janowitz",
+              "firstName": "Tobias",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA."
+                  },
+                  {
+                    "affiliation": "Northwell Health Cancer Institute, New Hyde Park, NY, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Jorgensen C",
+              "lastName": "Jorgensen",
+              "firstName": "Claus",
+              "initials": "C",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7841-943X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cancer Research UK Manchester Institute, University of Manchester, Nether Alderley, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kimmelman AC",
+              "lastName": "Kimmelman",
+              "firstName": "Alec C",
+              "initials": "AC",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Radiation Oncology, Perlmutter Cancer Center, New York University Medical Center, New York, NY, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kolonin MG",
+              "lastName": "Kolonin",
+              "firstName": "Mikhail G",
+              "initials": "MG",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Brown Foundation Institute of Molecular Medicine, The University of Texas Health Sciences Center at Houston, Houston, TX, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Maki RG",
+              "lastName": "Maki",
+              "firstName": "Robert G",
+              "initials": "RG",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9853-2528"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA."
+                  },
+                  {
+                    "affiliation": "Northwell Health Cancer Institute, New York, NY, USA."
+                  },
+                  {
+                    "affiliation": "Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Powers RS",
+              "lastName": "Powers",
+              "firstName": "R Scott",
+              "initials": "RS",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2769-1932"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pathology, Stony Brook University, Stony Brook, NY, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Pur\u00e9 E",
+              "lastName": "Pur\u00e9",
+              "firstName": "Ellen",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Biomedical Sciences, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ramirez DC",
+              "lastName": "Ramirez",
+              "firstName": "Daniel C",
+              "initials": "DC",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Zucker School of Medicine at Hofstra/Northwell Health System, New York, NY, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Scherz-Shouval R",
+              "lastName": "Scherz-Shouval",
+              "firstName": "Ruth",
+              "initials": "R",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4570-121X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Biomolecular Sciences, The Weizmann Institute of Science, Rehovot, Israel."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Sherman MH",
+              "lastName": "Sherman",
+              "firstName": "Mara H",
+              "initials": "MH",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Cell, Developmental & Cancer Biology, Oregon Health & Science University, Portland, OR, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Stewart S",
+              "lastName": "Stewart",
+              "firstName": "Sheila",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2260-9576"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Cell Biology and Physiology, Department of Medicine, ICCE Institute, Siteman Cancer Center, Washington University School of Medicine, St Louis, MO, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Tlsty TD",
+              "lastName": "Tlsty",
+              "firstName": "Thea D",
+              "initials": "TD",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "UCSF Helen Diller Comprehensive Cancer Center, San Francisco, CA, USA."
+                  },
+                  {
+                    "affiliation": "Department of Pathology, UCSF, San Francisco, CA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Tuveson DA",
+              "lastName": "Tuveson",
+              "firstName": "David A",
+              "initials": "DA",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Watt FM",
+              "lastName": "Watt",
+              "firstName": "Fiona M",
+              "initials": "FM",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9151-5154"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Centre for Stem Cells and Regenerative Medicine, King's College London, Guy's Hospital, London, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Weaver V",
+              "lastName": "Weaver",
+              "firstName": "Valerie",
+              "initials": "V",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Center for Bioengineering and Tissue Regeneration, Department of Surgery, University of California, San Francisco, San Francisco, CA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Weeraratna AT",
+              "lastName": "Weeraratna",
+              "firstName": "Ashani T",
+              "initials": "AT",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Sidney Kimmel Cancer Center, Johns Hopkins School of Medicine, Baltimore, MD, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Werb Z",
+              "lastName": "Werb",
+              "firstName": "Zena",
+              "initials": "Z",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6525-3872"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Anatomy, University of California, San Francisco, San Francisco, CA, USA."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7571-3548"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9151-5154"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1452-9576"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2260-9576"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3371-1445"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3655-5783"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3869-8729"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3928-6080"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3932-5086"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4570-121X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-6525-3872"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-7841-943X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-8613-1890"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9853-2528"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9986-5965"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2769-1932"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "recommended_reviews",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "3",
+          "volume": "20",
+          "journalIssueId": 2917085,
+          "dateOfPublication": "2020 Mar",
+          "monthOfPublication": 3,
+          "yearOfPublication": 2020,
+          "journal": {
+            "medlineAbbreviation": "Nat Rev Cancer",
+            "title": "Nature reviews. Cancer",
+            "essn": "1474-1768",
+            "issn": "1474-175X",
+            "nlmid": "101124168",
+            "isoabbreviation": "Nat Rev Cancer"
+          },
+          "printPublicationDate": "2020-03-01"
+        },
+        "pubYear": "2020",
+        "pageInfo": "174-186",
+        "abstractText": "Cancer-associated fibroblasts (CAFs) are a key component of the tumour microenvironment with diverse functions, including matrix deposition and remodelling, extensive reciprocal signalling interactions with cancer cells and crosstalk with infiltrating leukocytes. As such, they are a potential target for optimizing therapeutic strategies against cancer. However, many challenges are present in ongoing attempts to modulate CAFs for therapeutic benefit. These include limitations in our understanding of the origin of CAFs and heterogeneity in CAF function, with it being desirable to retain some antitumorigenic functions. On the basis of a meeting of experts in the field of CAF biology, we summarize in this Consensus Statement our current knowledge and present a framework for advancing our understanding of\u00a0this critical cell type within the tumour microenvironment.",
+        "affiliation": "The Francis Crick Institute, London, UK. erik.sahai@crick.ac.uk.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "review-article",
+            "Review",
+            "Research Support, U.S. Gov't, Non-P.H.S.",
+            "Journal Article",
+            "Research Support, N.I.H., Extramural"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "European Research Council",
+              "grantId": "754320",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P01 CA117969",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P01 CA107584",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P01 CA217805",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P30 CA045508",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA161112",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA208205",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "U10 CA180944",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "U54 CA143803",
+              "orderIn": 0
+            },
+            {
+              "agency": "The Francis Crick Institute",
+              "grantId": "10144",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P20 CA192996",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P50 CA196510",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA207935",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "U01 CA224193",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P30 CA006927",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA188134",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA190092",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA244938",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "U01 CA224013",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P01 CA114046",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P30 CA014195",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA130919",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA157490",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA188048",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA223483",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R35 CA197743",
+              "orderIn": 0
+            },
+            {
+              "agency": "Wellcome Trust",
+              "grantId": "206439/Z/17/Z",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P30 CA010815",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P50 CA101955",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R21 CA216745",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "U01 CA199315",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P30 CA006973",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA177670",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA188430",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA203890",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA217206",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R35 CA232124",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "U01 CA224348",
+              "orderIn": 0
+            },
+            {
+              "agency": "Cancer Research UK",
+              "acronym": "CRUK_",
+              "grantId": "12905",
+              "orderIn": 0
+            },
+            {
+              "agency": "Cancer Research UK",
+              "acronym": "CRUK_",
+              "grantId": "19258",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "P20 CA192994",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA174746",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R01 CA232256",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIGMS NIH HHS",
+              "acronym": "GM",
+              "grantId": "R01 GM095567",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "R21 CA231252",
+              "orderIn": 0
+            },
+            {
+              "agency": "NCI NIH HHS",
+              "acronym": "CA",
+              "grantId": "U01 CA210240",
+              "orderIn": 0
+            },
+            {
+              "agency": "Wellcome Trust",
+              "acronym": "WT_",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Stromal Cells",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DE",
+                    "qualifierName": "drug effects"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PA",
+                    "qualifierName": "pathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Animals"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Neoplasms",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "ET",
+                    "qualifierName": "etiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PA",
+                    "qualifierName": "pathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Disease Susceptibility"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Treatment Outcome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Signal Transduction"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Clinical Trials as Topic"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Molecular Targeted Therapy"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Tumor Microenvironment"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Biomarkers"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cell Plasticity"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cancer-Associated Fibroblasts",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DE",
+                    "qualifierName": "drug effects"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PA",
+                    "qualifierName": "pathology"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Biomarkers",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Unpaywall",
+              "url": "https://escholarship.org/uc/item/4490v59t"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1038/s41568-019-0238-1"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC7046529"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC7046529?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 3227,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "nct",
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2020-05-07",
+        "dateOfCreation": "2020-01-26",
+        "dateOfRevision": "2026-04-15",
+        "electronicPublicationDate": "2020-01-24",
+        "firstPublicationDate": "2020-01-24",
+        "firstIndexDate": "2020-01-28",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

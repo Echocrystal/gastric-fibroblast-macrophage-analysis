@@ -1,0 +1,20 @@
+Supplementary Table S4. Macrophage top 20 highly variable genes
+         Cluster                       Gene list
+         IL1B+ Macrophage              CCL4, CCL4L2, CCL2, CCL3, CCL3L1, G0S2,
+                                       IL1B, CXCL8, CCL20, IER3, C15orf48, CXCL3,
+                                       ICAM1, PLAUR, TNFAIP3, NFKBIA, DUSP2,
+                                       CD83, SOD2, SERPINB9
+         S100A9+ Macrophage            S100A8, VCAN, S100A9, TIMP1, S100A4,
+                                       SLC2A3, FGL2, C1orf162, CFP, NAMPT, FOS,
+                                       CD55, MNDA, DUSP1, CEBPB, SLC11A1, S100A6,
+                                       LST1, JAML, IFI30
+         SPP1+ C1QCmedian RTM          SPP1, APOE, APOC1, GPNMB, FBP1, MMP9,
+                                       FABP5, CD9, LIPA, LGMN, CSTB, CTSD, FN1,
+                                       ACP5, CTSB, NUPR1, CAPG, RARRES1, PTGDS,
+                                       CTSL
+         C1QC+ RTM                     C1QC, C1QA, C1QB, MS4A6A, SLCO2B1,
+                                       SELENOP, FOLR2, F13A1, SLC40A1, MS4A4A,
+                                       PLTP, GPR34, STAB1, MRC1, MAF, RNASE1,
+                                       IFI27, MAFB, MS4A7, A2M
+
+         

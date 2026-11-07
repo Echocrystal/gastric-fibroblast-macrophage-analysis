@@ -1,0 +1,20 @@
+{
+  "source": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\02_clinical_stratification\\Kim2018_patients_with_restriction_flags.tsv",
+  "source_sha256": "caa60fd4731c8d30988ff8e6167c8332c55cc78bc6f6ee5704f8be21f3f03c56",
+  "independent_patients_n": 45,
+  "responders_n": 12,
+  "restricted_patients_n": 34,
+  "CPS_missing_n": 4,
+  "CPS_missing_responders_n": 1,
+  "response_mapping": "CR/PR=1; SD/PD=0; all 45 verified",
+  "hypothesis_tests_performed": false,
+  "new_models_fitted": false,
+  "output_sha256": {
+    "best_response_binary_validation.tsv": "6277ddd57338b6507ce01959b00c84e58eda98aae097f1e1d93f392c0726a252",
+    "configuration_EBV_by_response.tsv": "545a56bb5adb6874dc81aa7604cdcd53ce3a5aaeb13397bee287861689dcd71a",
+    "configuration_MSI_by_response.tsv": "8db69ddec8d5c599f144cdb84032e475583c60c2990766dcac84e645ccfc0cd0",
+    "CPS_missing_patients.tsv": "b3e70d585f8b22362e1a67912378c48a6d5aedaeae20d8654b8c9ca14ac7064f",
+    "CPS_missing_response_summary.tsv": "dc04e204ae9fe0f9686b8cc2469fa607045a4079397bce8cb56e2f84385ba4a2",
+    "full_and_MSS_EBVnegative_response_Wilson95.tsv": "d971ac33eae9581abc1aaa9aae7d9e68442ee9c39f5578d9df05ec29caf8e290"
+  }
+}

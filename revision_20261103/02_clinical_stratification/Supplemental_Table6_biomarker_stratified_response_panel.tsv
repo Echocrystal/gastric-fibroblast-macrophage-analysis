@@ -1,0 +1,16 @@
+﻿Metric	Dual-low	Fibroblast-dominant	Macrophage-dominant	Dual-high
+Patients, n	13	9	9	14
+Responders, n	3	1	8	0
+Nonresponders, n	10	8	1	14
+MSI-positive, n	1	2	3	0
+MSI-negative (MSS), n	12	7	6	14
+MSI status missing, n	0	0	0	0
+EBV ISH-positive, n	1	0	4	0
+EBV ISH-negative, n	12	9	5	14
+EBV ISH status missing, n	0	0	0	0
+PD-L1 CPS available, n	13	8	8	12
+PD-L1 CPS missing, n	0	1	1	2
+PD-L1 CPS, median (Q1-Q3)	1 (0-2)	0.5 (0-1.25)	33.5 (11.5-50)	0 (0-0.25)
+MSS and EBV ISH-negative patients, n	11	7	2	14
+Responders among MSS and EBV ISH-negative patients, n	1	0	1	0
+Response among MSS and EBV ISH-negative patients, n/N	1/11	0/7	1/2	0/14

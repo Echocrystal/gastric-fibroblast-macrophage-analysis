@@ -1,0 +1,438 @@
+{
+  "status": "PASS",
+  "independent_implementation": "No import of runner; csv + math.fsum for estimates; longdouble positive subset-sum MITM + sign symmetry; direct-definition BH3; full-array stratified bootstrap.",
+  "script_sha256": "9ca1fab213667a800bbb698666077fdfe0a0d6390c74754d9d89414596670262",
+  "python": "3.12.7",
+  "numpy": "2.4.6",
+  "checks": {
+    "pooled_source_identity": {
+      "passed": true,
+      "detail": {
+        "endpoint_rows": 84,
+        "unique_persons": 28,
+        "cohort_sizes": {
+          "GSE270678_main_ST": 19,
+          "GSE251950_primary": 9
+        },
+        "ST_R_included": false
+      }
+    },
+    "included_table_identity": {
+      "passed": true,
+      "detail": {
+        "rows": 28,
+        "cohorts": {
+          "GSE270678_main_ST": 19,
+          "GSE251950_primary": 9
+        }
+      }
+    },
+    "included_numeric_values": {
+      "passed": true,
+      "detail": {
+        "max_abs_difference": 9.996344030316351e-17
+      }
+    },
+    "input_snapshots_unchanged": {
+      "passed": true,
+      "detail": {
+        "SPON2_ITGB2_donor_effects.tsv": {
+          "snapshot_sha256": "65d95ccb9e2e5e9d0d7e4ee83e7b81dba9badd0d69b41da0c24bcbd162671628",
+          "previous_snapshot_sha256": "65d95ccb9e2e5e9d0d7e4ee83e7b81dba9badd0d69b41da0c24bcbd162671628",
+          "identical": true
+        },
+        "SPON2_ITGB2_meta_summary.tsv": {
+          "snapshot_sha256": "9b71c709ed60cdd6bc818f1b62bebed872d6dae1509bc42e0efe7785559be2b8",
+          "previous_snapshot_sha256": "9b71c709ed60cdd6bc818f1b62bebed872d6dae1509bc42e0efe7785559be2b8",
+          "identical": true
+        },
+        "SPON2_ITGB2_section_effects.tsv": {
+          "snapshot_sha256": "5c6b7817d8a9b5ed13b9ebf2ae07626c613d120c2372c61ab785065fcc435acc",
+          "previous_snapshot_sha256": "5c6b7817d8a9b5ed13b9ebf2ae07626c613d120c2372c61ab785065fcc435acc",
+          "identical": true
+        },
+        "SPON2_ITGB2_gene_endpoint_coverage.tsv": {
+          "snapshot_sha256": "0ebf2f8c161374ae4591c180bf2cb005298c1a02c393bdbd54d085779540770b",
+          "previous_snapshot_sha256": "0ebf2f8c161374ae4591c180bf2cb005298c1a02c393bdbd54d085779540770b",
+          "identical": true
+        }
+      }
+    },
+    "independent_MITM_small_vector_validation": {
+      "passed": true,
+      "detail": [
+        {
+          "n": 3,
+          "weights": "equal",
+          "tail": 8,
+          "brute": 8,
+          "passed": true
+        },
+        {
+          "n": 3,
+          "weights": "unequal",
+          "tail": 8,
+          "brute": 8,
+          "passed": true
+        },
+        {
+          "n": 4,
+          "weights": "equal",
+          "tail": 16,
+          "brute": 16,
+          "passed": true
+        },
+        {
+          "n": 4,
+          "weights": "unequal",
+          "tail": 12,
+          "brute": 12,
+          "passed": true
+        },
+        {
+          "n": 3,
+          "weights": "equal",
+          "tail": 2,
+          "brute": 2,
+          "passed": true
+        },
+        {
+          "n": 3,
+          "weights": "unequal",
+          "tail": 2,
+          "brute": 2,
+          "passed": true
+        },
+        {
+          "n": 5,
+          "weights": "equal",
+          "tail": 26,
+          "brute": 26,
+          "passed": true
+        },
+        {
+          "n": 5,
+          "weights": "unequal",
+          "tail": 22,
+          "brute": 22,
+          "passed": true
+        },
+        {
+          "n": 14,
+          "weights": "equal",
+          "tail": 15288,
+          "brute": 15288,
+          "passed": true
+        },
+        {
+          "n": 14,
+          "weights": "unequal",
+          "tail": 14748,
+          "brute": 14748,
+          "passed": true
+        }
+      ]
+    },
+    "pooled_point_estimates_exact_tails_P_BH3_and_CIs": {
+      "passed": true,
+      "detail": [
+        {
+          "weighting": "individual_equal",
+          "endpoint": "SPON2_ITGB2_receiver_composite_r1",
+          "independent_rho": 0.03023965859097898,
+          "reported_rho": 0.03023965859097895,
+          "rho_difference": 3.122502256758253e-17,
+          "independent_tail_assignments": 168,
+          "reported_tail_assignments": 168,
+          "total_assignments": 268435456,
+          "independent_P": 6.258487701416016e-07,
+          "P_difference": 0.0,
+          "independent_BH3_q": 9.387731552124023e-07,
+          "q_difference": 0.0,
+          "independent_CI95": [
+            0.02033705990190904,
+            0.040873345304553645
+          ],
+          "CI_max_abs_difference": 4.163336342344337e-17,
+          "passed": true,
+          "correct_lopo_min": 0.026591627511513203,
+          "correct_lopo_max": 0.03179775228827199,
+          "reported_lopo_min": 0.02659162751151317,
+          "reported_lopo_max": 0.03179775228827196
+        },
+        {
+          "weighting": "individual_equal",
+          "endpoint": "SPON2_receiver_r1",
+          "independent_rho": 0.036042440961629826,
+          "reported_rho": 0.036042440961629806,
+          "rho_difference": 2.0816681711721685e-17,
+          "independent_tail_assignments": 10,
+          "reported_tail_assignments": 10,
+          "total_assignments": 268435456,
+          "independent_P": 3.725290298461914e-08,
+          "P_difference": 0.0,
+          "independent_BH3_q": 1.1175870895385742e-07,
+          "q_difference": 0.0,
+          "independent_CI95": [
+            0.025318011677811236,
+            0.04717900653079637
+          ],
+          "CI_max_abs_difference": 3.122502256758253e-17,
+          "passed": true,
+          "correct_lopo_min": 0.03274383263032519,
+          "correct_lopo_max": 0.03744746691057006,
+          "reported_lopo_min": 0.03274383263032516,
+          "reported_lopo_max": 0.037447466910570035
+        },
+        {
+          "weighting": "individual_equal",
+          "endpoint": "SPON2_ITGB2_r1",
+          "independent_rho": 0.011441648286376702,
+          "reported_rho": 0.011441648286376683,
+          "rho_difference": 1.9081958235744878e-17,
+          "independent_tail_assignments": 2759946,
+          "reported_tail_assignments": 2759946,
+          "total_assignments": 268435456,
+          "independent_P": 0.010281600058078766,
+          "P_difference": 0.0,
+          "independent_BH3_q": 0.010281600058078766,
+          "q_difference": 0.0,
+          "independent_CI95": [
+            0.0039930619758342,
+            0.019060139485272076
+          ],
+          "CI_max_abs_difference": 3.122502256758253e-17,
+          "passed": true,
+          "correct_lopo_min": 0.008998036240580792,
+          "correct_lopo_max": 0.013468656374301105,
+          "reported_lopo_min": 0.00899803624058077,
+          "reported_lopo_max": 0.013468656374301084
+        },
+        {
+          "weighting": "cohort_equal",
+          "endpoint": "SPON2_ITGB2_receiver_composite_r1",
+          "independent_rho": 0.03427421244840396,
+          "reported_rho": 0.03427421244840393,
+          "rho_difference": 2.7755575615628914e-17,
+          "independent_tail_assignments": 110,
+          "reported_tail_assignments": 110,
+          "total_assignments": 268435456,
+          "independent_P": 4.0978193283081055e-07,
+          "P_difference": 0.0,
+          "independent_BH3_q": 6.146728992462158e-07,
+          "q_difference": 0.0,
+          "independent_CI95": [
+            0.02148398460084252,
+            0.04853132682894483
+          ],
+          "CI_max_abs_difference": 5.551115123125783e-17,
+          "passed": true,
+          "correct_lopo_min": 0.02907761541639473,
+          "correct_lopo_max": 0.037108168188384465,
+          "reported_lopo_min": 0.029077615416394698,
+          "reported_lopo_max": 0.037108168188384444
+        },
+        {
+          "weighting": "cohort_equal",
+          "endpoint": "SPON2_receiver_r1",
+          "independent_rho": 0.04048148738456835,
+          "reported_rho": 0.040481487384568325,
+          "rho_difference": 2.7755575615628914e-17,
+          "independent_tail_assignments": 8,
+          "reported_tail_assignments": 8,
+          "total_assignments": 268435456,
+          "independent_P": 2.9802322387695312e-08,
+          "P_difference": 0.0,
+          "independent_BH3_q": 8.940696716308594e-08,
+          "q_difference": 0.0,
+          "independent_CI95": [
+            0.026609647554946634,
+            0.05495427834222933
+          ],
+          "CI_max_abs_difference": 2.0816681711721685e-17,
+          "passed": true,
+          "correct_lopo_min": 0.03597091787962457,
+          "correct_lopo_max": 0.043701842599432106,
+          "reported_lopo_min": 0.03597091787962455,
+          "reported_lopo_max": 0.04370184259943208
+        },
+        {
+          "weighting": "cohort_equal",
+          "endpoint": "SPON2_ITGB2_r1",
+          "independent_rho": 0.014941262939403363,
+          "reported_rho": 0.014941262939403345,
+          "rho_difference": 1.734723475976807e-17,
+          "independent_tail_assignments": 1529594,
+          "reported_tail_assignments": 1529594,
+          "total_assignments": 268435456,
+          "independent_P": 0.005698181688785553,
+          "P_difference": 0.0,
+          "independent_BH3_q": 0.005698181688785553,
+          "q_difference": 0.0,
+          "independent_CI95": [
+            0.006176567292689451,
+            0.0245356154200864
+          ],
+          "CI_max_abs_difference": 2.42861286636753e-17,
+          "passed": true,
+          "correct_lopo_min": 0.011649123817447787,
+          "correct_lopo_max": 0.017221925089380745,
+          "reported_lopo_min": 0.011649123817447768,
+          "reported_lopo_max": 0.017221925089380728
+        }
+      ]
+    },
+    "original_cohort_rows_preserved_and_not_reused_as_people": {
+      "passed": true,
+      "detail": [
+        {
+          "dataset": "GSE270678_main_ST",
+          "endpoint": "SPON2_ITGB2_receiver_composite_r1",
+          "rows": 1,
+          "n_people": 19,
+          "independent_P": 8.7738037109375e-05,
+          "passed": true
+        },
+        {
+          "dataset": "GSE270678_main_ST",
+          "endpoint": "SPON2_receiver_r1",
+          "rows": 1,
+          "n_people": 19,
+          "independent_P": 1.52587890625e-05,
+          "passed": true
+        },
+        {
+          "dataset": "GSE270678_main_ST",
+          "endpoint": "SPON2_ITGB2_r1",
+          "rows": 1,
+          "n_people": 19,
+          "independent_P": 0.23246383666992188,
+          "passed": true
+        },
+        {
+          "dataset": "GSE251950_primary",
+          "endpoint": "SPON2_ITGB2_receiver_composite_r1",
+          "rows": 1,
+          "n_people": 9,
+          "independent_P": 0.00390625,
+          "passed": true
+        },
+        {
+          "dataset": "GSE251950_primary",
+          "endpoint": "SPON2_receiver_r1",
+          "rows": 1,
+          "n_people": 9,
+          "independent_P": 0.00390625,
+          "passed": true
+        },
+        {
+          "dataset": "GSE251950_primary",
+          "endpoint": "SPON2_ITGB2_r1",
+          "rows": 1,
+          "n_people": 9,
+          "independent_P": 0.015625,
+          "passed": true
+        },
+        {
+          "dataset": "GSE270678_ST_R_sensitivity",
+          "endpoint": "SPON2_ITGB2_receiver_composite_r1",
+          "rows": 1,
+          "n_people": 15,
+          "independent_P": 0.01641845703125,
+          "passed": true
+        },
+        {
+          "dataset": "GSE270678_ST_R_sensitivity",
+          "endpoint": "SPON2_receiver_r1",
+          "rows": 1,
+          "n_people": 15,
+          "independent_P": 0.0040283203125,
+          "passed": true
+        },
+        {
+          "dataset": "GSE270678_ST_R_sensitivity",
+          "endpoint": "SPON2_ITGB2_r1",
+          "rows": 1,
+          "n_people": 15,
+          "independent_P": 0.15203857421875,
+          "passed": true
+        }
+      ]
+    },
+    "LOPO_labels_and_weights": {
+      "passed": true,
+      "detail": {
+        "mismatched_rows": 0,
+        "first_mismatches": [],
+        "summary_range_checks": [
+          {
+            "weighting": "individual_equal",
+            "endpoint": "SPON2_ITGB2_receiver_composite_r1",
+            "correct_min": 0.026591627511513203,
+            "reported_min": 0.02659162751151317,
+            "correct_max": 0.03179775228827199,
+            "reported_max": 0.03179775228827196,
+            "passed": true
+          },
+          {
+            "weighting": "individual_equal",
+            "endpoint": "SPON2_receiver_r1",
+            "correct_min": 0.03274383263032519,
+            "reported_min": 0.03274383263032516,
+            "correct_max": 0.03744746691057006,
+            "reported_max": 0.037447466910570035,
+            "passed": true
+          },
+          {
+            "weighting": "individual_equal",
+            "endpoint": "SPON2_ITGB2_r1",
+            "correct_min": 0.008998036240580792,
+            "reported_min": 0.00899803624058077,
+            "correct_max": 0.013468656374301105,
+            "reported_max": 0.013468656374301084,
+            "passed": true
+          },
+          {
+            "weighting": "cohort_equal",
+            "endpoint": "SPON2_ITGB2_receiver_composite_r1",
+            "correct_min": 0.02907761541639473,
+            "reported_min": 0.029077615416394698,
+            "correct_max": 0.037108168188384465,
+            "reported_max": 0.037108168188384444,
+            "passed": true
+          },
+          {
+            "weighting": "cohort_equal",
+            "endpoint": "SPON2_receiver_r1",
+            "correct_min": 0.03597091787962457,
+            "reported_min": 0.03597091787962455,
+            "correct_max": 0.043701842599432106,
+            "reported_max": 0.04370184259943208,
+            "passed": true
+          },
+          {
+            "weighting": "cohort_equal",
+            "endpoint": "SPON2_ITGB2_r1",
+            "correct_min": 0.011649123817447787,
+            "reported_min": 0.011649123817447768,
+            "correct_max": 0.017221925089380745,
+            "reported_max": 0.017221925089380728,
+            "passed": true
+          }
+        ],
+        "interpretation": "All omitted-person values and six summary ranges match independent correctly ordered rows."
+      }
+    },
+    "production_outputs_unchanged_by_this_audit": {
+      "passed": true,
+      "detail": {
+        "run_independent_cohort_pooling.py": "182ccacd600fbc5f74a3610f3606ac7222aa5c4eab2be726d63b72f1e9173b49",
+        "pooled_results_all_schemes.tsv": "34d43668104cf831d3cf3f9bab46f3242544c025ad5ebb58abb907b93a06162e",
+        "pooled_results_all_schemes.json": "45bc9d78271c41bf1d5e24d42132d63ba8ed02ed5e1d82f6130e7be9f6f648a8",
+        "original_cohort_results_3endpoints.tsv": "ea3cc2401ff6e79e7e1fa327e59ef23dec2447d99e11a059029eefc4acb08ef9",
+        "leave_one_individual_out_effects.tsv": "e01df32df10e43d5c3dd5350bc7e7eccace824c15a6c0bedd94eb0a168d07e12"
+      }
+    }
+  },
+  "issues": []
+}

@@ -1,0 +1,9 @@
+﻿configuration	biomarker	status	n	responders_n	nonresponders_n	response_fraction	CR_n	PR_n	SD_n	PD_n
+Dual-low	msi_type_pentaplex	MSI	1	1	0	1.0	1	0	0	0
+Dual-low	msi_type_pentaplex	MSS	12	2	10	0.16666666666666666	1	1	4	6
+Fibroblast-dominant	msi_type_pentaplex	MSI	2	1	1	0.5	0	1	0	1
+Fibroblast-dominant	msi_type_pentaplex	MSS	7	0	7	0.0	0	0	4	3
+Macrophage-dominant	msi_type_pentaplex	MSI	3	3	0	1.0	1	2	0	0
+Macrophage-dominant	msi_type_pentaplex	MSS	6	5	1	0.8333333333333334	0	5	0	1
+Dual-high	msi_type_pentaplex	MSI	0	0	0		0	0	0	0
+Dual-high	msi_type_pentaplex	MSS	14	0	14	0.0	0	0	7	7

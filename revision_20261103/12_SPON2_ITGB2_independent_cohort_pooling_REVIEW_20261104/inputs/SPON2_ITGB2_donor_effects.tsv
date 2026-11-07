@@ -1,0 +1,818 @@
+dataset	donor_id	endpoint	category	axis	ring	rho	n_sections	median_spots
+GSE251950_primary	GC1	ITGB2_ECM_degradation_r0	receiver_function		0	0.016294808648029097	1	3760.0
+GSE251950_primary	GC1	ITGB2_ECM_degradation_r1	receiver_function		1	0.1775533796288196	1	3758.0
+GSE251950_primary	GC1	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.052259849084464904	1	3760.0
+GSE251950_primary	GC1	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.18671227369247134	1	3758.0
+GSE251950_primary	GC1	ITGB2_myeloid_migration_r0	receiver_function		0	0.0577755339917995	1	3760.0
+GSE251950_primary	GC1	ITGB2_myeloid_migration_r1	receiver_function		1	0.1988707482774252	1	3758.0
+GSE251950_primary	GC1	ITGB2_phagocytosis_r0	receiver_function		0	0.05586020145297679	1	3760.0
+GSE251950_primary	GC1	ITGB2_phagocytosis_r1	receiver_function		1	0.21312892541239056	1	3758.0
+GSE251950_primary	GC1	SPON2_ITGB2_r1	supporting		1	0.015195750704113598	1	3758.0
+GSE251950_primary	GC1	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0077339945367283	1	3760.0
+GSE251950_primary	GC1	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.00019501849727809997	1	3758.0
+GSE251950_primary	GC1	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	-0.0172603531992962	1	3757.0
+GSE251950_primary	GC1	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.0364619383139409	1	3757.0
+GSE251950_primary	GC1	SPON2_receiver_r1	supporting		1	0.0013340159559584001	1	3758.0
+GSE251950_primary	GC1	SPON2_sender_same	supporting		0	0.0335253926879571	1	3760.0
+GSE251950_primary	GC1	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.0249903401935273	1	3758.0
+GSE251950_primary	GC1	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.013534141357171302	1	3758.0
+GSE251950_primary	GC1	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.0006037158188123	1	3758.0
+GSE251950_primary	GC1	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.00019501849727809997	1	3758.0
+GSE251950_primary	GC2	ITGB2_ECM_degradation_r0	receiver_function		0	0.0368174140072686	1	4128.0
+GSE251950_primary	GC2	ITGB2_ECM_degradation_r1	receiver_function		1	0.0280287024570385	1	4124.0
+GSE251950_primary	GC2	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.019498407183065402	1	4128.0
+GSE251950_primary	GC2	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	-0.029094596420879304	1	4124.0
+GSE251950_primary	GC2	ITGB2_myeloid_migration_r0	receiver_function		0	0.10748211739043298	1	4128.0
+GSE251950_primary	GC2	ITGB2_myeloid_migration_r1	receiver_function		1	0.10693542983471718	1	4124.0
+GSE251950_primary	GC2	ITGB2_phagocytosis_r0	receiver_function		0	0.1482331831197063	1	4128.0
+GSE251950_primary	GC2	ITGB2_phagocytosis_r1	receiver_function		1	0.2422504939493363	1	4124.0
+GSE251950_primary	GC2	SPON2_ITGB2_r1	supporting		1	-0.0007677683962683999	1	4124.0
+GSE251950_primary	GC2	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.007710770113382999	1	4128.0
+GSE251950_primary	GC2	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.008457570446661998	1	4124.0
+GSE251950_primary	GC2	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.008486551775269998	1	4127.0
+GSE251950_primary	GC2	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.013247934609836502	1	4127.0
+GSE251950_primary	GC2	SPON2_receiver_r1	supporting		1	0.0132527991044051	1	4124.0
+GSE251950_primary	GC2	SPON2_sender_same	supporting		0	-0.028710514317043898	1	4128.0
+GSE251950_primary	GC2	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.03462454607392461	1	4124.0
+GSE251950_primary	GC2	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.12142641146807462	1	4124.0
+GSE251950_primary	GC2	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0207759420248226	1	4124.0
+GSE251950_primary	GC2	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.008457570446661998	1	4124.0
+GSE251950_primary	GC3	ITGB2_ECM_degradation_r0	receiver_function		0	0.0335537196499418	1	2803.0
+GSE251950_primary	GC3	ITGB2_ECM_degradation_r1	receiver_function		1	0.1036116604456021	1	2798.0
+GSE251950_primary	GC3	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.11195113356689167	1	2803.0
+GSE251950_primary	GC3	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.19407465887900807	1	2798.0
+GSE251950_primary	GC3	ITGB2_myeloid_migration_r0	receiver_function		0	0.20307883395679657	1	2803.0
+GSE251950_primary	GC3	ITGB2_myeloid_migration_r1	receiver_function		1	0.3069432334647729	1	2798.0
+GSE251950_primary	GC3	ITGB2_phagocytosis_r0	receiver_function		0	0.21976735529107672	1	2803.0
+GSE251950_primary	GC3	ITGB2_phagocytosis_r1	receiver_function		1	0.3558226334788636	1	2798.0
+GSE251950_primary	GC3	SPON2_ITGB2_r1	supporting		1	0.023168463652187703	1	2798.0
+GSE251950_primary	GC3	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0540381569754503	1	2803.0
+GSE251950_primary	GC3	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.038838618863155795	1	2798.0
+GSE251950_primary	GC3	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0522862502053275	1	2799.0
+GSE251950_primary	GC3	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0325580364224149	1	2802.0
+GSE251950_primary	GC3	SPON2_receiver_r1	supporting		1	0.07123135509054959	1	2798.0
+GSE251950_primary	GC3	SPON2_sender_same	supporting		0	0.015222877822508701	1	2803.0
+GSE251950_primary	GC3	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.033882241480287706	1	2798.0
+GSE251950_primary	GC3	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.13009246818911402	1	2798.0
+GSE251950_primary	GC3	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.1180749024677623	1	2798.0
+GSE251950_primary	GC3	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.038838618863155795	1	2798.0
+GSE251950_primary	GC4	ITGB2_ECM_degradation_r0	receiver_function		0	0.05387507481917761	1	3826.0
+GSE251950_primary	GC4	ITGB2_ECM_degradation_r1	receiver_function		1	-0.008673746530806098	1	3816.0
+GSE251950_primary	GC4	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0893495280759619	1	3826.0
+GSE251950_primary	GC4	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.11497784056605061	1	3816.0
+GSE251950_primary	GC4	ITGB2_myeloid_migration_r0	receiver_function		0	0.208035537830779	1	3826.0
+GSE251950_primary	GC4	ITGB2_myeloid_migration_r1	receiver_function		1	0.2685032869687586	1	3816.0
+GSE251950_primary	GC4	ITGB2_phagocytosis_r0	receiver_function		0	0.2798214640421368	1	3826.0
+GSE251950_primary	GC4	ITGB2_phagocytosis_r1	receiver_function		1	0.4003536991559215	1	3816.0
+GSE251950_primary	GC4	SPON2_ITGB2_r1	supporting		1	-0.011756496692423502	1	3816.0
+GSE251950_primary	GC4	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-0.0171396069827941	1	3826.0
+GSE251950_primary	GC4	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0031952256033509	1	3816.0
+GSE251950_primary	GC4	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	-0.0058716413296348	1	3818.0
+GSE251950_primary	GC4	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.017212888689362698	1	3821.0
+GSE251950_primary	GC4	SPON2_receiver_r1	supporting		1	0.012151781416436002	1	3816.0
+GSE251950_primary	GC4	SPON2_sender_same	supporting		0	0.0538096217905507	1	3826.0
+GSE251950_primary	GC4	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.1507081449166915	1	3816.0
+GSE251950_primary	GC4	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.0865987137639402	1	3816.0
+GSE251950_primary	GC4	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.007479125843719	1	3816.0
+GSE251950_primary	GC4	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0031952256033509	1	3816.0
+GSE251950_primary	GC5	ITGB2_ECM_degradation_r0	receiver_function		0	0.0475092170403105	1	3421.0
+GSE251950_primary	GC5	ITGB2_ECM_degradation_r1	receiver_function		1	0.1513998828258818	1	3416.0
+GSE251950_primary	GC5	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0230717342044927	1	3421.0
+GSE251950_primary	GC5	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.0602656518780639	1	3416.0
+GSE251950_primary	GC5	ITGB2_myeloid_migration_r0	receiver_function		0	0.0919801754202837	1	3421.0
+GSE251950_primary	GC5	ITGB2_myeloid_migration_r1	receiver_function		1	0.18952616297774358	1	3416.0
+GSE251950_primary	GC5	ITGB2_phagocytosis_r0	receiver_function		0	0.09491009795747972	1	3421.0
+GSE251950_primary	GC5	ITGB2_phagocytosis_r1	receiver_function		1	0.1604279131106646	1	3416.0
+GSE251950_primary	GC5	SPON2_ITGB2_r1	supporting		1	0.0772722465614217	1	3416.0
+GSE251950_primary	GC5	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.10699728306941779	1	3421.0
+GSE251950_primary	GC5	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.1281174629332793	1	3416.0
+GSE251950_primary	GC5	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.13190815768529981	1	3419.0
+GSE251950_primary	GC5	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.1347128163436584	1	3416.0
+GSE251950_primary	GC5	SPON2_receiver_r1	supporting		1	0.1245755421811946	1	3416.0
+GSE251950_primary	GC5	SPON2_sender_same	supporting		0	0.059835870981914306	1	3421.0
+GSE251950_primary	GC5	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.0449937570615711	1	3416.0
+GSE251950_primary	GC5	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.03678538434947021	1	3416.0
+GSE251950_primary	GC5	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.0819310364405894	1	3416.0
+GSE251950_primary	GC5	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.1281174629332793	1	3416.0
+GSE251950_primary	GC6	ITGB2_ECM_degradation_r0	receiver_function		0	-0.010590695588877002	1	2279.0
+GSE251950_primary	GC6	ITGB2_ECM_degradation_r1	receiver_function		1	0.0873584776555252	1	2275.0
+GSE251950_primary	GC6	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.019215703452366496	1	2279.0
+GSE251950_primary	GC6	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.11886115240199269	1	2275.0
+GSE251950_primary	GC6	ITGB2_myeloid_migration_r0	receiver_function		0	0.10935512273812302	1	2279.0
+GSE251950_primary	GC6	ITGB2_myeloid_migration_r1	receiver_function		1	0.25618258425268997	1	2275.0
+GSE251950_primary	GC6	ITGB2_phagocytosis_r0	receiver_function		0	0.0917397569134009	1	2279.0
+GSE251950_primary	GC6	ITGB2_phagocytosis_r1	receiver_function		1	0.20313368647086497	1	2275.0
+GSE251950_primary	GC6	SPON2_ITGB2_r1	supporting		1	0.0212953953461949	1	2275.0
+GSE251950_primary	GC6	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0032942254965934994	1	2279.0
+GSE251950_primary	GC6	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0332193233925817	1	2275.0
+GSE251950_primary	GC6	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0238762998430733	1	2277.0
+GSE251950_primary	GC6	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0350655968105603	1	2277.0
+GSE251950_primary	GC6	SPON2_receiver_r1	supporting		1	0.0171065869070331	1	2275.0
+GSE251950_primary	GC6	SPON2_sender_same	supporting		0	0.00037540221020900005	1	2279.0
+GSE251950_primary	GC6	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.020391097907015	1	2275.0
+GSE251950_primary	GC6	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.0114369647480575	1	2275.0
+GSE251950_primary	GC6	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0155784345582287	1	2275.0
+GSE251950_primary	GC6	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0332193233925817	1	2275.0
+GSE251950_primary	GC7	ITGB2_ECM_degradation_r0	receiver_function		0	0.0922699405291563	1	1667.0
+GSE251950_primary	GC7	ITGB2_ECM_degradation_r1	receiver_function		1	0.24253665893200504	1	1662.0
+GSE251950_primary	GC7	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0885810617689023	1	1667.0
+GSE251950_primary	GC7	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.2290984805840878	1	1662.0
+GSE251950_primary	GC7	ITGB2_myeloid_migration_r0	receiver_function		0	0.093809891126351	1	1667.0
+GSE251950_primary	GC7	ITGB2_myeloid_migration_r1	receiver_function		1	0.27488134705653655	1	1662.0
+GSE251950_primary	GC7	ITGB2_phagocytosis_r0	receiver_function		0	0.0940681658786788	1	1667.0
+GSE251950_primary	GC7	ITGB2_phagocytosis_r1	receiver_function		1	0.2514167071393549	1	1662.0
+GSE251950_primary	GC7	SPON2_ITGB2_r1	supporting		1	0.024887763187985502	1	1662.0
+GSE251950_primary	GC7	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0088760584934149	1	1667.0
+GSE251950_primary	GC7	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0524389106733506	1	1662.0
+GSE251950_primary	GC7	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0064106074787572	1	1667.0
+GSE251950_primary	GC7	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0536255257993357	1	1667.0
+GSE251950_primary	GC7	SPON2_receiver_r1	supporting		1	0.0699148844222985	1	1662.0
+GSE251950_primary	GC7	SPON2_sender_same	supporting		0	0.05091076014215809	1	1667.0
+GSE251950_primary	GC7	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.0278525792113214	1	1662.0
+GSE251950_primary	GC7	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.029686005816992	1	1662.0
+GSE251950_primary	GC7	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.0125233385861502	1	1662.0
+GSE251950_primary	GC7	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0524389106733506	1	1662.0
+GSE251950_primary	GC8	ITGB2_ECM_degradation_r0	receiver_function		0	0.0380044356054357	1	3030.0
+GSE251950_primary	GC8	ITGB2_ECM_degradation_r1	receiver_function		1	0.1222630330997362	1	3030.0
+GSE251950_primary	GC8	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0136624925812488	1	3030.0
+GSE251950_primary	GC8	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.12500942987153912	1	3030.0
+GSE251950_primary	GC8	ITGB2_myeloid_migration_r0	receiver_function		0	0.0447341117525555	1	3030.0
+GSE251950_primary	GC8	ITGB2_myeloid_migration_r1	receiver_function		1	0.14841374338330704	1	3030.0
+GSE251950_primary	GC8	ITGB2_phagocytosis_r0	receiver_function		0	0.0190971078541515	1	3030.0
+GSE251950_primary	GC8	ITGB2_phagocytosis_r1	receiver_function		1	0.10469067934882911	1	3030.0
+GSE251950_primary	GC8	SPON2_ITGB2_r1	supporting		1	0.055605357870107695	1	3030.0
+GSE251950_primary	GC8	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.025005254733246503	1	3030.0
+GSE251950_primary	GC8	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0756729623343982	1	3030.0
+GSE251950_primary	GC8	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.041416583410970396	1	3030.0
+GSE251950_primary	GC8	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.036478193391102996	1	3030.0
+GSE251950_primary	GC8	SPON2_receiver_r1	supporting		1	0.0764456525242726	1	3030.0
+GSE251950_primary	GC8	SPON2_sender_same	supporting		0	0.026541292757648004	1	3030.0
+GSE251950_primary	GC8	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.07143210466103408	1	3030.0
+GSE251950_primary	GC8	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.0333575629779549	1	3030.0
+GSE251950_primary	GC8	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0112351302951484	1	3030.0
+GSE251950_primary	GC8	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0756729623343982	1	3030.0
+GSE251950_primary	GC9	ITGB2_ECM_degradation_r0	receiver_function		0	0.0114253199779614	1	3465.0
+GSE251950_primary	GC9	ITGB2_ECM_degradation_r1	receiver_function		1	0.029091774238864904	1	3464.0
+GSE251950_primary	GC9	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.04057464162354369	1	3465.0
+GSE251950_primary	GC9	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.09957131775772292	1	3464.0
+GSE251950_primary	GC9	ITGB2_myeloid_migration_r0	receiver_function		0	0.1335403274195989	1	3465.0
+GSE251950_primary	GC9	ITGB2_myeloid_migration_r1	receiver_function		1	0.2402944718070421	1	3464.0
+GSE251950_primary	GC9	ITGB2_phagocytosis_r0	receiver_function		0	0.1906576478797851	1	3465.0
+GSE251950_primary	GC9	ITGB2_phagocytosis_r1	receiver_function		1	0.33198639756063747	1	3464.0
+GSE251950_primary	GC9	SPON2_ITGB2_r1	supporting		1	0.0175596830428483	1	3464.0
+GSE251950_primary	GC9	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0506147472731419	1	3465.0
+GSE251950_primary	GC9	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0691867382055055	1	3464.0
+GSE251950_primary	GC9	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.06968314765528008	1	3464.0
+GSE251950_primary	GC9	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.1021623091267714	1	3464.0
+GSE251950_primary	GC9	SPON2_receiver_r1	supporting		1	0.0892717775764958	1	3464.0
+GSE251950_primary	GC9	SPON2_sender_same	supporting		0	0.0359584092491431	1	3465.0
+GSE251950_primary	GC9	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.11880342622961948	1	3464.0
+GSE251950_primary	GC9	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.0036024661678432006	1	3464.0
+GSE251950_primary	GC9	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.0090932500621029	1	3464.0
+GSE251950_primary	GC9	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0691867382055055	1	3464.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_ECM_degradation_r0	receiver_function		0	0.014438763252405635	2	1682.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_ECM_degradation_r1	receiver_function		1	0.07342913797252423	2	1680.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.020510162686865868	2	1682.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.06701089073816197	2	1680.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_myeloid_migration_r0	receiver_function		0	0.008955155843163686	2	1682.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_myeloid_migration_r1	receiver_function		1	0.07169259078067437	2	1680.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_phagocytosis_r0	receiver_function		0	0.04752363999444519	2	1682.0
+GSE270678_ST_R_sensitivity	D01	ITGB2_phagocytosis_r1	receiver_function		1	0.09723089767692188	2	1680.0
+GSE270678_ST_R_sensitivity	D01	SPON2_ITGB2_r1	supporting		1	0.025070271715670077	2	1680.0
+GSE270678_ST_R_sensitivity	D01	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.04777324866965694	2	1682.0
+GSE270678_ST_R_sensitivity	D01	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.05162934151207881	2	1680.0
+GSE270678_ST_R_sensitivity	D01	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.03517481034690332	2	1681.0
+GSE270678_ST_R_sensitivity	D01	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.041030451219316914	2	1681.5
+GSE270678_ST_R_sensitivity	D01	SPON2_receiver_r1	supporting		1	0.04781164819850105	2	1680.0
+GSE270678_ST_R_sensitivity	D01	SPON2_sender_same	supporting		0	0.045546594590307826	2	1682.0
+GSE270678_ST_R_sensitivity	D01	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.015788880783735058	2	1680.0
+GSE270678_ST_R_sensitivity	D01	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.025422218871887087	2	1680.0
+GSE270678_ST_R_sensitivity	D01	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.012240314830466274	2	1680.0
+GSE270678_ST_R_sensitivity	D01	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.05162934151207881	2	1680.0
+GSE270678_ST_R_sensitivity	D03	ITGB2_ECM_degradation_r0	receiver_function		0	0.0030709453759943106	2	3349.0
+GSE270678_ST_R_sensitivity	D03	ITGB2_ECM_degradation_r1	receiver_function		1	0.09437947021497979	2	3346.5
+GSE270678_ST_R_sensitivity	D03	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.0012205052687563015	2	3349.0
+GSE270678_ST_R_sensitivity	D03	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.1052171832183318	2	3346.5
+GSE270678_ST_R_sensitivity	D03	ITGB2_myeloid_migration_r0	receiver_function		0	-0.0015735581562627216	2	3349.0
+GSE270678_ST_R_sensitivity	D03	ITGB2_myeloid_migration_r1	receiver_function		1	0.10922419725135243	2	3346.5
+GSE270678_ST_R_sensitivity	D03	ITGB2_phagocytosis_r0	receiver_function		0	0.006761230638065782	2	3349.0
+GSE270678_ST_R_sensitivity	D03	ITGB2_phagocytosis_r1	receiver_function		1	0.12288152867578461	2	3346.5
+GSE270678_ST_R_sensitivity	D03	SPON2_ITGB2_r1	supporting		1	0.0025848378666496995	2	3346.5
+GSE270678_ST_R_sensitivity	D03	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-0.0023463000051306693	2	3349.0
+GSE270678_ST_R_sensitivity	D03	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	-0.0024913139477812304	2	3346.5
+GSE270678_ST_R_sensitivity	D03	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0024316052661899983	2	3347.5
+GSE270678_ST_R_sensitivity	D03	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.002083890988629919	2	3349.0
+GSE270678_ST_R_sensitivity	D03	SPON2_receiver_r1	supporting		1	0.0017009296898838522	2	3346.5
+GSE270678_ST_R_sensitivity	D03	SPON2_sender_same	supporting		0	0.007075098858022532	2	3349.0
+GSE270678_ST_R_sensitivity	D03	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.022170043864460073	2	3346.5
+GSE270678_ST_R_sensitivity	D03	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.008844608223543172	2	3346.5
+GSE270678_ST_R_sensitivity	D03	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.01769594856062947	2	3346.5
+GSE270678_ST_R_sensitivity	D03	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	-0.0024913139477812304	2	3346.5
+GSE270678_ST_R_sensitivity	D07	ITGB2_ECM_degradation_r0	receiver_function		0	-0.024528955461853998	1	2077.0
+GSE270678_ST_R_sensitivity	D07	ITGB2_ECM_degradation_r1	receiver_function		1	0.1165791426699637	1	2077.0
+GSE270678_ST_R_sensitivity	D07	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.011364599783001299	1	2077.0
+GSE270678_ST_R_sensitivity	D07	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.0871914612118791	1	2077.0
+GSE270678_ST_R_sensitivity	D07	ITGB2_myeloid_migration_r0	receiver_function		0	0.0292355124523537	1	2077.0
+GSE270678_ST_R_sensitivity	D07	ITGB2_myeloid_migration_r1	receiver_function		1	0.1192978198199934	1	2077.0
+GSE270678_ST_R_sensitivity	D07	ITGB2_phagocytosis_r0	receiver_function		0	-0.0033245062070409006	1	2077.0
+GSE270678_ST_R_sensitivity	D07	ITGB2_phagocytosis_r1	receiver_function		1	0.10210568145098732	1	2077.0
+GSE270678_ST_R_sensitivity	D07	SPON2_ITGB2_r1	supporting		1	0.0095846676392281	1	2077.0
+GSE270678_ST_R_sensitivity	D07	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-0.0028231267226333	1	2077.0
+GSE270678_ST_R_sensitivity	D07	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.029537672533869096	1	2077.0
+GSE270678_ST_R_sensitivity	D07	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0293413570086138	1	2077.0
+GSE270678_ST_R_sensitivity	D07	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0042037935560169	1	2077.0
+GSE270678_ST_R_sensitivity	D07	SPON2_receiver_r1	supporting		1	0.03808536886115509	1	2077.0
+GSE270678_ST_R_sensitivity	D07	SPON2_sender_same	supporting		0	0.024055498175602902	1	2077.0
+GSE270678_ST_R_sensitivity	D07	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.01882538166776	1	2077.0
+GSE270678_ST_R_sensitivity	D07	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0113174308094106	1	2077.0
+GSE270678_ST_R_sensitivity	D07	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0331167222948883	1	2077.0
+GSE270678_ST_R_sensitivity	D07	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.029537672533869096	1	2077.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_ECM_degradation_r0	receiver_function		0	0.0018281265982423697	2	1657.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_ECM_degradation_r1	receiver_function		1	0.0390661180230859	2	1656.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.004449773372295767	2	1657.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.06529012618777316	2	1656.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_myeloid_migration_r0	receiver_function		0	0.012414043121828176	2	1657.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_myeloid_migration_r1	receiver_function		1	0.1301026158926047	2	1656.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_phagocytosis_r0	receiver_function		0	-0.00757108047992757	2	1657.0
+GSE270678_ST_R_sensitivity	D10	ITGB2_phagocytosis_r1	receiver_function		1	0.09351048774352537	2	1656.0
+GSE270678_ST_R_sensitivity	D10	SPON2_ITGB2_r1	supporting		1	0.08140717183720168	2	1656.0
+GSE270678_ST_R_sensitivity	D10	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.029122380716701868	2	1657.0
+GSE270678_ST_R_sensitivity	D10	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.08401919548042819	2	1656.0
+GSE270678_ST_R_sensitivity	D10	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.08743853666602762	2	1657.0
+GSE270678_ST_R_sensitivity	D10	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.05852814166117549	2	1657.0
+GSE270678_ST_R_sensitivity	D10	SPON2_receiver_r1	supporting		1	0.05287920343207638	2	1656.0
+GSE270678_ST_R_sensitivity	D10	SPON2_sender_same	supporting		0	0.014693847581936996	2	1657.0
+GSE270678_ST_R_sensitivity	D10	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.003965092380179101	2	1656.0
+GSE270678_ST_R_sensitivity	D10	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.04106049232548595	2	1656.0
+GSE270678_ST_R_sensitivity	D10	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.004795691626964794	2	1656.0
+GSE270678_ST_R_sensitivity	D10	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.08401919548042819	2	1656.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_ECM_degradation_r0	receiver_function		0	0.0015083076656809092	4	1894.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_ECM_degradation_r1	receiver_function		1	0.06048621580280113	4	1894.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0006892835498959381	4	1894.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.07281692585963465	4	1894.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_myeloid_migration_r0	receiver_function		0	0.0085512198236311	4	1894.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_myeloid_migration_r1	receiver_function		1	0.09514469022696402	4	1894.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_phagocytosis_r0	receiver_function		0	0.003229659394041358	4	1894.0
+GSE270678_ST_R_sensitivity	D11	ITGB2_phagocytosis_r1	receiver_function		1	0.08660570811412685	4	1894.0
+GSE270678_ST_R_sensitivity	D11	SPON2_ITGB2_r1	supporting		1	-0.0035709480183708626	4	1894.0
+GSE270678_ST_R_sensitivity	D11	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.003960768384422035	4	1894.0
+GSE270678_ST_R_sensitivity	D11	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	-0.0003113169659497111	4	1894.0
+GSE270678_ST_R_sensitivity	D11	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0014869947167528168	4	1894.0
+GSE270678_ST_R_sensitivity	D11	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.008930340037651172	4	1894.0
+GSE270678_ST_R_sensitivity	D11	SPON2_receiver_r1	supporting		1	0.0011846540264520643	4	1894.0
+GSE270678_ST_R_sensitivity	D11	SPON2_sender_same	supporting		0	0.005306983349710119	4	1894.0
+GSE270678_ST_R_sensitivity	D11	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-7.027243890314295e-05	4	1894.0
+GSE270678_ST_R_sensitivity	D11	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.013678858837538705	4	1894.0
+GSE270678_ST_R_sensitivity	D11	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.0033451739716914178	4	1894.0
+GSE270678_ST_R_sensitivity	D11	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	-0.0003113169659497111	4	1894.0
+GSE270678_ST_R_sensitivity	D15	ITGB2_ECM_degradation_r0	receiver_function		0	0.02791681825609767	2	2241.5
+GSE270678_ST_R_sensitivity	D15	ITGB2_ECM_degradation_r1	receiver_function		1	0.1863303655918605	2	2241.0
+GSE270678_ST_R_sensitivity	D15	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0331524507454013	2	2241.5
+GSE270678_ST_R_sensitivity	D15	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.2112361228201148	2	2241.0
+GSE270678_ST_R_sensitivity	D15	ITGB2_myeloid_migration_r0	receiver_function		0	0.0013991284222441337	2	2241.5
+GSE270678_ST_R_sensitivity	D15	ITGB2_myeloid_migration_r1	receiver_function		1	0.16086197802973157	2	2241.0
+GSE270678_ST_R_sensitivity	D15	ITGB2_phagocytosis_r0	receiver_function		0	0.02041266026699495	2	2241.5
+GSE270678_ST_R_sensitivity	D15	ITGB2_phagocytosis_r1	receiver_function		1	0.18066924676123827	2	2241.0
+GSE270678_ST_R_sensitivity	D15	SPON2_ITGB2_r1	supporting		1	-0.006765202249731306	2	2241.0
+GSE270678_ST_R_sensitivity	D15	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-4.649968626418338e-05	2	2241.5
+GSE270678_ST_R_sensitivity	D15	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	-0.009677246581921914	2	2241.0
+GSE270678_ST_R_sensitivity	D15	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	-0.021759986736844036	2	2241.5
+GSE270678_ST_R_sensitivity	D15	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.027357929378755343	2	2241.5
+GSE270678_ST_R_sensitivity	D15	SPON2_receiver_r1	supporting		1	-0.005236880777061588	2	2241.0
+GSE270678_ST_R_sensitivity	D15	SPON2_sender_same	supporting		0	0.006644187625487929	2	2241.5
+GSE270678_ST_R_sensitivity	D15	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.02163298190026101	2	2241.0
+GSE270678_ST_R_sensitivity	D15	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.011039575664226545	2	2241.0
+GSE270678_ST_R_sensitivity	D15	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.022264301222322473	2	2241.0
+GSE270678_ST_R_sensitivity	D15	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	-0.009677246581921914	2	2241.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_ECM_degradation_r0	receiver_function		0	-0.01068257309675448	4	1282.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_ECM_degradation_r1	receiver_function		1	0.08151302928115939	4	1281.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.013980438157721205	4	1282.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.11283689465140874	4	1281.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_myeloid_migration_r0	receiver_function		0	0.012563077939365331	4	1282.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_myeloid_migration_r1	receiver_function		1	0.12236020965255348	4	1281.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_phagocytosis_r0	receiver_function		0	0.014555834908109036	4	1282.0
+GSE270678_ST_R_sensitivity	D16	ITGB2_phagocytosis_r1	receiver_function		1	0.10465489141424963	4	1281.0
+GSE270678_ST_R_sensitivity	D16	SPON2_ITGB2_r1	supporting		1	0.021193369628437313	4	1281.0
+GSE270678_ST_R_sensitivity	D16	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.03565534708005479	4	1282.0
+GSE270678_ST_R_sensitivity	D16	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0595778477037431	4	1281.0
+GSE270678_ST_R_sensitivity	D16	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.014657055917122162	4	1281.0
+GSE270678_ST_R_sensitivity	D16	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0364016795497363	4	1281.5
+GSE270678_ST_R_sensitivity	D16	SPON2_receiver_r1	supporting		1	0.06241288486392032	4	1281.0
+GSE270678_ST_R_sensitivity	D16	SPON2_sender_same	supporting		0	0.02020665294293294	4	1282.0
+GSE270678_ST_R_sensitivity	D16	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.02005908284549971	4	1281.0
+GSE270678_ST_R_sensitivity	D16	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0447158604829907	4	1281.0
+GSE270678_ST_R_sensitivity	D16	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.01012723885443928	4	1281.0
+GSE270678_ST_R_sensitivity	D16	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0595778477037431	4	1281.0
+GSE270678_ST_R_sensitivity	D18	ITGB2_ECM_degradation_r0	receiver_function		0	-0.005871477986470271	2	2580.5
+GSE270678_ST_R_sensitivity	D18	ITGB2_ECM_degradation_r1	receiver_function		1	0.07719057018580294	2	2574.0
+GSE270678_ST_R_sensitivity	D18	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.006014304645567075	2	2580.5
+GSE270678_ST_R_sensitivity	D18	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.09903166313605453	2	2574.0
+GSE270678_ST_R_sensitivity	D18	ITGB2_myeloid_migration_r0	receiver_function		0	0.05122260657121564	2	2580.5
+GSE270678_ST_R_sensitivity	D18	ITGB2_myeloid_migration_r1	receiver_function		1	0.13921400904735004	2	2574.0
+GSE270678_ST_R_sensitivity	D18	ITGB2_phagocytosis_r0	receiver_function		0	0.029754673025125366	2	2580.5
+GSE270678_ST_R_sensitivity	D18	ITGB2_phagocytosis_r1	receiver_function		1	0.14248135154982836	2	2574.0
+GSE270678_ST_R_sensitivity	D18	SPON2_ITGB2_r1	supporting		1	0.019609882203100858	2	2574.0
+GSE270678_ST_R_sensitivity	D18	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.00032308878209032444	2	2580.5
+GSE270678_ST_R_sensitivity	D18	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.014916336733013704	2	2574.0
+GSE270678_ST_R_sensitivity	D18	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.010966231900271127	2	2578.0
+GSE270678_ST_R_sensitivity	D18	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.0004375490827911256	2	2579.0
+GSE270678_ST_R_sensitivity	D18	SPON2_receiver_r1	supporting		1	0.004881160194295233	2	2574.0
+GSE270678_ST_R_sensitivity	D18	SPON2_sender_same	supporting		0	-0.002733648854069766	2	2580.5
+GSE270678_ST_R_sensitivity	D18	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.001828897159784151	2	2574.0
+GSE270678_ST_R_sensitivity	D18	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0033376383250435697	2	2574.0
+GSE270678_ST_R_sensitivity	D18	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.0020563316506208664	2	2574.0
+GSE270678_ST_R_sensitivity	D18	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.014916336733013704	2	2574.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_ECM_degradation_r0	receiver_function		0	-0.025840572770866245	2	1926.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_ECM_degradation_r1	receiver_function		1	0.04364399298714422	2	1926.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.008799159311078268	2	1926.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.08295628199360902	2	1926.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_myeloid_migration_r0	receiver_function		0	0.011506565346491339	2	1926.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_myeloid_migration_r1	receiver_function		1	0.09807301461036969	2	1926.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_phagocytosis_r0	receiver_function		0	0.04278288379320857	2	1926.0
+GSE270678_ST_R_sensitivity	D20	ITGB2_phagocytosis_r1	receiver_function		1	0.15641680316340867	2	1926.0
+GSE270678_ST_R_sensitivity	D20	SPON2_ITGB2_r1	supporting		1	-0.006147581601235114	2	1926.0
+GSE270678_ST_R_sensitivity	D20	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.013060423521443794	2	1926.0
+GSE270678_ST_R_sensitivity	D20	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.004900148622689842	2	1926.0
+GSE270678_ST_R_sensitivity	D20	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.018359492741308343	2	1926.0
+GSE270678_ST_R_sensitivity	D20	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.029799837727109386	2	1926.0
+GSE270678_ST_R_sensitivity	D20	SPON2_receiver_r1	supporting		1	0.012300266859614892	2	1926.0
+GSE270678_ST_R_sensitivity	D20	SPON2_sender_same	supporting		0	0.0052873072324515534	2	1926.0
+GSE270678_ST_R_sensitivity	D20	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.0070644689453093455	2	1926.0
+GSE270678_ST_R_sensitivity	D20	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0218363978417739	2	1926.0
+GSE270678_ST_R_sensitivity	D20	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.009827877662056332	2	1926.0
+GSE270678_ST_R_sensitivity	D20	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.004900148622689842	2	1926.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_ECM_degradation_r0	receiver_function		0	0.009342647349541629	4	1519.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_ECM_degradation_r1	receiver_function		1	0.12121205260151838	4	1519.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.03391210879534561	4	1519.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.16734668695396132	4	1519.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_myeloid_migration_r0	receiver_function		0	0.03135524411693621	4	1519.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_myeloid_migration_r1	receiver_function		1	0.1566959608132557	4	1519.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_phagocytosis_r0	receiver_function		0	0.008936172292828148	4	1519.0
+GSE270678_ST_R_sensitivity	D21	ITGB2_phagocytosis_r1	receiver_function		1	0.16782745677767935	4	1519.0
+GSE270678_ST_R_sensitivity	D21	SPON2_ITGB2_r1	supporting		1	-0.015928493870026223	4	1519.0
+GSE270678_ST_R_sensitivity	D21	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.02423301956327609	4	1519.0
+GSE270678_ST_R_sensitivity	D21	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	-0.01075421895497004	4	1519.0
+GSE270678_ST_R_sensitivity	D21	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	-0.010103008438931485	4	1519.0
+GSE270678_ST_R_sensitivity	D21	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.017279917685060802	4	1519.0
+GSE270678_ST_R_sensitivity	D21	SPON2_receiver_r1	supporting		1	-0.003235255438950676	4	1519.0
+GSE270678_ST_R_sensitivity	D21	SPON2_sender_same	supporting		0	-0.004385183577668255	4	1519.0
+GSE270678_ST_R_sensitivity	D21	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.013807345143550089	4	1519.0
+GSE270678_ST_R_sensitivity	D21	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0027299420992222705	4	1519.0
+GSE270678_ST_R_sensitivity	D21	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.004087874079723297	4	1519.0
+GSE270678_ST_R_sensitivity	D21	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	-0.01075421895497004	4	1519.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_ECM_degradation_r0	receiver_function		0	0.0199215676460506	1	1991.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_ECM_degradation_r1	receiver_function		1	0.20818922708867627	1	1981.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.0064185064896266	1	1991.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.164627853964783	1	1981.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_myeloid_migration_r0	receiver_function		0	0.03432278255874469	1	1991.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_myeloid_migration_r1	receiver_function		1	0.17752956793609612	1	1981.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_phagocytosis_r0	receiver_function		0	-0.016773206747344803	1	1991.0
+GSE270678_ST_R_sensitivity	D23	ITGB2_phagocytosis_r1	receiver_function		1	0.1284708340866065	1	1981.0
+GSE270678_ST_R_sensitivity	D23	SPON2_ITGB2_r1	supporting		1	0.0004886215876066	1	1981.0
+GSE270678_ST_R_sensitivity	D23	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0381518543393175	1	1991.0
+GSE270678_ST_R_sensitivity	D23	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0084075979171784	1	1981.0
+GSE270678_ST_R_sensitivity	D23	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0031861639541777	1	1988.0
+GSE270678_ST_R_sensitivity	D23	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.018346203059594304	1	1988.0
+GSE270678_ST_R_sensitivity	D23	SPON2_receiver_r1	supporting		1	0.006705899712985701	1	1981.0
+GSE270678_ST_R_sensitivity	D23	SPON2_sender_same	supporting		0	0.03942852359897699	1	1991.0
+GSE270678_ST_R_sensitivity	D23	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.00016035302898650004	1	1981.0
+GSE270678_ST_R_sensitivity	D23	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.057367643693751295	1	1981.0
+GSE270678_ST_R_sensitivity	D23	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0290530083623403	1	1981.0
+GSE270678_ST_R_sensitivity	D23	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0084075979171784	1	1981.0
+GSE270678_ST_R_sensitivity	D24	ITGB2_ECM_degradation_r0	receiver_function		0	-0.0008897002962620658	2	3329.5
+GSE270678_ST_R_sensitivity	D24	ITGB2_ECM_degradation_r1	receiver_function		1	0.04556274158719914	2	3321.0
+GSE270678_ST_R_sensitivity	D24	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.017019107132655028	2	3329.5
+GSE270678_ST_R_sensitivity	D24	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.07122077186607396	2	3321.0
+GSE270678_ST_R_sensitivity	D24	ITGB2_myeloid_migration_r0	receiver_function		0	0.0230159632754961	2	3329.5
+GSE270678_ST_R_sensitivity	D24	ITGB2_myeloid_migration_r1	receiver_function		1	0.06982897235227033	2	3321.0
+GSE270678_ST_R_sensitivity	D24	ITGB2_phagocytosis_r0	receiver_function		0	0.010747161077406428	2	3329.5
+GSE270678_ST_R_sensitivity	D24	ITGB2_phagocytosis_r1	receiver_function		1	0.07237859554895157	2	3321.0
+GSE270678_ST_R_sensitivity	D24	SPON2_ITGB2_r1	supporting		1	0.014974346559834439	2	3321.0
+GSE270678_ST_R_sensitivity	D24	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.02437081742753183	2	3329.5
+GSE270678_ST_R_sensitivity	D24	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.02298918691231879	2	3321.0
+GSE270678_ST_R_sensitivity	D24	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	-0.0034326475514961188	2	3326.5
+GSE270678_ST_R_sensitivity	D24	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.02892306282974094	2	3328.0
+GSE270678_ST_R_sensitivity	D24	SPON2_receiver_r1	supporting		1	0.022125192698585174	2	3321.0
+GSE270678_ST_R_sensitivity	D24	SPON2_sender_same	supporting		0	0.01640477041095354	2	3329.5
+GSE270678_ST_R_sensitivity	D24	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.020789123932433266	2	3321.0
+GSE270678_ST_R_sensitivity	D24	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.01522225215298595	2	3321.0
+GSE270678_ST_R_sensitivity	D24	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.024407756030311	2	3321.0
+GSE270678_ST_R_sensitivity	D24	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.02298918691231879	2	3321.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_ECM_degradation_r0	receiver_function		0	-0.0012321487128185103	3	3473.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_ECM_degradation_r1	receiver_function		1	0.12868429910607504	3	3471.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.003158473292619514	3	3473.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.14173314689175232	3	3471.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_myeloid_migration_r0	receiver_function		0	0.017080972384595314	3	3473.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_myeloid_migration_r1	receiver_function		1	0.15639871106574202	3	3471.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_phagocytosis_r0	receiver_function		0	0.007191023004333668	3	3473.0
+GSE270678_ST_R_sensitivity	D26	ITGB2_phagocytosis_r1	receiver_function		1	0.1484663112100409	3	3471.0
+GSE270678_ST_R_sensitivity	D26	SPON2_ITGB2_r1	supporting		1	-0.00765486413127611	3	3471.0
+GSE270678_ST_R_sensitivity	D26	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.00899622512731179	3	3473.0
+GSE270678_ST_R_sensitivity	D26	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	-0.012099032694200738	3	3471.0
+GSE270678_ST_R_sensitivity	D26	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.01857493210814751	3	3473.0
+GSE270678_ST_R_sensitivity	D26	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0263005698384449	3	3473.0
+GSE270678_ST_R_sensitivity	D26	SPON2_receiver_r1	supporting		1	-0.005232768440049468	3	3471.0
+GSE270678_ST_R_sensitivity	D26	SPON2_sender_same	supporting		0	0.005599192878704517	3	3473.0
+GSE270678_ST_R_sensitivity	D26	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.003744379714607686	3	3471.0
+GSE270678_ST_R_sensitivity	D26	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.015624590178830135	3	3471.0
+GSE270678_ST_R_sensitivity	D26	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.011142421896703341	3	3471.0
+GSE270678_ST_R_sensitivity	D26	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	-0.012099032694200738	3	3471.0
+GSE270678_ST_R_sensitivity	D27	ITGB2_ECM_degradation_r0	receiver_function		0	0.018937704784439836	4	2936.0
+GSE270678_ST_R_sensitivity	D27	ITGB2_ECM_degradation_r1	receiver_function		1	0.12480383789201094	4	2929.5
+GSE270678_ST_R_sensitivity	D27	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.012747700359021844	4	2936.0
+GSE270678_ST_R_sensitivity	D27	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.11405903922379226	4	2929.5
+GSE270678_ST_R_sensitivity	D27	ITGB2_myeloid_migration_r0	receiver_function		0	0.002191714765753159	4	2936.0
+GSE270678_ST_R_sensitivity	D27	ITGB2_myeloid_migration_r1	receiver_function		1	0.10312768449866487	4	2929.5
+GSE270678_ST_R_sensitivity	D27	ITGB2_phagocytosis_r0	receiver_function		0	0.017799250979643466	4	2936.0
+GSE270678_ST_R_sensitivity	D27	ITGB2_phagocytosis_r1	receiver_function		1	0.10739026908906582	4	2929.5
+GSE270678_ST_R_sensitivity	D27	SPON2_ITGB2_r1	supporting		1	-0.01028629534777267	4	2929.5
+GSE270678_ST_R_sensitivity	D27	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.021338575041009354	4	2936.0
+GSE270678_ST_R_sensitivity	D27	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.009107685685267129	4	2929.5
+GSE270678_ST_R_sensitivity	D27	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.006093843794323142	4	2930.5
+GSE270678_ST_R_sensitivity	D27	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.003996400858215427	4	2930.5
+GSE270678_ST_R_sensitivity	D27	SPON2_receiver_r1	supporting		1	0.018315700968716524	4	2929.5
+GSE270678_ST_R_sensitivity	D27	SPON2_sender_same	supporting		0	0.018763705354201674	4	2936.0
+GSE270678_ST_R_sensitivity	D27	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.019915046826855947	4	2929.5
+GSE270678_ST_R_sensitivity	D27	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.007441789876004521	4	2929.5
+GSE270678_ST_R_sensitivity	D27	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.005813125401329316	4	2929.5
+GSE270678_ST_R_sensitivity	D27	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.009107685685267129	4	2929.5
+GSE270678_ST_R_sensitivity	D28	ITGB2_ECM_degradation_r0	receiver_function		0	-0.010732206804396198	1	1581.0
+GSE270678_ST_R_sensitivity	D28	ITGB2_ECM_degradation_r1	receiver_function		1	0.15552503995662192	1	1575.0
+GSE270678_ST_R_sensitivity	D28	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.031503970519319	1	1581.0
+GSE270678_ST_R_sensitivity	D28	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.1688490924886319	1	1575.0
+GSE270678_ST_R_sensitivity	D28	ITGB2_myeloid_migration_r0	receiver_function		0	0.018747459767021305	1	1581.0
+GSE270678_ST_R_sensitivity	D28	ITGB2_myeloid_migration_r1	receiver_function		1	0.1655477146127989	1	1575.0
+GSE270678_ST_R_sensitivity	D28	ITGB2_phagocytosis_r0	receiver_function		0	0.07025110296370798	1	1581.0
+GSE270678_ST_R_sensitivity	D28	ITGB2_phagocytosis_r1	receiver_function		1	0.1731034858344107	1	1575.0
+GSE270678_ST_R_sensitivity	D28	SPON2_ITGB2_r1	supporting		1	0.008250076141060802	1	1575.0
+GSE270678_ST_R_sensitivity	D28	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0301995611593724	1	1581.0
+GSE270678_ST_R_sensitivity	D28	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.04066105553978291	1	1575.0
+GSE270678_ST_R_sensitivity	D28	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	4.218615547350537e-05	1	1573.0
+GSE270678_ST_R_sensitivity	D28	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.031219692770716696	1	1577.0
+GSE270678_ST_R_sensitivity	D28	SPON2_receiver_r1	supporting		1	0.0484167163020297	1	1575.0
+GSE270678_ST_R_sensitivity	D28	SPON2_sender_same	supporting		0	0.031219619291926102	1	1581.0
+GSE270678_ST_R_sensitivity	D28	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.004260660040528199	1	1575.0
+GSE270678_ST_R_sensitivity	D28	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.035892796414595	1	1575.0
+GSE270678_ST_R_sensitivity	D28	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.03259290097136539	1	1575.0
+GSE270678_ST_R_sensitivity	D28	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.04066105553978291	1	1575.0
+GSE270678_main_ST	D01	ITGB2_ECM_degradation_r0	receiver_function		0	0.017849616030776495	2	1399.0
+GSE270678_main_ST	D01	ITGB2_ECM_degradation_r1	receiver_function		1	0.021167482492571492	2	1398.0
+GSE270678_main_ST	D01	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0010263115547398311	2	1399.0
+GSE270678_main_ST	D01	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.020570227763604267	2	1398.0
+GSE270678_main_ST	D01	ITGB2_myeloid_migration_r0	receiver_function		0	0.01392050351891995	2	1399.0
+GSE270678_main_ST	D01	ITGB2_myeloid_migration_r1	receiver_function		1	0.03639481461973151	2	1398.0
+GSE270678_main_ST	D01	ITGB2_phagocytosis_r0	receiver_function		0	0.009050486320923132	2	1399.0
+GSE270678_main_ST	D01	ITGB2_phagocytosis_r1	receiver_function		1	0.02866219932142159	2	1398.0
+GSE270678_main_ST	D01	SPON2_ITGB2_r1	supporting		1	0.009708337758433265	2	1398.0
+GSE270678_main_ST	D01	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-0.006279642183659055	2	1399.0
+GSE270678_main_ST	D01	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.005404128548251313	2	1398.0
+GSE270678_main_ST	D01	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.02552538303589731	2	1399.0
+GSE270678_main_ST	D01	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.009805426980170832	2	1399.0
+GSE270678_main_ST	D01	SPON2_receiver_r1	supporting		1	0.0062737203985074805	2	1398.0
+GSE270678_main_ST	D01	SPON2_sender_same	supporting		0	0.01771589195936099	2	1399.0
+GSE270678_main_ST	D01	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.025134883060320252	2	1398.0
+GSE270678_main_ST	D01	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.03891072680748506	2	1398.0
+GSE270678_main_ST	D01	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.006930031577779037	2	1398.0
+GSE270678_main_ST	D01	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.005404128548251313	2	1398.0
+GSE270678_main_ST	D02	ITGB2_ECM_degradation_r0	receiver_function		0	0.03685465756568291	2	1436.0
+GSE270678_main_ST	D02	ITGB2_ECM_degradation_r1	receiver_function		1	0.06875536052900959	2	1434.5
+GSE270678_main_ST	D02	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.0009817345686008116	2	1436.0
+GSE270678_main_ST	D02	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.01572977228969776	2	1434.5
+GSE270678_main_ST	D02	ITGB2_myeloid_migration_r0	receiver_function		0	0.07436118098553339	2	1436.0
+GSE270678_main_ST	D02	ITGB2_myeloid_migration_r1	receiver_function		1	0.08215078116550412	2	1434.5
+GSE270678_main_ST	D02	ITGB2_phagocytosis_r0	receiver_function		0	0.12059271649028064	2	1436.0
+GSE270678_main_ST	D02	ITGB2_phagocytosis_r1	receiver_function		1	0.11474713858093821	2	1434.5
+GSE270678_main_ST	D02	SPON2_ITGB2_r1	supporting		1	-0.010932503056558485	2	1434.5
+GSE270678_main_ST	D02	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.052744430839059775	2	1436.0
+GSE270678_main_ST	D02	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.018042686108787457	2	1434.5
+GSE270678_main_ST	D02	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.039441619721489844	2	1435.5
+GSE270678_main_ST	D02	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.006070959403280196	2	1434.5
+GSE270678_main_ST	D02	SPON2_receiver_r1	supporting		1	0.038860542090138804	2	1434.5
+GSE270678_main_ST	D02	SPON2_sender_same	supporting		0	0.052749929964503194	2	1436.0
+GSE270678_main_ST	D02	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.019088963296962684	2	1434.5
+GSE270678_main_ST	D02	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.05136595862467062	2	1434.5
+GSE270678_main_ST	D02	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.0007292240604161026	2	1434.5
+GSE270678_main_ST	D02	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.018042686108787457	2	1434.5
+GSE270678_main_ST	D03	ITGB2_ECM_degradation_r0	receiver_function		0	-0.00576285482550478	2	2239.5
+GSE270678_main_ST	D03	ITGB2_ECM_degradation_r1	receiver_function		1	0.008450023900677063	2	2237.0
+GSE270678_main_ST	D03	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0180042279435527	2	2239.5
+GSE270678_main_ST	D03	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.04101407782544063	2	2237.0
+GSE270678_main_ST	D03	ITGB2_myeloid_migration_r0	receiver_function		0	0.09345861301587748	2	2239.5
+GSE270678_main_ST	D03	ITGB2_myeloid_migration_r1	receiver_function		1	0.16014844615627866	2	2237.0
+GSE270678_main_ST	D03	ITGB2_phagocytosis_r0	receiver_function		0	0.09843225832422636	2	2239.5
+GSE270678_main_ST	D03	ITGB2_phagocytosis_r1	receiver_function		1	0.2018189503124561	2	2237.0
+GSE270678_main_ST	D03	SPON2_ITGB2_r1	supporting		1	0.009592850320830045	2	2237.0
+GSE270678_main_ST	D03	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.042991030096183123	2	2239.5
+GSE270678_main_ST	D03	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.03347033772564181	2	2237.0
+GSE270678_main_ST	D03	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.016737777008240813	2	2238.0
+GSE270678_main_ST	D03	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.019996454104482805	2	2239.0
+GSE270678_main_ST	D03	SPON2_receiver_r1	supporting		1	0.03516590315434542	2	2237.0
+GSE270678_main_ST	D03	SPON2_sender_same	supporting		0	0.033966816158341025	2	2239.5
+GSE270678_main_ST	D03	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.024485341234261833	2	2237.0
+GSE270678_main_ST	D03	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.02546882910874383	2	2237.0
+GSE270678_main_ST	D03	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.016226257443702284	2	2237.0
+GSE270678_main_ST	D03	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.03347033772564181	2	2237.0
+GSE270678_main_ST	D07	ITGB2_ECM_degradation_r0	receiver_function		0	-0.03731327306545519	1	1786.0
+GSE270678_main_ST	D07	ITGB2_ECM_degradation_r1	receiver_function		1	0.10618268075284851	1	1786.0
+GSE270678_main_ST	D07	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.022205626210916495	1	1786.0
+GSE270678_main_ST	D07	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.0795964490028581	1	1786.0
+GSE270678_main_ST	D07	ITGB2_myeloid_migration_r0	receiver_function		0	-0.03528462686133501	1	1786.0
+GSE270678_main_ST	D07	ITGB2_myeloid_migration_r1	receiver_function		1	0.083065979387085	1	1786.0
+GSE270678_main_ST	D07	ITGB2_phagocytosis_r0	receiver_function		0	-0.012423060937169002	1	1786.0
+GSE270678_main_ST	D07	ITGB2_phagocytosis_r1	receiver_function		1	0.1197465811480765	1	1786.0
+GSE270678_main_ST	D07	SPON2_ITGB2_r1	supporting		1	-0.0049494743675695	1	1786.0
+GSE270678_main_ST	D07	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.004142033144173501	1	1786.0
+GSE270678_main_ST	D07	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.006467856905561401	1	1786.0
+GSE270678_main_ST	D07	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0187381540042731	1	1786.0
+GSE270678_main_ST	D07	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.015101543677472897	1	1786.0
+GSE270678_main_ST	D07	SPON2_receiver_r1	supporting		1	0.0230226399701802	1	1786.0
+GSE270678_main_ST	D07	SPON2_sender_same	supporting		0	0.0288678549245125	1	1786.0
+GSE270678_main_ST	D07	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.0019789621853224	1	1786.0
+GSE270678_main_ST	D07	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.011986538897079398	1	1786.0
+GSE270678_main_ST	D07	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.004174079259400399	1	1786.0
+GSE270678_main_ST	D07	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.006467856905561401	1	1786.0
+GSE270678_main_ST	D09	ITGB2_ECM_degradation_r0	receiver_function		0	0.014928508105512323	2	1524.5
+GSE270678_main_ST	D09	ITGB2_ECM_degradation_r1	receiver_function		1	-0.005167116279131547	2	1524.0
+GSE270678_main_ST	D09	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.004813600928141444	2	1524.5
+GSE270678_main_ST	D09	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	-0.021125449400748123	2	1524.0
+GSE270678_main_ST	D09	ITGB2_myeloid_migration_r0	receiver_function		0	0.06069969064261875	2	1524.5
+GSE270678_main_ST	D09	ITGB2_myeloid_migration_r1	receiver_function		1	0.1676561125781673	2	1524.0
+GSE270678_main_ST	D09	ITGB2_phagocytosis_r0	receiver_function		0	0.06197388159243877	2	1524.5
+GSE270678_main_ST	D09	ITGB2_phagocytosis_r1	receiver_function		1	0.12143406478344317	2	1524.0
+GSE270678_main_ST	D09	SPON2_ITGB2_r1	supporting		1	0.01275174561309965	2	1524.0
+GSE270678_main_ST	D09	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.052556914717469136	2	1524.5
+GSE270678_main_ST	D09	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.07070330569875373	2	1524.0
+GSE270678_main_ST	D09	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.055579408535441695	2	1524.5
+GSE270678_main_ST	D09	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.03853011038008056	2	1524.5
+GSE270678_main_ST	D09	SPON2_receiver_r1	supporting		1	0.075578303822453	2	1524.0
+GSE270678_main_ST	D09	SPON2_sender_same	supporting		0	0.010863977988682027	2	1524.5
+GSE270678_main_ST	D09	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.022679491544699594	2	1524.0
+GSE270678_main_ST	D09	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.032549866206192914	2	1524.0
+GSE270678_main_ST	D09	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.01635895101979975	2	1524.0
+GSE270678_main_ST	D09	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.07070330569875373	2	1524.0
+GSE270678_main_ST	D10	ITGB2_ECM_degradation_r0	receiver_function		0	0.0196338053578687	1	2500.0
+GSE270678_main_ST	D10	ITGB2_ECM_degradation_r1	receiver_function		1	0.0731857119534243	1	2499.0
+GSE270678_main_ST	D10	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0046187392338632	1	2500.0
+GSE270678_main_ST	D10	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.043900154266115	1	2499.0
+GSE270678_main_ST	D10	ITGB2_myeloid_migration_r0	receiver_function		0	0.0620380040467642	1	2500.0
+GSE270678_main_ST	D10	ITGB2_myeloid_migration_r1	receiver_function		1	0.1286838223024178	1	2499.0
+GSE270678_main_ST	D10	ITGB2_phagocytosis_r0	receiver_function		0	0.0595884990204909	1	2500.0
+GSE270678_main_ST	D10	ITGB2_phagocytosis_r1	receiver_function		1	0.122593567705077	1	2499.0
+GSE270678_main_ST	D10	SPON2_ITGB2_r1	supporting		1	-0.017390465278093202	1	2499.0
+GSE270678_main_ST	D10	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.014988327236586201	1	2500.0
+GSE270678_main_ST	D10	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0066497649156383	1	2499.0
+GSE270678_main_ST	D10	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0009070611293534	1	2497.0
+GSE270678_main_ST	D10	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0039894716028187	1	2495.0
+GSE270678_main_ST	D10	SPON2_receiver_r1	supporting		1	0.0212991762939747	1	2499.0
+GSE270678_main_ST	D10	SPON2_sender_same	supporting		0	0.015099084146337798	1	2500.0
+GSE270678_main_ST	D10	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.05256775287604791	1	2499.0
+GSE270678_main_ST	D10	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.0196215475464039	1	2499.0
+GSE270678_main_ST	D10	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0078525075134701	1	2499.0
+GSE270678_main_ST	D10	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0066497649156383	1	2499.0
+GSE270678_main_ST	D11	ITGB2_ECM_degradation_r0	receiver_function		0	0.015069785018170273	2	1702.5
+GSE270678_main_ST	D11	ITGB2_ECM_degradation_r1	receiver_function		1	-0.014411126397676796	2	1701.5
+GSE270678_main_ST	D11	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.009204339807975944	2	1702.5
+GSE270678_main_ST	D11	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.02167695894961493	2	1701.5
+GSE270678_main_ST	D11	ITGB2_myeloid_migration_r0	receiver_function		0	0.016848869907785672	2	1702.5
+GSE270678_main_ST	D11	ITGB2_myeloid_migration_r1	receiver_function		1	0.052883702414212384	2	1701.5
+GSE270678_main_ST	D11	ITGB2_phagocytosis_r0	receiver_function		0	0.0360665930133454	2	1702.5
+GSE270678_main_ST	D11	ITGB2_phagocytosis_r1	receiver_function		1	0.10294401748926499	2	1701.5
+GSE270678_main_ST	D11	SPON2_ITGB2_r1	supporting		1	0.00882113674144464	2	1701.5
+GSE270678_main_ST	D11	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-0.004014679704034742	2	1702.5
+GSE270678_main_ST	D11	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.011232116170020774	2	1701.5
+GSE270678_main_ST	D11	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.023739803403411724	2	1702.5
+GSE270678_main_ST	D11	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.000954873325578495	2	1702.5
+GSE270678_main_ST	D11	SPON2_receiver_r1	supporting		1	0.001469372532329487	2	1701.5
+GSE270678_main_ST	D11	SPON2_sender_same	supporting		0	0.007342684897557945	2	1702.5
+GSE270678_main_ST	D11	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.03992185467127473	2	1701.5
+GSE270678_main_ST	D11	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.03468940543725312	2	1701.5
+GSE270678_main_ST	D11	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.017378409795582823	2	1701.5
+GSE270678_main_ST	D11	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.011232116170020774	2	1701.5
+GSE270678_main_ST	D12	ITGB2_ECM_degradation_r0	receiver_function		0	-0.023788852771277465	2	1664.5
+GSE270678_main_ST	D12	ITGB2_ECM_degradation_r1	receiver_function		1	0.09440226573097632	2	1664.5
+GSE270678_main_ST	D12	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.0252385181049835	2	1664.5
+GSE270678_main_ST	D12	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.10260635528683378	2	1664.5
+GSE270678_main_ST	D12	ITGB2_myeloid_migration_r0	receiver_function		0	0.027905690513756107	2	1664.5
+GSE270678_main_ST	D12	ITGB2_myeloid_migration_r1	receiver_function		1	0.17032120991487656	2	1664.5
+GSE270678_main_ST	D12	ITGB2_phagocytosis_r0	receiver_function		0	-0.023998643394217478	2	1664.5
+GSE270678_main_ST	D12	ITGB2_phagocytosis_r1	receiver_function		1	0.14310124922641546	2	1664.5
+GSE270678_main_ST	D12	SPON2_ITGB2_r1	supporting		1	0.0003791579702625138	2	1664.5
+GSE270678_main_ST	D12	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-0.005459694104192764	2	1664.5
+GSE270678_main_ST	D12	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	-0.0014099331825640064	2	1664.5
+GSE270678_main_ST	D12	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	-0.007935742436977302	2	1664.5
+GSE270678_main_ST	D12	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.023640042319641282	2	1664.5
+GSE270678_main_ST	D12	SPON2_receiver_r1	supporting		1	-0.0019289340312609784	2	1664.5
+GSE270678_main_ST	D12	SPON2_sender_same	supporting		0	-0.01897100149300255	2	1664.5
+GSE270678_main_ST	D12	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.015064875635326177	2	1664.5
+GSE270678_main_ST	D12	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.03563205990696727	2	1664.5
+GSE270678_main_ST	D12	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.004851021121509899	2	1664.5
+GSE270678_main_ST	D12	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	-0.0014099331825640064	2	1664.5
+GSE270678_main_ST	D15	ITGB2_ECM_degradation_r0	receiver_function		0	-0.006916212369680609	2	1943.5
+GSE270678_main_ST	D15	ITGB2_ECM_degradation_r1	receiver_function		1	0.11857046327078336	2	1943.0
+GSE270678_main_ST	D15	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.00592016051842498	2	1943.5
+GSE270678_main_ST	D15	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.12396134355958027	2	1943.0
+GSE270678_main_ST	D15	ITGB2_myeloid_migration_r0	receiver_function		0	0.026615334630180964	2	1943.5
+GSE270678_main_ST	D15	ITGB2_myeloid_migration_r1	receiver_function		1	0.14007847545613095	2	1943.0
+GSE270678_main_ST	D15	ITGB2_phagocytosis_r0	receiver_function		0	0.015083829913848993	2	1943.5
+GSE270678_main_ST	D15	ITGB2_phagocytosis_r1	receiver_function		1	0.1336812763379613	2	1943.0
+GSE270678_main_ST	D15	SPON2_ITGB2_r1	supporting		1	0.0150836413321332	2	1943.0
+GSE270678_main_ST	D15	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.027363320031847015	2	1943.5
+GSE270678_main_ST	D15	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.02326330000571026	2	1943.0
+GSE270678_main_ST	D15	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.023451670659045284	2	1942.5
+GSE270678_main_ST	D15	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.0021779963920936793	2	1942.5
+GSE270678_main_ST	D15	SPON2_receiver_r1	supporting		1	0.015188308055648468	2	1943.0
+GSE270678_main_ST	D15	SPON2_sender_same	supporting		0	0.018268124667200864	2	1943.5
+GSE270678_main_ST	D15	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.01985683681475456	2	1943.0
+GSE270678_main_ST	D15	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.00543298836300288	2	1943.0
+GSE270678_main_ST	D15	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.004153466275943774	2	1943.0
+GSE270678_main_ST	D15	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.02326330000571026	2	1943.0
+GSE270678_main_ST	D16	ITGB2_ECM_degradation_r0	receiver_function		0	0.018140928858513396	2	1355.5
+GSE270678_main_ST	D16	ITGB2_ECM_degradation_r1	receiver_function		1	0.04371840249643226	2	1355.0
+GSE270678_main_ST	D16	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.03204844036633993	2	1355.5
+GSE270678_main_ST	D16	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.08758476009539574	2	1355.0
+GSE270678_main_ST	D16	ITGB2_myeloid_migration_r0	receiver_function		0	0.08467530509760045	2	1355.5
+GSE270678_main_ST	D16	ITGB2_myeloid_migration_r1	receiver_function		1	0.17391724903174388	2	1355.0
+GSE270678_main_ST	D16	ITGB2_phagocytosis_r0	receiver_function		0	0.052566801001550506	2	1355.5
+GSE270678_main_ST	D16	ITGB2_phagocytosis_r1	receiver_function		1	0.18211604404444165	2	1355.0
+GSE270678_main_ST	D16	SPON2_ITGB2_r1	supporting		1	0.014304259684248663	2	1355.0
+GSE270678_main_ST	D16	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.03296915547869381	2	1355.5
+GSE270678_main_ST	D16	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.04175482656359963	2	1355.0
+GSE270678_main_ST	D16	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.05141639997013617	2	1355.5
+GSE270678_main_ST	D16	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.01308964981866704	2	1355.5
+GSE270678_main_ST	D16	SPON2_receiver_r1	supporting		1	0.04496592748758872	2	1355.0
+GSE270678_main_ST	D16	SPON2_sender_same	supporting		0	-0.0027755454275168057	2	1355.5
+GSE270678_main_ST	D16	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.014903108387226817	2	1355.0
+GSE270678_main_ST	D16	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0058440902538896555	2	1355.0
+GSE270678_main_ST	D16	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.03429190532655308	2	1355.0
+GSE270678_main_ST	D16	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.04175482656359963	2	1355.0
+GSE270678_main_ST	D18	ITGB2_ECM_degradation_r0	receiver_function		0	0.0542441271712856	1	3081.0
+GSE270678_main_ST	D18	ITGB2_ECM_degradation_r1	receiver_function		1	0.11606209957455452	1	3078.0
+GSE270678_main_ST	D18	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.07679092209711849	1	3081.0
+GSE270678_main_ST	D18	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.15203776079530928	1	3078.0
+GSE270678_main_ST	D18	ITGB2_myeloid_migration_r0	receiver_function		0	0.1359649644307559	1	3081.0
+GSE270678_main_ST	D18	ITGB2_myeloid_migration_r1	receiver_function		1	0.26721096433832026	1	3078.0
+GSE270678_main_ST	D18	ITGB2_phagocytosis_r0	receiver_function		0	0.11165904179340881	1	3081.0
+GSE270678_main_ST	D18	ITGB2_phagocytosis_r1	receiver_function		1	0.24346851266613706	1	3078.0
+GSE270678_main_ST	D18	SPON2_ITGB2_r1	supporting		1	0.005133361267086499	1	3078.0
+GSE270678_main_ST	D18	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.042706297866319604	1	3081.0
+GSE270678_main_ST	D18	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0359074210836263	1	3078.0
+GSE270678_main_ST	D18	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.019722112781308098	1	3081.0
+GSE270678_main_ST	D18	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0004921687786074001	1	3081.0
+GSE270678_main_ST	D18	SPON2_receiver_r1	supporting		1	0.046393596183089594	1	3078.0
+GSE270678_main_ST	D18	SPON2_sender_same	supporting		0	-0.0346665254086586	1	3081.0
+GSE270678_main_ST	D18	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.0107146523637457	1	3078.0
+GSE270678_main_ST	D18	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	-0.0682007611419371	1	3078.0
+GSE270678_main_ST	D18	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.030240887621999595	1	3078.0
+GSE270678_main_ST	D18	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0359074210836263	1	3078.0
+GSE270678_main_ST	D20	ITGB2_ECM_degradation_r0	receiver_function		0	-7.105014234606734e-05	2	1979.5
+GSE270678_main_ST	D20	ITGB2_ECM_degradation_r1	receiver_function		1	0.04723477727804219	2	1978.5
+GSE270678_main_ST	D20	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	-0.03763946243407489	2	1979.5
+GSE270678_main_ST	D20	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.0173654492987786	2	1978.5
+GSE270678_main_ST	D20	ITGB2_myeloid_migration_r0	receiver_function		0	-0.014509193697902717	2	1979.5
+GSE270678_main_ST	D20	ITGB2_myeloid_migration_r1	receiver_function		1	0.05985130350418717	2	1978.5
+GSE270678_main_ST	D20	ITGB2_phagocytosis_r0	receiver_function		0	0.013275441650067294	2	1979.5
+GSE270678_main_ST	D20	ITGB2_phagocytosis_r1	receiver_function		1	0.09074154283766585	2	1978.5
+GSE270678_main_ST	D20	SPON2_ITGB2_r1	supporting		1	0.0010573108855373126	2	1978.5
+GSE270678_main_ST	D20	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.01049268850648118	2	1979.5
+GSE270678_main_ST	D20	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.013674245426831258	2	1978.5
+GSE270678_main_ST	D20	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.028268077144323483	2	1979.5
+GSE270678_main_ST	D20	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.004064582935010165	2	1979.5
+GSE270678_main_ST	D20	SPON2_receiver_r1	supporting		1	0.017595092242073746	2	1978.5
+GSE270678_main_ST	D20	SPON2_sender_same	supporting		0	0.002822630509141268	2	1979.5
+GSE270678_main_ST	D20	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.026627510200637375	2	1978.5
+GSE270678_main_ST	D20	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.016976784981485166	2	1978.5
+GSE270678_main_ST	D20	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.03185203467794191	2	1978.5
+GSE270678_main_ST	D20	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.013674245426831258	2	1978.5
+GSE270678_main_ST	D21	ITGB2_ECM_degradation_r0	receiver_function		0	0.012230021826470672	2	1342.5
+GSE270678_main_ST	D21	ITGB2_ECM_degradation_r1	receiver_function		1	0.038960149181596786	2	1342.5
+GSE270678_main_ST	D21	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.028871813135439527	2	1342.5
+GSE270678_main_ST	D21	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.06928064015167201	2	1342.5
+GSE270678_main_ST	D21	ITGB2_myeloid_migration_r0	receiver_function		0	0.04185275930879826	2	1342.5
+GSE270678_main_ST	D21	ITGB2_myeloid_migration_r1	receiver_function		1	0.11349797300494745	2	1342.5
+GSE270678_main_ST	D21	ITGB2_phagocytosis_r0	receiver_function		0	0.07449709985395697	2	1342.5
+GSE270678_main_ST	D21	ITGB2_phagocytosis_r1	receiver_function		1	0.16011580869175265	2	1342.5
+GSE270678_main_ST	D21	SPON2_ITGB2_r1	supporting		1	-0.04326854867098246	2	1342.5
+GSE270678_main_ST	D21	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	-0.007373693565981761	2	1342.5
+GSE270678_main_ST	D21	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	-0.011859616890414912	2	1342.5
+GSE270678_main_ST	D21	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.015084697979959706	2	1342.5
+GSE270678_main_ST	D21	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.017528625330462778	2	1342.5
+GSE270678_main_ST	D21	SPON2_receiver_r1	supporting		1	0.02547582101346147	2	1342.5
+GSE270678_main_ST	D21	SPON2_sender_same	supporting		0	0.038543358419371135	2	1342.5
+GSE270678_main_ST	D21	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.05404036608386879	2	1342.5
+GSE270678_main_ST	D21	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.013727719778771604	2	1342.5
+GSE270678_main_ST	D21	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.012552370623822565	2	1342.5
+GSE270678_main_ST	D21	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	-0.011859616890414912	2	1342.5
+GSE270678_main_ST	D22	ITGB2_ECM_degradation_r0	receiver_function		0	0.018572614424222096	1	1573.0
+GSE270678_main_ST	D22	ITGB2_ECM_degradation_r1	receiver_function		1	0.11421396274350722	1	1573.0
+GSE270678_main_ST	D22	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0183395727140538	1	1573.0
+GSE270678_main_ST	D22	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.1478594009544823	1	1573.0
+GSE270678_main_ST	D22	ITGB2_myeloid_migration_r0	receiver_function		0	0.0053536433679916	1	1573.0
+GSE270678_main_ST	D22	ITGB2_myeloid_migration_r1	receiver_function		1	0.1589847385786581	1	1573.0
+GSE270678_main_ST	D22	ITGB2_phagocytosis_r0	receiver_function		0	-0.0071782191165138	1	1573.0
+GSE270678_main_ST	D22	ITGB2_phagocytosis_r1	receiver_function		1	0.1190238501304147	1	1573.0
+GSE270678_main_ST	D22	SPON2_ITGB2_r1	supporting		1	0.040070952396734895	1	1573.0
+GSE270678_main_ST	D22	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0043638988365994	1	1573.0
+GSE270678_main_ST	D22	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.054588020359954	1	1573.0
+GSE270678_main_ST	D22	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	-0.0071434329582502	1	1573.0
+GSE270678_main_ST	D22	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0372015122242499	1	1573.0
+GSE270678_main_ST	D22	SPON2_receiver_r1	supporting		1	0.021480637478610995	1	1573.0
+GSE270678_main_ST	D22	SPON2_sender_same	supporting		0	-0.024771387492581697	1	1573.0
+GSE270678_main_ST	D22	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.0213982732255814	1	1573.0
+GSE270678_main_ST	D22	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0570892627670456	1	1573.0
+GSE270678_main_ST	D22	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0180001704341721	1	1573.0
+GSE270678_main_ST	D22	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.054588020359954	1	1573.0
+GSE270678_main_ST	D23	ITGB2_ECM_degradation_r0	receiver_function		0	0.0518650036013021	1	1768.0
+GSE270678_main_ST	D23	ITGB2_ECM_degradation_r1	receiver_function		1	0.15815695798801158	1	1768.0
+GSE270678_main_ST	D23	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.047646804726318305	1	1768.0
+GSE270678_main_ST	D23	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.1684125396662766	1	1768.0
+GSE270678_main_ST	D23	ITGB2_myeloid_migration_r0	receiver_function		0	0.0377239002261421	1	1768.0
+GSE270678_main_ST	D23	ITGB2_myeloid_migration_r1	receiver_function		1	0.1873733243389655	1	1768.0
+GSE270678_main_ST	D23	ITGB2_phagocytosis_r0	receiver_function		0	0.08305689870887469	1	1768.0
+GSE270678_main_ST	D23	ITGB2_phagocytosis_r1	receiver_function		1	0.18013900092618762	1	1768.0
+GSE270678_main_ST	D23	SPON2_ITGB2_r1	supporting		1	-0.00012705318441929997	1	1768.0
+GSE270678_main_ST	D23	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.040079471102634705	1	1768.0
+GSE270678_main_ST	D23	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.0490267775893602	1	1768.0
+GSE270678_main_ST	D23	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.0380107753380267	1	1763.0
+GSE270678_main_ST	D23	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	-0.0142413158752362	1	1766.0
+GSE270678_main_ST	D23	SPON2_receiver_r1	supporting		1	0.0863053853742153	1	1768.0
+GSE270678_main_ST	D23	SPON2_sender_same	supporting		0	0.0757908759771441	1	1768.0
+GSE270678_main_ST	D23	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.0374138274106219	1	1768.0
+GSE270678_main_ST	D23	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0672064147263492	1	1768.0
+GSE270678_main_ST	D23	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0139165513100606	1	1768.0
+GSE270678_main_ST	D23	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.0490267775893602	1	1768.0
+GSE270678_main_ST	D24	ITGB2_ECM_degradation_r0	receiver_function		0	0.014659568813248933	2	2722.5
+GSE270678_main_ST	D24	ITGB2_ECM_degradation_r1	receiver_function		1	0.10054003512912284	2	2718.5
+GSE270678_main_ST	D24	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.009291820143576298	2	2722.5
+GSE270678_main_ST	D24	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.06958587145735796	2	2718.5
+GSE270678_main_ST	D24	ITGB2_myeloid_migration_r0	receiver_function		0	0.03634767378802813	2	2722.5
+GSE270678_main_ST	D24	ITGB2_myeloid_migration_r1	receiver_function		1	0.0906221872543653	2	2718.5
+GSE270678_main_ST	D24	ITGB2_phagocytosis_r0	receiver_function		0	0.02326306801628594	2	2722.5
+GSE270678_main_ST	D24	ITGB2_phagocytosis_r1	receiver_function		1	0.05910400208114884	2	2718.5
+GSE270678_main_ST	D24	SPON2_ITGB2_r1	supporting		1	0.01364889485015517	2	2718.5
+GSE270678_main_ST	D24	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.03335091982714854	2	2722.5
+GSE270678_main_ST	D24	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.025252472860422304	2	2718.5
+GSE270678_main_ST	D24	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.009379522069421786	2	2719.5
+GSE270678_main_ST	D24	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.009805498531644852	2	2720.0
+GSE270678_main_ST	D24	SPON2_receiver_r1	supporting		1	0.02895474701740817	2	2718.5
+GSE270678_main_ST	D24	SPON2_sender_same	supporting		0	0.022331092877229963	2	2722.5
+GSE270678_main_ST	D24	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.005308391091327552	2	2718.5
+GSE270678_main_ST	D24	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0775451316448516	2	2718.5
+GSE270678_main_ST	D24	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.012125290937996244	2	2718.5
+GSE270678_main_ST	D24	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.025252472860422304	2	2718.5
+GSE270678_main_ST	D26	ITGB2_ECM_degradation_r0	receiver_function		0	0.045451067280774256	3	2743.0
+GSE270678_main_ST	D26	ITGB2_ECM_degradation_r1	receiver_function		1	0.11052008846945093	3	2742.0
+GSE270678_main_ST	D26	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.06433080052005188	3	2743.0
+GSE270678_main_ST	D26	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.15743552448567363	3	2742.0
+GSE270678_main_ST	D26	ITGB2_myeloid_migration_r0	receiver_function		0	0.099595723161938	3	2743.0
+GSE270678_main_ST	D26	ITGB2_myeloid_migration_r1	receiver_function		1	0.21683102197510687	3	2742.0
+GSE270678_main_ST	D26	ITGB2_phagocytosis_r0	receiver_function		0	0.11197372997946554	3	2743.0
+GSE270678_main_ST	D26	ITGB2_phagocytosis_r1	receiver_function		1	0.2331783082776644	3	2742.0
+GSE270678_main_ST	D26	SPON2_ITGB2_r1	supporting		1	0.0034860469198319845	3	2742.0
+GSE270678_main_ST	D26	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.028203007655968185	3	2743.0
+GSE270678_main_ST	D26	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.002875244414549553	3	2742.0
+GSE270678_main_ST	D26	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.03126129431322911	3	2743.0
+GSE270678_main_ST	D26	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.025720209596414984	3	2743.0
+GSE270678_main_ST	D26	SPON2_receiver_r1	supporting		1	0.0018872191991089235	3	2742.0
+GSE270678_main_ST	D26	SPON2_sender_same	supporting		0	0.01694583441264584	3	2743.0
+GSE270678_main_ST	D26	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	0.08484316279893447	3	2742.0
+GSE270678_main_ST	D26	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.02543179968008796	3	2742.0
+GSE270678_main_ST	D26	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0022408877606600814	3	2742.0
+GSE270678_main_ST	D26	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.002875244414549553	3	2742.0
+GSE270678_main_ST	D27	ITGB2_ECM_degradation_r0	receiver_function		0	0.019650403692571965	2	1684.5
+GSE270678_main_ST	D27	ITGB2_ECM_degradation_r1	receiver_function		1	0.0040505886799714185	2	1681.0
+GSE270678_main_ST	D27	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.007901804988454594	2	1684.5
+GSE270678_main_ST	D27	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	-0.010697840241045052	2	1681.0
+GSE270678_main_ST	D27	ITGB2_myeloid_migration_r0	receiver_function		0	0.060582034799638945	2	1684.5
+GSE270678_main_ST	D27	ITGB2_myeloid_migration_r1	receiver_function		1	0.09410684027705932	2	1681.0
+GSE270678_main_ST	D27	ITGB2_phagocytosis_r0	receiver_function		0	0.06102628042596918	2	1684.5
+GSE270678_main_ST	D27	ITGB2_phagocytosis_r1	receiver_function		1	0.07314511660292483	2	1681.0
+GSE270678_main_ST	D27	SPON2_ITGB2_r1	supporting		1	0.004242658623516175	2	1681.0
+GSE270678_main_ST	D27	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.020329482888109384	2	1684.5
+GSE270678_main_ST	D27	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.02066574775684998	2	1681.0
+GSE270678_main_ST	D27	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.023404119479285005	2	1682.5
+GSE270678_main_ST	D27	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.0333358624706715	2	1682.5
+GSE270678_main_ST	D27	SPON2_receiver_r1	supporting		1	0.026099144239663214	2	1681.0
+GSE270678_main_ST	D27	SPON2_sender_same	supporting		0	0.027666355677995764	2	1684.5
+GSE270678_main_ST	D27	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.006716131910645395	2	1681.0
+GSE270678_main_ST	D27	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0275009798862905	2	1681.0
+GSE270678_main_ST	D27	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	-0.027977558262310038	2	1681.0
+GSE270678_main_ST	D27	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.02066574775684998	2	1681.0
+GSE270678_main_ST	D28	ITGB2_ECM_degradation_r0	receiver_function		0	0.0180978792529981	1	2032.0
+GSE270678_main_ST	D28	ITGB2_ECM_degradation_r1	receiver_function		1	0.1072485881424777	1	2022.0
+GSE270678_main_ST	D28	ITGB2_cell_matrix_adhesion_r0	receiver_function		0	0.0241644531015939	1	2032.0
+GSE270678_main_ST	D28	ITGB2_cell_matrix_adhesion_r1	receiver_function		1	0.11976227364011272	1	2022.0
+GSE270678_main_ST	D28	ITGB2_myeloid_migration_r0	receiver_function		0	0.017461445389381502	1	2032.0
+GSE270678_main_ST	D28	ITGB2_myeloid_migration_r1	receiver_function		1	0.08240617962027372	1	2022.0
+GSE270678_main_ST	D28	ITGB2_phagocytosis_r0	receiver_function		0	0.0323110741167412	1	2032.0
+GSE270678_main_ST	D28	ITGB2_phagocytosis_r1	receiver_function		1	0.1092311820471571	1	2022.0
+GSE270678_main_ST	D28	SPON2_ITGB2_r1	supporting		1	0.03606828969709241	1	2022.0
+GSE270678_main_ST	D28	SPON2_ITGB2_receiver_composite_r0	distance_profile	SPON2_ITGB2	0	0.0667891128759242	1	2032.0
+GSE270678_main_ST	D28	SPON2_ITGB2_receiver_composite_r1	distance_profile	SPON2_ITGB2	1	0.030605273266459305	1	2022.0
+GSE270678_main_ST	D28	SPON2_ITGB2_receiver_composite_r2	distance_profile	SPON2_ITGB2	2	0.05012562736989631	1	2022.0
+GSE270678_main_ST	D28	SPON2_ITGB2_receiver_composite_r3	distance_profile	SPON2_ITGB2	3	0.006913968319545199	1	2026.0
+GSE270678_main_ST	D28	SPON2_receiver_r1	supporting		1	0.0184856117894266	1	2022.0
+GSE270678_main_ST	D28	SPON2_sender_same	supporting		0	0.0093236111261799	1	2032.0
+GSE270678_main_ST	D28	candidate_APP_CD74_r1	candidate_calibration	APP_CD74	1	-0.013499492034159701	1	2022.0
+GSE270678_main_ST	D28	candidate_CXCL14_CXCR4_r1	candidate_calibration	CXCL14_CXCR4	1	0.0230625434690383	1	2022.0
+GSE270678_main_ST	D28	candidate_NRG1_HLA_DPB1_r1	candidate_calibration	NRG1_HLA_DPB1	1	0.0249193169304451	1	2022.0
+GSE270678_main_ST	D28	candidate_SPON2_ITGB2_r1	candidate_calibration	SPON2_ITGB2	1	0.030605273266459305	1	2022.0

@@ -1,0 +1,9 @@
+﻿population	configuration	n	responders_n	nonresponders_n	response_fraction	CR_n	PR_n	SD_n	PD_n	Wilson95_low	Wilson95_high	CI_method
+All patients	Dual-low	13	3	10	0.23076923076923078	2	1	4	6	0.08179528718498563	0.5025637594672749	Two-sided Wilson score interval; z=Phi^-1(0.975)
+All patients	Fibroblast-dominant	9	1	8	0.1111111111111111	0	1	4	4	0.019890887638544935	0.4349997055766559	Two-sided Wilson score interval; z=Phi^-1(0.975)
+All patients	Macrophage-dominant	9	8	1	0.8888888888888888	1	7	0	1	0.5650002944233441	0.9801091123614551	Two-sided Wilson score interval; z=Phi^-1(0.975)
+All patients	Dual-high	14	0	14	0.0	0	0	7	7	0.0	0.21531080273763575	Two-sided Wilson score interval; z=Phi^-1(0.975)
+MSS and EBV ISH-negative	Dual-low	11	1	10	0.09090909090909091	1	0	4	6	0.016232172885884827	0.3773584364515956	Two-sided Wilson score interval; z=Phi^-1(0.975)
+MSS and EBV ISH-negative	Fibroblast-dominant	7	0	7	0.0	0	0	4	3	0.0	0.3543304350666873	Two-sided Wilson score interval; z=Phi^-1(0.975)
+MSS and EBV ISH-negative	Macrophage-dominant	2	1	1	0.5	0	1	0	1	0.09453120573423074	0.9054687942657693	Two-sided Wilson score interval; z=Phi^-1(0.975)
+MSS and EBV ISH-negative	Dual-high	14	0	14	0.0	0	0	7	7	0.0	0.21531080273763575	Two-sided Wilson score interval; z=Phi^-1(0.975)

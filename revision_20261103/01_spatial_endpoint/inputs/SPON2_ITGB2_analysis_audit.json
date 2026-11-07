@@ -1,0 +1,206 @@
+{
+  "seed": 2026082654,
+  "analysis_status": "locked_post_hoc",
+  "output_directory": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\analysis\\results\\spatial\\SPON2_ITGB2_candidate_context_v1",
+  "primary_endpoint": "SPON2_ITGB2_receiver_composite_r1",
+  "coverage_thresholds": {
+    "minimum_gene_detection_fraction": 0.01,
+    "minimum_complete_spots": 100
+  },
+  "main_formal_gate": {
+    "required": 15,
+    "observed": 19,
+    "passed": true
+  },
+  "external_directional_gate": {
+    "required": 7,
+    "observed": 9,
+    "passed": true
+  },
+  "candidate_axes": [
+    "SPON2_ITGB2",
+    "APP_CD74",
+    "NRG1_HLA_DPB1",
+    "CXCL14_CXCR4"
+  ],
+  "spatial_graph": {
+    "type": "exact_Visium_hex_shells",
+    "rings": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "offsets": {
+      "0": [
+        [
+          0,
+          0
+        ]
+      ],
+      "1": [
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          0,
+          -2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "2": [
+        [
+          -2,
+          -2
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          -1,
+          -3
+        ],
+        [
+          -1,
+          3
+        ],
+        [
+          0,
+          -4
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          -3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "3": [
+        [
+          -3,
+          -3
+        ],
+        [
+          -3,
+          -1
+        ],
+        [
+          -3,
+          1
+        ],
+        [
+          -3,
+          3
+        ],
+        [
+          -2,
+          -4
+        ],
+        [
+          -2,
+          4
+        ],
+        [
+          -1,
+          -5
+        ],
+        [
+          -1,
+          5
+        ],
+        [
+          0,
+          -6
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          -5
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          -4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          -3
+        ],
+        [
+          3,
+          -1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "input_sha256": {
+    "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\scripts\\35_analyze_GSE270678_PLAT_spatial_chain.py": "b387ec05a108aa6458b3b0f2fbf5f9fd5c81d74086db371db98520aedd48b538",
+    "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\analysis\\design\\SPON2_ITGB2_SPATIAL_CANDIDATE_CONTEXT_LOCK_20260826.md": "edec0296cf49d9b7e4224236f668383ff8e644e65e14439c62b2eb8a85a34529",
+    "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\resources\\gene_sets\\GSE183904_PLAT_ecosystem_bulk_signatures.tsv": "76eaecd5519dea8abe1df79603fe41f030b86327cca106319d2eead12757500f",
+    "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\resources\\gene_sets\\myeloid_receiver_programs_frozen.tsv": "9bd455b2b0ddf7b66e15c7c6fa8eb2abd42ccc59efe3da2c4941008456fea800",
+    "I:\\ECM-new\\ECM-public\\manifests\\v4\\GSE270678_spatial_sample_manifest.tsv": "e9e251388f31e9136264fcf915c2abe2be22c00fd53c4cb0b62c0f2783c0b6b4",
+    "I:\\ECM-new\\ECM-public\\data\\processed\\spatial\\GSE251950\\GSE251950_spatial_sample_manifest.tsv": "3de0b0614ec9d1026289aada7aeb3484787250ed1e724230d6ef54c856d1ca33",
+    "I:\\ECM-new\\ECM-public\\data\\processed\\spatial\\GSE270678\\v4\\GSE270678_main_ST_project_compartment_spot_scores_v4.tsv.gz": "08b7b1c2ea1ed5f98e5c59dbc9fb14d4832fe08efb6b563dae5b55a5d30aa7a8",
+    "I:\\ECM-new\\ECM-public\\data\\processed\\spatial\\GSE270678\\v4\\GSE270678_ST_R_project_compartment_spot_scores_v4.tsv.gz": "54517fe4d2797fa8f7d365438479157db3ab14057be55f4ee67597c7d47ba919",
+    "I:\\ECM-new\\ECM-public\\data\\processed\\spatial\\GSE251950\\GSE251950_spot_ecology_scores.tsv.gz": "ec30ce4e1325474aed50ceb82ccbdab44269287b4f7d151f45f571620b968728",
+    "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\scripts\\54_analyze_SPON2_ITGB2_spatial_candidate_context.py": "976ecb57830a9907e6fb86aabc40768d0a2783569d4f3df855003f2f64509c8f"
+  },
+  "warning": "Mixed-cell Visium proximity-conditioned co-expression; no direct binding, receptor activation, mediation or causality claim."
+}

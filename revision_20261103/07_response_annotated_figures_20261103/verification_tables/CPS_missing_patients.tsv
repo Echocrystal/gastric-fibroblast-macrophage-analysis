@@ -1,0 +1,5 @@
+﻿patient_id	configuration	MSI_status	EBV_ISH_status	best_response	response_binary	CPS_missing
+PB-16-005	Macrophage-dominant	MSS	Negative	PR	1	True
+PB-16-041	Dual-high	MSS	Negative	PD	0	True
+PB-16-047	Fibroblast-dominant	MSS	Negative	SD	0	True
+PB-16-051	Dual-high	MSS	Negative	PD	0	True

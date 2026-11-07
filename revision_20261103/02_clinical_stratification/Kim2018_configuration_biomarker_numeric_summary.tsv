@@ -1,0 +1,5 @@
+﻿configuration	n	responders_n	nonresponders_n	MSI_positive_n	MSI_negative_MSS_n	MSI_missing_n	EBV_ISH_positive_n	EBV_ISH_negative_n	EBV_ISH_missing_n	PDL1_CPS_available_n	PDL1_CPS_missing_n	PDL1_CPS_median	PDL1_CPS_q1	PDL1_CPS_q3	MSS_EBVnegative_n	MSS_EBVnegative_responders_n	MSS_EBVnegative_nonresponders_n
+Dual-low	13	3	10	1	12	0	1	12	0	13	0	1.0	0.0	2.0	11	1	10
+Fibroblast-dominant	9	1	8	2	7	0	0	9	0	8	1	0.5	0.0	1.25	7	0	7
+Macrophage-dominant	9	8	1	3	6	0	4	5	0	8	1	33.5	11.5	50.0	2	1	1
+Dual-high	14	0	14	0	14	0	0	14	0	12	2	0.0	0.0	0.25	14	0	14

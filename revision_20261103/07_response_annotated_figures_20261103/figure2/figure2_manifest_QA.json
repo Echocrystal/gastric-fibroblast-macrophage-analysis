@@ -1,0 +1,84 @@
+{
+  "input_sources": [
+    {
+      "path": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\02_clinical_stratification\\Kim2018_patients_with_restriction_flags.tsv",
+      "sha256": "caa60fd4731c8d30988ff8e6167c8332c55cc78bc6f6ee5704f8be21f3f03c56"
+    },
+    {
+      "path": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\07_response_annotated_figures_20261103\\figure2\\Kim2018_input_snapshot.tsv",
+      "sha256": "caa60fd4731c8d30988ff8e6167c8332c55cc78bc6f6ee5704f8be21f3f03c56"
+    },
+    {
+      "path": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\04_clinical_biomarker_relationships\\configuration_overview\\draw_configuration_overview.py",
+      "sha256": "ff5c322866172e1026872d5d68499a28316673e6dfaf4abc2d10fe32eba7fcd4"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "CPS_response_source.tsv",
+      "sha256": "c3572692e64e804411d550b487b2ae1faca3a2eabdfdc36dfd0950ab7e7acb06"
+    },
+    {
+      "file": "draw_response_integrated_configuration_v2.py",
+      "sha256": "55acdeeeb4492ca533b9be1dd2c07e3491614e0f40a27c52ade6317fa8e03e90"
+    },
+    {
+      "file": "Figure2_configuration_response_integrated_v2.pdf",
+      "sha256": "81e752b33fdfd7d689c8dcacac10db57c8fefa1f5ffac5a153189e2c32015b7f"
+    },
+    {
+      "file": "Figure2_configuration_response_integrated_v2.png",
+      "sha256": "2097d86e271a07ba02e8e0d81c88430f291584936750f8554baef7e86a248d7a"
+    },
+    {
+      "file": "Figure2_configuration_response_integrated_v2.svg",
+      "sha256": "1d1368aeb46f063c56c30a521561127057bac86b67444092aaded9b1c978e6f3"
+    },
+    {
+      "file": "Figure_legend_EN.txt",
+      "sha256": "535b4e9c529358166bd4ba65d2c5921859b64788fe851a883e338f87706c84b4"
+    },
+    {
+      "file": "Kim2018_input_snapshot.tsv",
+      "sha256": "caa60fd4731c8d30988ff8e6167c8332c55cc78bc6f6ee5704f8be21f3f03c56"
+    },
+    {
+      "file": "original_configuration_script_reference.py",
+      "sha256": "ff5c322866172e1026872d5d68499a28316673e6dfaf4abc2d10fe32eba7fcd4"
+    },
+    {
+      "file": "patient_matrix_source.tsv",
+      "sha256": "97e42e4a27cc34933bea81ac25e3cb77f5ffcb0dd21c4716c450f192bf4c9f7c"
+    },
+    {
+      "file": "response_full_vs_restricted.tsv",
+      "sha256": "21c136a0664ba6d51e293840e9274af692a667679af7259d76c9157a0942de0f"
+    }
+  ],
+  "patients_all": 45,
+  "responders_all": 12,
+  "patients_restricted": 34,
+  "responders_restricted": 2,
+  "matrix_columns": 45,
+  "CPS_observed": 41,
+  "CPS_missing": 4,
+  "new_hypothesis_tests": 0,
+  "response_definition": "CR/PR=1; SD/PD=0; frozen upstream labels retained",
+  "restriction": "MSS by pentaplex AND EBV ISH-negative",
+  "configuration_order": [
+    "Dual-low",
+    "Fibroblast-dominant",
+    "Macrophage-dominant",
+    "Dual-high"
+  ],
+  "dimensions_mm": [
+    183,
+    178
+  ],
+  "python": "3.12.7",
+  "numpy": "2.4.6",
+  "pandas": "2.3.3",
+  "matplotlib": "3.11.1",
+  "visual_QA": "Passed: patient columns and response symbols visible; all subgroup counts and CI labels fit; 183 x 178 mm PDF, 2161 x 2102 at 300 dpi PNG.",
+  "independent_numerical_QA": "Passed: all 45 patient columns and derived flags joined against frozen snapshot; all 41 CPS points and labels match; all full/restricted response numerators and denominators match. Wilson intervals independently recomputed with statsmodels; maximum difference 1.11e-16."
+}

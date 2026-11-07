@@ -1,0 +1,5 @@
+﻿best_response	expected_response_binary	observed_n	observed_binary_1_n	mismatches_n
+CR	1	3	3	0
+PR	1	9	9	0
+SD	0	15	0	0
+PD	0	18	0	0

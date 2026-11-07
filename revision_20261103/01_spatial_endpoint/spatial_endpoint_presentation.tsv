@@ -1,0 +1,7 @@
+Dataset	Endpoint	Sections (n)	Donors or patients (n)	Adjusted rho	95% bootstrap CI	Nominal exact P	Original BH q	Original correction family
+GSE270678 main ST	ITGB2 + receiver composite	33	19	0.022975	0.014140 to 0.032618	8.7738037e-05	0.00035095215	Four receptor-receiver composite candidate axes within this dataset
+GSE270678 main ST	ITGB2 alone	33	19	0.005142	-0.002935 to 0.012882	0.23246384	0.23246384	Three supporting endpoints within this dataset
+GSE270678 ST_R	ITGB2 + receiver composite	36	15	0.019382	0.006484 to 0.033864	0.016418457	0.047119141	Four receptor-receiver composite candidate axes within this dataset
+GSE270678 ST_R	ITGB2 alone	36	15	0.008866	-0.001165 to 0.022091	0.15203857	0.15203857	Three supporting endpoints within this dataset
+GSE251950 primary	ITGB2 + receiver composite	9	9	0.045565	0.021696 to 0.072707	0.00390625	0.015625	Four receptor-receiver composite candidate axes within this dataset
+GSE251950 primary	ITGB2 alone	9	9	0.024738	0.009378 to 0.041767	0.015625	0.0234375	Three supporting endpoints within this dataset

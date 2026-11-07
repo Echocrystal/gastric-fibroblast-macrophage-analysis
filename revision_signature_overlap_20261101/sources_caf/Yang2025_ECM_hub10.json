@@ -1,0 +1,32 @@
+{
+  "id": "Yang2025_ECM_hub10",
+  "published_reference_set": "10-gene ECM hub panel (gastric fibrosis)",
+  "signature": "Sender",
+  "source": "Yang et al., J Transl Med 2025;23:123",
+  "doi": "10.1186/s12967-025-06070-9",
+  "pmid": "39871345",
+  "pmcid": "PMC11773867",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11773867/",
+  "set_type": "Published explicitly scored ECM panel; not CAF-specific",
+  "gene_symbols": [
+    "COL1A1",
+    "COL1A2",
+    "COL3A1",
+    "COL5A1",
+    "FN1",
+    "POSTN",
+    "FBN1",
+    "LUM",
+    "COL4A1",
+    "COL6A3"
+  ],
+  "source_location": "Results, ECM-related genes may be drivers or markers..., Fig. 2C; cell-type analysis, Fig. 3D",
+  "extraction_rule": "All 10 hub genes named together in Results and explicitly used by authors as the AUC gene set; no additional selection or inferred genes.",
+  "source_file": "Yang2025_fulltext.xml",
+  "source_quotes": [
+    "In a subsequent inquiry into the molecular underpinnings of the C2 subtype, a differential analysis juxtaposing C1 and C2 subtypes was conducted, identifying 1248 genes significantly upregulated in C1 and 16 genes significantly downregulated (|log2FC| > 2, P < 0.05) (Fig. 2A). KEGG and GO enrichment analysis on the upregulated genes revealed that 136 genes were significantly enriched in ECM-related pathways (Fig. 2B). The top 10 hub genes were selected using cytohubba plugin: COL1A1, COL1A2, COL3A1, COL5A1, FN1, POSTN, FBN1, LUM, COL4A1, and COL6A3 (Fig. 2C). Except for COL4A1, the remaining genes showed high correlations with each other (Fig. 2D), suggesting that they may have common or similar regulatory mechanisms and spatial locations. To verify whether the immune characteristics of C2 were related to ECM, we analyzed the relationships between these 10 genes and immune checkpoints and immune cell infiltration. The results showed that these 10 genes were significantly positively correlated with the expression of seven immune checkpoints, except for SIGLEC15 (P < 0.05), with the strongest correlations observed with TIM-3. Except for COL4A1, the correlations were all above 0.5 (Fig. 2E), and they were also significantly positively correlated with M1, M2 macrophages, and Treg cell infiltration (P < 0.01) (Fig. 2F). These results align with the phenotype of C2, suggesting that the abnormal overexpression of these genes may be drivers or markers of poor prognosis and immune exclusion phenotype in C2.",
+    "To establish the relationship between ECM and cells in tumor tissues, 15 single-cell samples of diffuse gastric cancer within the GEO database were selected. Post rigorous cell quality control, 2502 cells from normal tissues, 8714 cells from superficial gastric cancer tissues, and 9269 cells from deep gastric cancer tissues were obtained. Through meticulous annotation, the following cell types were identified: epithelial cells, NK cells, B cells, dendritic cells, T cells, endothelial cells, monocytes, tissue stem cells, neutrophils, granulocyte-monocyte progenitors (GMP), macrophages, common-myeloid progenitors (CMP), fibroblasts, CD34-pre B cells, CD34 + pro B cells, chondrocytes, hepatocytes, neurons, CD34 + hematopoietic stem cells, induced pluripotent stem cells, bone marrow cells and progenitors (BM & Prog.), smooth muscle cells, and promyelocytes (Fig. 3A). We calculated the number of each type of cell in normal, superficial, and deep gastric cancer tissues. For immune cells, the proportion of B cells was significantly lower in tumor tissues (superficial & deep) compared to normal tissues, and the proportion of T cells was significantly higher in deep tissues compared to superficial tissues. The proportion of myeloid cells, including monocytes, macrophages, neutrophils, and dendritic cells, was significantly higher. Additionally, the proportion of epithelial cells was lower in tumor tissues and deep tissues compared to normal and superficial tissues, while the proportion of mesenchymal cells was higher, indicating the occurrence of epithelial-mesenchymal transition (EMT) (Fig. 3B). The expression of ECM-related hub genes in cells was subsequently explored. The 10 ECM-related hub genes were mainly co-localized in tissue stem cells, fibroblasts, smooth muscle cells, and chondrocytes. COL1A1, COL1A2, and COL3A1 had the highest expression proportions and average expression levels, with COL4A1 being highly expressed in endothelial cells (Fig. 3C). These results are consistent with the correlation analysis among ECM-related hub genes. Using these 10 genes to construct a gene set for AUC scoring, it was found that the AUC scores were highest in fibroblasts, chondrocytes, and smooth muscle cells in normal, superficial, and deep tissues (Fig. 3D)."
+  ],
+  "status": "Computable",
+  "limitation": "These are the 10-gene ECM hub/AUC panel, not the full 138-gene prognostic clustering set or all 136 ECM-enriched genes; tissue programme comparator, not a CAF-specific state signature."
+}

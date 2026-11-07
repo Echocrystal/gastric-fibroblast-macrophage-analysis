@@ -1,0 +1,30 @@
+[
+  {
+    "cluster": "Macro_C1QC",
+    "raw_identifier": "45718",
+    "avg_log2FC": "0.214250465070635",
+    "p_adj": "3.30181065528058E-4",
+    "status": "unresolved numeric source identifier; excluded; no reconstruction"
+  },
+  {
+    "cluster": "Macro_C1QC",
+    "raw_identifier": "45911",
+    "avg_log2FC": "0.21066217568152201",
+    "p_adj": "1.9637664077838801E-4",
+    "status": "unresolved numeric source identifier; excluded; no reconstruction"
+  },
+  {
+    "cluster": "Macro_SPP1",
+    "raw_identifier": "45717",
+    "avg_log2FC": "0.81112350236860198",
+    "p_adj": "2.3458166572419001E-66",
+    "status": "unresolved numeric source identifier; excluded; no reconstruction"
+  },
+  {
+    "cluster": "Macro_SPP1",
+    "raw_identifier": "45907",
+    "avg_log2FC": "0.31354020162066498",
+    "p_adj": "1.3605902245680599E-13",
+    "status": "unresolved numeric source identifier; excluded; no reconstruction"
+  }
+]

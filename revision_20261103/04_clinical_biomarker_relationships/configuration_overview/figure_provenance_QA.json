@@ -1,0 +1,38 @@
+{
+  "source": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\02_clinical_stratification\\Kim2018_patient_input_snapshot.tsv",
+  "snapshot": "Kim2018_patient_input_snapshot.tsv",
+  "snapshot_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "source_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "source_equals_snapshot": true,
+  "script_sha256": "ff5c322866172e1026872d5d68499a28316673e6dfaf4abc2d10fe32eba7fcd4",
+  "n_patients": 45,
+  "responders": 12,
+  "MSI_positive": 6,
+  "EBV_ISH_positive": 5,
+  "CPS_observed": 41,
+  "CPS_missing": 4,
+  "configuration_order": [
+    "Dual-low",
+    "Fibroblast-dominant",
+    "Macrophage-dominant",
+    "Dual-high"
+  ],
+  "group_colors_from_original_Figure6": {
+    "Dual-low": "#AAB7C4",
+    "Fibroblast-dominant": "#CDACB4",
+    "Macrophage-dominant": "#8FABDA",
+    "Dual-high": "#9FB9A1"
+  },
+  "interval": "Wilson two-sided 95% score interval without continuity correction",
+  "hypothesis_tests": 0,
+  "CPS_quantiles": "linear interpolation; R type 7 / numpy method=linear",
+  "input_rows_excluded": 0,
+  "missing_policy": "Retained in group denominators; no CPS point imputed for four missing measurements",
+  "width_mm": 183,
+  "height_mm": 165,
+  "dpi": 300,
+  "python": "3.12.14",
+  "numpy": "2.4.6",
+  "pandas": "3.0.5",
+  "matplotlib": "3.11.1"
+}

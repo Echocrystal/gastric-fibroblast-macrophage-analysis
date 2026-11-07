@@ -1,0 +1,679 @@
+[
+  {
+    "id": "Lee2025_CCL2_fibroblast425",
+    "raw_n": 425,
+    "harmonized_n": 425,
+    "in_M": 410,
+    "k": 13,
+    "jaccard": 0.03044496487119438,
+    "recovery": 0.43333333333333335,
+    "overlap": [
+      "AREG",
+      "BMP4",
+      "CD302",
+      "EDNRB",
+      "EGR1",
+      "ENHO",
+      "F3",
+      "FOS",
+      "FST",
+      "IL1R1",
+      "PCSK6",
+      "PLPP3",
+      "SVEP1"
+    ],
+    "numeric_identifiers": [],
+    "harmonization_changes": [
+      [
+        "AMICA1",
+        "JAML"
+      ],
+      [
+        "C9orf3",
+        "AOPEP"
+      ],
+      [
+        "CCDC176",
+        "BBOF1"
+      ],
+      [
+        "DARC",
+        "ACKR1"
+      ],
+      [
+        "FAM46A",
+        "TENT5A"
+      ],
+      [
+        "GUCY1B3",
+        "GUCY1B1"
+      ],
+      [
+        "H1F0",
+        "H1-0"
+      ],
+      [
+        "MLTK",
+        "MAP3K20"
+      ],
+      [
+        "MRVI1",
+        "IRAG1"
+      ],
+      [
+        "NGFRAP1",
+        "BEX3"
+      ],
+      [
+        "PIFO",
+        "CIMAP3"
+      ],
+      [
+        "PPAP2B",
+        "PLPP3"
+      ],
+      [
+        "RP11-156E8.1",
+        "EFCAB2-AS1"
+      ],
+      [
+        "RP11-983P16.4",
+        "TNS2-AS1"
+      ],
+      [
+        "SEPP1",
+        "SELENOP"
+      ],
+      [
+        "SEPT4",
+        "SEPTIN4"
+      ],
+      [
+        "WBP5",
+        "TCEAL9"
+      ]
+    ]
+  },
+  {
+    "id": "Lee2025_STAT3_macrophage425",
+    "raw_n": 425,
+    "harmonized_n": 425,
+    "in_M": 402,
+    "k": 9,
+    "jaccard": 0.02127659574468085,
+    "recovery": 0.3,
+    "overlap": [
+      "ACP5",
+      "CREG1",
+      "CTSC",
+      "CTSZ",
+      "FCGRT",
+      "LIPA",
+      "MSR1",
+      "NPL",
+      "PLA2G7"
+    ],
+    "numeric_identifiers": [],
+    "harmonization_changes": [
+      [
+        "C12orf68",
+        "CCDC184"
+      ],
+      [
+        "C14orf64",
+        "LINC01550"
+      ],
+      [
+        "CCDC64",
+        "BICDL1"
+      ],
+      [
+        "CXorf24",
+        "LINC01560"
+      ],
+      [
+        "EIF3J-AS1",
+        "EIF3J-DT"
+      ],
+      [
+        "EMR2",
+        "ADGRE2"
+      ],
+      [
+        "FAM212A",
+        "INKA1"
+      ],
+      [
+        "FAM26F",
+        "CALHM6"
+      ],
+      [
+        "FAM46C",
+        "TENT5C"
+      ],
+      [
+        "FAM83D",
+        "SACK1D"
+      ],
+      [
+        "FAM92B",
+        "CIBAR2"
+      ],
+      [
+        "FCGR1B",
+        "FCGR1BP"
+      ],
+      [
+        "GPR116",
+        "ADGRF5"
+      ],
+      [
+        "HIST1H2AG",
+        "H2AC11"
+      ],
+      [
+        "HIST1H2BC",
+        "H2BC4"
+      ],
+      [
+        "HIST1H2BD",
+        "H2BC5"
+      ],
+      [
+        "HIST1H2BJ",
+        "H2BC11"
+      ],
+      [
+        "HIST1H2BK",
+        "H2BC12"
+      ],
+      [
+        "HIST1H3D",
+        "H3C4"
+      ],
+      [
+        "HIST1H4C",
+        "H4C3"
+      ],
+      [
+        "IL1RL1",
+        "IL33R"
+      ],
+      [
+        "IL8",
+        "CXCL8"
+      ],
+      [
+        "KIAA0922",
+        "TMEM131L"
+      ],
+      [
+        "KIAA1407",
+        "CCDC191"
+      ],
+      [
+        "KIAA1462",
+        "JCAD"
+      ],
+      [
+        "KIAA1683",
+        "IQCN"
+      ],
+      [
+        "MRC1L1",
+        "MRC1"
+      ],
+      [
+        "PPAP2A",
+        "PLPP1"
+      ],
+      [
+        "SDPR",
+        "CAVIN2"
+      ],
+      [
+        "SLC9A3R2",
+        "NHERF2"
+      ]
+    ]
+  },
+  {
+    "id": "Li2022_eCAF_cluster3_deposited",
+    "raw_n": 263,
+    "harmonized_n": 263,
+    "in_M": 263,
+    "k": 5,
+    "jaccard": 0.017361111111111112,
+    "recovery": 0.16666666666666666,
+    "overlap": [
+      "ADM",
+      "F3",
+      "IL1R1",
+      "PTGDS",
+      "SMPDL3A"
+    ],
+    "numeric_identifiers": [],
+    "harmonization_changes": [
+      [
+        "C15orf48",
+        "COXFA4L3"
+      ],
+      [
+        "C4orf48",
+        "NICOL1"
+      ],
+      [
+        "C8orf59",
+        "RBIS"
+      ],
+      [
+        "CTGF",
+        "CCN2"
+      ],
+      [
+        "CYR61",
+        "CCN1"
+      ],
+      [
+        "FAM105A",
+        "OTULINL"
+      ],
+      [
+        "GUCY1A3",
+        "GUCY1A1"
+      ],
+      [
+        "IL8",
+        "CXCL8"
+      ],
+      [
+        "NDUFA4",
+        "COXFA4"
+      ],
+      [
+        "PPAP2A",
+        "PLPP1"
+      ],
+      [
+        "PRR24",
+        "INAFM1"
+      ],
+      [
+        "SLC9A3R2",
+        "NHERF2"
+      ],
+      [
+        "ST5",
+        "DENND2B"
+      ],
+      [
+        "WARS",
+        "WARS1"
+      ]
+    ]
+  },
+  {
+    "id": "Li2022_eCAF_cluster3_padj05",
+    "raw_n": 261,
+    "harmonized_n": 261,
+    "in_M": 261,
+    "k": 5,
+    "jaccard": 0.017482517482517484,
+    "recovery": 0.16666666666666666,
+    "overlap": [
+      "ADM",
+      "F3",
+      "IL1R1",
+      "PTGDS",
+      "SMPDL3A"
+    ],
+    "numeric_identifiers": [],
+    "harmonization_changes": [
+      [
+        "C15orf48",
+        "COXFA4L3"
+      ],
+      [
+        "C4orf48",
+        "NICOL1"
+      ],
+      [
+        "C8orf59",
+        "RBIS"
+      ],
+      [
+        "CTGF",
+        "CCN2"
+      ],
+      [
+        "CYR61",
+        "CCN1"
+      ],
+      [
+        "FAM105A",
+        "OTULINL"
+      ],
+      [
+        "GUCY1A3",
+        "GUCY1A1"
+      ],
+      [
+        "IL8",
+        "CXCL8"
+      ],
+      [
+        "NDUFA4",
+        "COXFA4"
+      ],
+      [
+        "PPAP2A",
+        "PLPP1"
+      ],
+      [
+        "PRR24",
+        "INAFM1"
+      ],
+      [
+        "SLC9A3R2",
+        "NHERF2"
+      ],
+      [
+        "ST5",
+        "DENND2B"
+      ],
+      [
+        "WARS",
+        "WARS1"
+      ]
+    ]
+  },
+  {
+    "id": "Yang2025_ECM_hub10",
+    "raw_n": 10,
+    "harmonized_n": 10,
+    "in_M": 10,
+    "k": 0,
+    "jaccard": 0.0,
+    "recovery": 0.0,
+    "overlap": [],
+    "numeric_identifiers": [],
+    "harmonization_changes": []
+  },
+  {
+    "id": "Becht2016_monocytic",
+    "raw_n": 7,
+    "harmonized_n": 7,
+    "in_M": 7,
+    "k": 1,
+    "jaccard": 0.027777777777777776,
+    "recovery": 0.03333333333333333,
+    "overlap": [
+      "PLA2G7"
+    ],
+    "numeric_identifiers": [],
+    "harmonization_changes": []
+  },
+  {
+    "id": "Becht2016_fibroblasts",
+    "raw_n": 8,
+    "harmonized_n": 8,
+    "in_M": 8,
+    "k": 0,
+    "jaccard": 0.0,
+    "recovery": 0.0,
+    "overlap": [],
+    "numeric_identifiers": [],
+    "harmonization_changes": []
+  },
+  {
+    "id": "Zhang2025_RTM_markers",
+    "raw_n": 5,
+    "harmonized_n": 5,
+    "in_M": 5,
+    "k": 0,
+    "jaccard": 0.0,
+    "recovery": 0.0,
+    "overlap": [],
+    "numeric_identifiers": [],
+    "harmonization_changes": []
+  },
+  {
+    "id": "Ma2025_Macro_C1QC_author_threshold",
+    "raw_n": 626,
+    "harmonized_n": 626,
+    "in_M": 626,
+    "k": 30,
+    "jaccard": 0.04792332268370607,
+    "recovery": 1.0,
+    "overlap": [
+      "ACP5",
+      "AKR1B1",
+      "ATP6V0D2",
+      "C2",
+      "CMKLR1",
+      "CREG1",
+      "CTSA",
+      "CTSB",
+      "CTSC",
+      "CTSZ",
+      "DAB2",
+      "EPHX1",
+      "FCGRT",
+      "FUCA1",
+      "GLMP",
+      "LGMN",
+      "LIPA",
+      "MS4A4A",
+      "MSR1",
+      "NPL",
+      "OTOA",
+      "PLA2G7",
+      "RAB42",
+      "RARRES1",
+      "SCARB2",
+      "SERPING1",
+      "TIMP2",
+      "TMEM176A",
+      "TMEM37",
+      "TSPAN4"
+    ],
+    "numeric_identifiers": [],
+    "harmonization_changes": [
+      [
+        "ATP5MD",
+        "ATP5MK"
+      ],
+      [
+        "C19orf70",
+        "MICOS13"
+      ],
+      [
+        "C4orf48",
+        "NICOL1"
+      ],
+      [
+        "C6orf48",
+        "SNHG32"
+      ],
+      [
+        "C9orf16",
+        "BBLN"
+      ],
+      [
+        "FAM173A",
+        "ANTKMT"
+      ],
+      [
+        "FAM198B",
+        "GASK1B"
+      ],
+      [
+        "FAM213A",
+        "PRXL2A"
+      ],
+      [
+        "FAM96A",
+        "CIAO2A"
+      ],
+      [
+        "GBA",
+        "GBA1"
+      ],
+      [
+        "MINOS1",
+        "MICOS10"
+      ],
+      [
+        "NDUFA4",
+        "COXFA4"
+      ],
+      [
+        "SMIM4",
+        "UQCC5"
+      ],
+      [
+        "TMEM19",
+        "FAABTP"
+      ],
+      [
+        "TMEM206",
+        "PACC1"
+      ],
+      [
+        "TMEM251",
+        "LYSET"
+      ],
+      [
+        "TNFAIP8L2",
+        "TIPE2"
+      ],
+      [
+        "UHRF1BP1",
+        "BLTP3A"
+      ]
+    ]
+  },
+  {
+    "id": "Ma2025_Macro_SPP1_author_threshold",
+    "raw_n": 805,
+    "harmonized_n": 805,
+    "in_M": 805,
+    "k": 17,
+    "jaccard": 0.02078239608801956,
+    "recovery": 0.5666666666666667,
+    "overlap": [
+      "C2",
+      "CREG1",
+      "CTSB",
+      "DAB2",
+      "FCGRT",
+      "GLMP",
+      "LGMN",
+      "LIPA",
+      "MS4A4A",
+      "MSR1",
+      "NPL",
+      "RAB42",
+      "SCARB2",
+      "SERPING1",
+      "TMEM176A",
+      "TMEM37",
+      "TSPAN4"
+    ],
+    "numeric_identifiers": [],
+    "harmonization_changes": [
+      [
+        "ADSSL1",
+        "ADSS1"
+      ],
+      [
+        "C11orf54",
+        "BKGD"
+      ],
+      [
+        "C4orf3",
+        "ARLN"
+      ],
+      [
+        "C7orf50",
+        "CHLSN"
+      ],
+      [
+        "CCDC115",
+        "VMA22"
+      ],
+      [
+        "CCDC151",
+        "ODAD3"
+      ],
+      [
+        "CXorf21",
+        "TASL"
+      ],
+      [
+        "DARS",
+        "DARS1"
+      ],
+      [
+        "FAM210B",
+        "MIMS2"
+      ],
+      [
+        "FAM96A",
+        "CIAO2A"
+      ],
+      [
+        "FCGR1B",
+        "FCGR1BP"
+      ],
+      [
+        "FOPNL",
+        "CEP20"
+      ],
+      [
+        "H1F0",
+        "H1-0"
+      ],
+      [
+        "H2AFX",
+        "H2AX"
+      ],
+      [
+        "H2AFZ",
+        "H2AZ1"
+      ],
+      [
+        "HIST1H1C",
+        "H1-2"
+      ],
+      [
+        "HIST1H2AC",
+        "H2AC6"
+      ],
+      [
+        "HIST1H2BK",
+        "H2BC12"
+      ],
+      [
+        "HIST3H2A",
+        "H2AC25"
+      ],
+      [
+        "HSPB11",
+        "IFT25"
+      ],
+      [
+        "MFSD10",
+        "SLC75A1"
+      ],
+      [
+        "PQLC3",
+        "SLC66A3"
+      ],
+      [
+        "WRB",
+        "GET1"
+      ]
+    ]
+  }
+]

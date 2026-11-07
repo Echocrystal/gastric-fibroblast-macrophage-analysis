@@ -1,0 +1,6 @@
+﻿configuration	n	responders_n	nonresponders_n	response_fraction	CR_n	PR_n	SD_n	PD_n
+Dual-low	0	0	0		0	0	0	0
+Fibroblast-dominant	1	0	1	0.0	0	0	1	0
+Macrophage-dominant	1	1	0	1.0	0	1	0	0
+Dual-high	2	0	2	0.0	0	0	0	2
+All configurations	4	1	3	0.25	0	1	1	2

@@ -1,0 +1,5 @@
+configuration	patients_n	response_n	nonresponse_n	response_fraction	response_Wilson95_low	response_Wilson95_high	MSI_positive_n	MSI_negative_MSS_n	MSI_missing_n	EBV_ISH_positive_n	EBV_ISH_negative_n	EBV_ISH_missing_n	CPS_available_n	CPS_missing_n	CPS_median	CPS_q1	CPS_q3
+Dual-low	13	3	10	0.23076923076923078	0.081795287184985688	0.50256375946727494	1	12	0	1	12	0	13	0	1	0	2
+Fibroblast-dominant	9	1	8	0.1111111111111111	0.019890887638544907	0.43499970557665602	2	7	0	0	9	0	8	1	0.5	0	1.25
+Macrophage-dominant	9	8	1	0.88888888888888884	0.56500029442334387	0.98010911236145515	3	6	0	4	5	0	8	1	33.5	11.5	50
+Dual-high	14	0	14	0	0	0.21531080273763581	0	14	0	0	14	0	12	2	0	0	0.25

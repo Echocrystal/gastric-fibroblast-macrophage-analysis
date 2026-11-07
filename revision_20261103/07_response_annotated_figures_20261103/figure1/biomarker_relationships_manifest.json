@@ -1,0 +1,77 @@
+{
+  "created_utc": "2026-11-03T12:55:16.270770+00:00",
+  "analysis_status": "post_hoc_exploratory_standalone",
+  "scientific_question": "How do our three fixed continuous scores relate to MSI, EBV ISH and PD-L1 CPS?",
+  "original_upstream_source_path": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\04_clinical_biomarker_relationships\\Kim2018_biomarker_relationships_input_snapshot.tsv",
+  "original_upstream_source_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "runtime_input_path": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\07_response_annotated_figures_20261103\\figure1\\Kim2018_biomarker_relationships_input_snapshot.tsv",
+  "runtime_input_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "input_snapshot": "Kim2018_biomarker_relationships_input_snapshot.tsv",
+  "input_snapshot_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "script": "plot_biomarker_relationships_response_v2.py",
+  "script_sha256": "463b31a281b2d738c4d10471917f095b4a0bde08dfe962ff07c3a5ddc9f774ae",
+  "prior_figure_script_source": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\04_clinical_biomarker_relationships\\analyze_and_plot_biomarker_relationships.py",
+  "prior_figure_script_source_sha256": "05490d90e13a705b838eeedc73983aa137e0dab0f976d787794a54a49ec292fd",
+  "prior_statistics_snapshot": "original_9test_statistics_snapshot.tsv",
+  "unchanged_statistics_validation": "All 9 nominal P and BH q values agree with prior04 snapshot to absolute tolerance 1e-15",
+  "scores": {
+    "ecosystem_z": "Ecological score",
+    "sender_primary_z": "Sender score",
+    "receiver_specific_z": "Receiver score"
+  },
+  "n_patients": 45,
+  "n_MSI": 6,
+  "n_MSS": 39,
+  "n_EBV_positive": 5,
+  "n_EBV_negative": 40,
+  "n_CPS_available": 41,
+  "n_CPS_missing": 4,
+  "inferential_unit": "Patient",
+  "tests": {
+    "binary": "Two-sided Mann-Whitney U; method='asymptotic', use_continuity=True; SciPy tie-corrected variance",
+    "CPS": "Two-sided Spearman; average ranks for ties; asymptotic t approximation",
+    "multiplicity": "One BH family across all 9 score-by-biomarker tests; no tests selected by result",
+    "effect_binary": "Rank-biserial = 2*U_positive/(n_positive*n_negative)-1; median difference = median_positive-median_negative",
+    "effect_continuous": "Spearman rho on original CPS and score values"
+  },
+  "plot": {
+    "archetype": "quantitative_grid",
+    "physical_width_mm": 183,
+    "physical_height_mm": 170,
+    "raster_dpi": 300,
+    "all_data": "All45 in MSI and EBV; all41 observed CPS; no downsampling",
+    "CPS_axis": "log1p for display only, original-unit tick labels",
+    "jitter_seed_plot_only": 2026110304,
+    "response_overlay": "Responders CR/PR: orange filled triangles, drawn last; nonresponders SD/PD: blue open circles. All patients retained.",
+    "box_colour": "Both biomarker-status groups use the same neutral grey; colours are reserved for response points",
+    "response_totals": {
+      "CR": 3,
+      "PR": 9,
+      "SD": 15,
+      "PD": 18,
+      "CPS_observed_responders": 11,
+      "CPS_observed_nonresponders": 30
+    },
+    "no_models_or_cutoffs": "No response-derived cutoffs, ROC, prediction models or outcome-based point selection; no response-stratified tests"
+  },
+  "versions": {
+    "python": "3.12.7",
+    "matplotlib": "3.11.1",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "scipy": "1.17.1"
+  },
+  "files_sha256": {
+    "Figure1_clinical_biomarkers_response_annotated_v2.pdf": "29286d46b272cce55d02572223e79c10ca15134031a6382d47a7f7e67f2d9403",
+    "Figure1_clinical_biomarkers_response_annotated_v2.png": "7b8a90934bea604833c774738fc574b051835f2ceb9f0484e680ef62340257a5",
+    "Figure1_clinical_biomarkers_response_annotated_v2.svg": "c0cde0beaabfbad0fe9b3274ddf755d03c2e8ed668597003c53fc9ce3dc38540",
+    "Figure_legend_EN.txt": "5fe1d80984f07f2e473b2c69ed090afe27f926655c0d81ca39ef087f0fa25363",
+    "Kim2018_biomarker_figure_source_data.tsv": "b7e3a15ab81ef6a7e6d0d8ec52f2c3126e2619c66ba8f9aeb4359b8379dbd9cb",
+    "Kim2018_biomarker_group_score_summary.tsv": "bb48ebc2da05fe0793bfb4ac649b65e9518f3fa0a71532abc63d05ef06bd106f",
+    "Kim2018_biomarker_relationships_input_snapshot.tsv": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+    "Kim2018_score_biomarker_relationships_all9.tsv": "0c8112852fda98b73c95c99674c20b9481ad7d3356b926b95a6c9118203d990a",
+    "original_9test_statistics_snapshot.tsv": "0c8112852fda98b73c95c99674c20b9481ad7d3356b926b95a6c9118203d990a",
+    "plot_biomarker_relationships_response_v2.py": "463b31a281b2d738c4d10471917f095b4a0bde08dfe962ff07c3a5ddc9f774ae",
+    "Results_CN.md": "171dd9a65b63ac587aa641609188991d237e11354d4c73ad3d00a755346c6fb4"
+  }
+}

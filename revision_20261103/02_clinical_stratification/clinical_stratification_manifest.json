@@ -1,0 +1,57 @@
+{
+  "created_utc": "2026-11-02T18:01:19.467032+00:00",
+  "analysis": "Descriptive biomarker-stratified tabulation of frozen Kim2018 configurations",
+  "input_source": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\WJGOsubmit\\review\\R2_supplementary_analyses_20261103\\02_clinical_stratification\\Kim2018_patient_input_snapshot.tsv",
+  "input_source_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "original_upstream_source_path": "I:\\ECM-new\\ECM_CFD_CXCL12_BCELL_GC_2026\\figures\\source_data\\Figure6_final\\Figure6g_Kim2018_patient_data.tsv",
+  "original_upstream_source_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "input_default_policy": "Prefer the saved input snapshot beside the script; otherwise use the original project data path",
+  "input_snapshot": "Kim2018_patient_input_snapshot.tsv",
+  "input_snapshot_sha256": "4820377a6c9bfc2e6b847dd78f7c5d728dfc8ca97e3eee219b9041713d244420",
+  "script": "analyze_clinical_stratification.py",
+  "script_sha256": "462f35385b5f1e270c0d07098f4a458a2470ba5209e0b71450e15df1573266e6",
+  "runtime": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "third_party_dependencies": []
+  },
+  "definition": {
+    "MSI_positive": "msi_type_pentaplex == 'MSI'",
+    "MSI_negative": "msi_type_pentaplex == 'MSS' (pentaplex assay, not WES subtype)",
+    "EBV_positive": "ebv_in_situ == 'Positive'",
+    "EBV_negative": "ebv_in_situ == 'Negative' (ISH assay, not WES estimate)",
+    "restriction": "MSS AND EBV ISH-negative; missing status is never classified as negative",
+    "response": "response_binary as supplied in the frozen patient table",
+    "configuration": "ecotype4 as supplied in the frozen patient table; no thresholds re-estimated",
+    "CPS_quartiles": "Linear interpolation, R type 7 / NumPy method='linear'; available cases only"
+  },
+  "inference": {
+    "tests_performed": 0,
+    "correction_family": "Not applicable: descriptive counts and quantiles only",
+    "random_seed": "Not applicable: deterministic tabulation"
+  },
+  "validation": {
+    "n_45": true,
+    "responders_12": true,
+    "patient_ids_unique": true,
+    "MSI_complete": true,
+    "EBV_ISH_complete": true,
+    "CPS_available_41_missing_4": true,
+    "restricted_macrophage_dominant_1_of_2": true,
+    "restricted_dual_high_0_of_14": true
+  },
+  "outputs": {
+    "Kim2018_patients_with_restriction_flags.tsv": {
+      "sha256": "caa60fd4731c8d30988ff8e6167c8332c55cc78bc6f6ee5704f8be21f3f03c56"
+    },
+    "Kim2018_response_by_restriction.tsv": {
+      "sha256": "609e42a8e731a566ee5977a43fa8dfaf7ed59d6091167981582a995b63c31ab1"
+    },
+    "Kim2018_configuration_biomarker_numeric_summary.tsv": {
+      "sha256": "c5a4240de95e7e1fedb2a49c2fdd2b54b548600303547f10feacd14702e5117d"
+    },
+    "Supplemental_Table6_biomarker_stratified_response_panel.tsv": {
+      "sha256": "82d7d9b1b2538689f7bd69da9ae9b7031d4f8623e385c3012ead886e4cee2364"
+    }
+  }
+}

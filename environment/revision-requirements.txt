@@ -1,0 +1,8 @@
+# Package names for numerical/plotting revision modules; not an environment lockfile.
+numpy
+pandas
+scipy
+matplotlib
+Pillow
+h5py
+threadpoolctl

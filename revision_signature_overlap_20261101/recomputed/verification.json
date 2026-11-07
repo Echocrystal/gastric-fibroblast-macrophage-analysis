@@ -1,0 +1,22 @@
+{
+  "rows": 7,
+  "reference_counts": [
+    263,
+    410,
+    20,
+    626,
+    805,
+    402,
+    7
+  ],
+  "shared_counts": [
+    5,
+    13,
+    1,
+    30,
+    17,
+    9,
+    1
+  ],
+  "all_frozen_expectations_match": true
+}

@@ -1,0 +1,50 @@
+{
+  "status": "post_hoc_standalone_reviewer_sensitivity",
+  "n_myeloid_cells": 9002,
+  "n_patients": 26,
+  "target_cluster": 3,
+  "comparator_clusters": [
+    1,
+    4,
+    5
+  ],
+  "within_patient_scaling_cells": "all myeloid cells including cluster 2",
+  "eligibility": "at least 5 target and 20 pooled comparator cells per patient",
+  "normalization": "log1p(CP10K), full-library denominator; gene-wise sample-SD Z scores within patient across all myeloid cells; equal mean across informative module genes; patient-state means",
+  "score_test": "two-sided asymptotic paired Wilcoxon signed-rank, continuity corrected",
+  "score_multiplicity": "BH across all 4 explicitly named post hoc score tests; does not replace original six-programme family",
+  "bootstrap": "9999 patient bootstrap resamples, percentile CI for median delta; seed2026110305",
+  "raw_DE_tested_n": 8301,
+  "original_GSEA_ranked_n": 8187,
+  "technical_removed_n": 114,
+  "matched_GSEA_ranked_n": 8182,
+  "axis_removed_from_original_GSEA_background": [
+    "ANXA2",
+    "ILK",
+    "ITGAM",
+    "ITGB2",
+    "LRP1"
+  ],
+  "original_GO_score_reproduction_max_abs_error": 5.551115123125783e-16,
+  "versions": {
+    "python": "3.12.7",
+    "numpy": "2.4.6",
+    "scipy": "1.17.1",
+    "pandas": "2.3.3",
+    "h5py": "3.16.0"
+  },
+  "GO_matched_gene_direction_summary": {
+    "gene_n": 156,
+    "positive_mean_delta_z": 126,
+    "positive_pseudobulk_logFC": 75,
+    "negative_pseudobulk_logFC": 81
+  },
+  "Reactome_matched_gene_direction_summary": {
+    "gene_n": 101,
+    "positive_mean_delta_z": 64,
+    "positive_pseudobulk_logFC": 28,
+    "negative_pseudobulk_logFC": 73
+  },
+  "GSEA_reproduction_max_NES_error": 4.440892098500626e-16,
+  "new_GSEA_multiplicity": "BH across fixed14 external sets on matched axis-excluded background; standalone post hoc sensitivity"
+}
