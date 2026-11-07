@@ -1,0 +1,24 @@
+File ID	Related S11 resource or analysis	Archive-relative file	Contents
+R01	R01	resources/gene_sets/myeloid_receiver_programs_frozen.tsv	Myeloid identity markers and programme gene sets
+R02	R02	resources/gene_sets/GSE183904_fine_state_modules_frozen.tsv	Fibroblast and myeloid annotation/QC marker modules
+R03	R03	resources/gene_sets/GSE183904_PLAT_ecosystem_bulk_signatures.tsv	Primary and alternative bulk-projection signatures
+R04	R04	resources/gene_sets/GSE183904_C1QC_APOE_receptor_screen_v2_scTenifoldKnk_programs_axis_excluded.tsv	Receptor-screen programme gene sets
+R05	R05	resources/gene_sets/GSE183904_C1QC_APOE_receptor_screen_v2_scTenifoldKnk_universe.tsv	Receptor-screen gene universe
+R06	R06	resources/gene_sets/GSE183904_primary_receptors_v2_scTenifoldKnk_network_matched_controls.tsv	Receptor-matched control genes
+R07	R07	resources/gene_sets/virtual_knockout_sanity_programs_axis_excluded.tsv	Virtual-knockout sanity programme gene sets
+R08	R08	resources/gene_sets/GSE206785_SPON2_sender_matched_controls.tsv	SPON2 sender-matched control genes
+R09	R09	resources/gene_sets/GSE183904_ITGAM_directional_network_matched_controls.tsv	ITGAM directional-matched control genes
+R10	R10	resources/ligand_receptor/lr_gene_universe_frozen.tsv	Ligand/receptor gene universe
+R11	R11	resources/ligand_receptor/lr_network_human_21122021_frozen.tsv	NicheNet-derived ligand–receptor network
+R03-primary	R03	gene_sets/GSE183904_primary_sender_receiver_signatures_30plus30.tsv	Primary sender and receiver signatures only; gene-selection ranks and equal scoring weights.
+R02-fib-markers	R02	gene_sets/GSE183904_Fibroblast_fine_state_top_markers.tsv	Descriptive top markers for the six initial fibroblast-lineage clusters; not the primary sender signature.
+R02-myeloid-markers	R02	gene_sets/GSE183904_Myeloid_fine_state_top_markers.tsv	Descriptive top markers for five myeloid clusters; not the primary receiver signature.
+D10-snapshot	D10	revision_20261103/02_clinical_stratification/Kim2018_patient_input_snapshot.tsv	Frozen 45-patient clinical input, fixed scores, configuration and response annotations.
+P01-P05-lists	P01-P05	resources/signature_references/published_reference_gene_lists.tsv	The complete published reference rows used for the seven S6 overlap comparisons.
+A20-spatial-1	A20; spatial endpoint reaggregation	revision_20261103/01_spatial_endpoint/inputs/SPON2_ITGB2_section_effects.tsv	Frozen spatial endpoint estimates, coverage or calibration used for the section-to-donor summaries.
+A20-spatial-2	A20; spatial endpoint reaggregation	revision_20261103/01_spatial_endpoint/inputs/SPON2_ITGB2_donor_effects.tsv	Frozen spatial endpoint estimates, coverage or calibration used for the section-to-donor summaries.
+A20-spatial-3	A20; spatial endpoint reaggregation	revision_20261103/01_spatial_endpoint/inputs/SPON2_ITGB2_meta_summary.tsv	Frozen spatial endpoint estimates, coverage or calibration used for the section-to-donor summaries.
+A20-spatial-4	A20; spatial endpoint reaggregation	revision_20261103/01_spatial_endpoint/inputs/SPON2_ITGB2_gene_endpoint_coverage.tsv	Frozen spatial endpoint estimates, coverage or calibration used for the section-to-donor summaries.
+A20-spatial-5	A20; spatial endpoint reaggregation	revision_20261103/01_spatial_endpoint/inputs/SPON2_ITGB2_candidate_axis_calibration.tsv	Frozen spatial endpoint estimates, coverage or calibration used for the section-to-donor summaries.
+A09-patient-features	A09; A10	resources/patient_summaries/GSE183904_fine_state_axis_patient_features.tsv	Frozen patient-state features, fractions or counts used by the ecology analyses.
+A09-patient-counts	A09; A10	resources/patient_summaries/GSE183904_fine_state_counts_by_patient.tsv	Frozen patient-state features, fractions or counts used by the ecology analyses.
