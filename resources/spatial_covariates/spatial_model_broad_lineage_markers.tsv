@@ -1,0 +1,25 @@
+panel	gene_symbol	order	implementation	source
+MARKER_Fibroblast	COL1A1	1	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Fibroblast	COL1A2	2	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Fibroblast	COL3A1	3	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Fibroblast	DCN	4	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Fibroblast	LUM	5	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Fibroblast	COL6A1	6	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Fibroblast	COL6A2	7	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Fibroblast	PDGFRA	8	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	EPCAM	1	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	KRT8	2	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	KRT18	3	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	KRT19	4	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	KRT7	5	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	CDH1	6	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	MUC1	7	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+MARKER_Epithelial	KRT17	8	frozen upstream spot-score covariate; mean gene Z, zero-variance genes contribute0	GSE183904_coarse_annotation_markers_locked.tsv
+dynamic_broad_myeloid	LST1	1	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES
+dynamic_broad_myeloid	FCER1G	2	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES
+dynamic_broad_myeloid	TYROBP	3	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES
+dynamic_broad_myeloid	AIF1	4	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES
+dynamic_broad_myeloid	CTSS	5	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES
+dynamic_broad_myeloid	CD68	6	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES
+dynamic_broad_myeloid	CSF1R	7	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES
+dynamic_broad_myeloid	LILRB1	8	script35.module_score; informative measured genes only; >=6 available and informative	35_analyze_GSE270678_PLAT_spatial_chain.py:MYELOID_GENES

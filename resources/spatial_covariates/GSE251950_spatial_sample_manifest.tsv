@@ -1,0 +1,11 @@
+GSM	sample_title	source_name	folder_id	patient_id	specimen_type	primary_analysis
+GSM7990473	GC1	Gastric Cancer	20_00331_LI_SING	GC1	Primary_gastric_tumor	TRUE
+GSM7990474	GC2	Gastric Cancer	21_00731_LI_SING	GC2	Primary_gastric_tumor	TRUE
+GSM7990475	GC3	Gastric Cancer	21_00732_LI_SING	GC3	Primary_gastric_tumor	TRUE
+GSM7990476	GC4	Gastric Cancer	21_00733_LI_SING	GC4	Primary_gastric_tumor	TRUE
+GSM7990477	GC5	Gastric Cancer	21_00734_LI_SING	GC5	Primary_gastric_tumor	TRUE
+GSM7990478	GC6	Gastric Cancer	21_01251_LI_SING	GC6	Primary_gastric_tumor	TRUE
+GSM7990479	GC6-PM	Gastric Cancer Metastasis	21_01252_LI_SING	GC6	Peritoneal_metastasis	FALSE
+GSM7990480	GC7	Gastric Cancer	21_01253_LI_SING	GC7	Primary_gastric_tumor	TRUE
+GSM7990481	GC8	Gastric Cancer	21_01254_LI_SING	GC8	Primary_gastric_tumor	TRUE
+GSM7990482	GC9	Gastric Cancer	21_01675_LI_SING	GC9	Primary_gastric_tumor	TRUE

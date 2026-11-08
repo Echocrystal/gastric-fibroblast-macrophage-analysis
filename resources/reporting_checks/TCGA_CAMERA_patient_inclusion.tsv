@@ -1,0 +1,825 @@
+sample_order	sample_submitter_id	case_submitter_id	model_tier	included	missing_model_variables
+1	TCGA-3M-AB46-01A	TCGA-3M-AB46	purity_adjusted	TRUE	
+2	TCGA-3M-AB47-01A	TCGA-3M-AB47	purity_adjusted	TRUE	
+3	TCGA-B7-5816-01A	TCGA-B7-5816	purity_adjusted	TRUE	
+4	TCGA-B7-5818-01A	TCGA-B7-5818	purity_adjusted	TRUE	
+5	TCGA-B7-A5TI-01A	TCGA-B7-A5TI	purity_adjusted	TRUE	
+6	TCGA-B7-A5TJ-01A	TCGA-B7-A5TJ	purity_adjusted	TRUE	
+7	TCGA-B7-A5TK-01A	TCGA-B7-A5TK	purity_adjusted	TRUE	
+8	TCGA-B7-A5TN-01A	TCGA-B7-A5TN	purity_adjusted	TRUE	
+9	TCGA-BR-4187-01A	TCGA-BR-4187	purity_adjusted	TRUE	
+10	TCGA-BR-4191-01A	TCGA-BR-4191	purity_adjusted	TRUE	
+11	TCGA-BR-4201-01A	TCGA-BR-4201	purity_adjusted	TRUE	
+12	TCGA-BR-4253-01A	TCGA-BR-4253	purity_adjusted	TRUE	
+13	TCGA-BR-4255-01A	TCGA-BR-4255	purity_adjusted	TRUE	
+14	TCGA-BR-4256-01A	TCGA-BR-4256	purity_adjusted	TRUE	
+15	TCGA-BR-4257-01A	TCGA-BR-4257	purity_adjusted	TRUE	
+16	TCGA-BR-4267-01A	TCGA-BR-4267	purity_adjusted	TRUE	
+17	TCGA-BR-4279-01A	TCGA-BR-4279	purity_adjusted	TRUE	
+18	TCGA-BR-4280-01A	TCGA-BR-4280	purity_adjusted	TRUE	
+19	TCGA-BR-4292-01A	TCGA-BR-4292	purity_adjusted	TRUE	
+20	TCGA-BR-4294-01A	TCGA-BR-4294	purity_adjusted	TRUE	
+21	TCGA-BR-4357-01A	TCGA-BR-4357	purity_adjusted	TRUE	
+22	TCGA-BR-4361-01A	TCGA-BR-4361	purity_adjusted	TRUE	
+23	TCGA-BR-4363-01A	TCGA-BR-4363	purity_adjusted	TRUE	
+24	TCGA-BR-4366-01A	TCGA-BR-4366	purity_adjusted	TRUE	
+25	TCGA-BR-4367-01A	TCGA-BR-4367	purity_adjusted	TRUE	
+26	TCGA-BR-4368-01A	TCGA-BR-4368	purity_adjusted	TRUE	
+27	TCGA-BR-4369-01A	TCGA-BR-4369	purity_adjusted	TRUE	
+28	TCGA-BR-4370-01A	TCGA-BR-4370	purity_adjusted	TRUE	
+29	TCGA-BR-4371-01A	TCGA-BR-4371	purity_adjusted	TRUE	
+30	TCGA-BR-6452-01A	TCGA-BR-6452	purity_adjusted	TRUE	
+31	TCGA-BR-6453-01A	TCGA-BR-6453	purity_adjusted	TRUE	
+32	TCGA-BR-6454-01A	TCGA-BR-6454	purity_adjusted	TRUE	
+33	TCGA-BR-6455-01A	TCGA-BR-6455	purity_adjusted	TRUE	
+34	TCGA-BR-6456-01A	TCGA-BR-6456	purity_adjusted	TRUE	
+35	TCGA-BR-6457-01A	TCGA-BR-6457	purity_adjusted	TRUE	
+36	TCGA-BR-6458-01A	TCGA-BR-6458	purity_adjusted	TRUE	
+37	TCGA-BR-6563-01A	TCGA-BR-6563	purity_adjusted	TRUE	
+38	TCGA-BR-6564-01A	TCGA-BR-6564	purity_adjusted	TRUE	
+39	TCGA-BR-6565-01A	TCGA-BR-6565	purity_adjusted	TRUE	
+40	TCGA-BR-6566-01A	TCGA-BR-6566	purity_adjusted	TRUE	
+41	TCGA-BR-6705-01A	TCGA-BR-6705	purity_adjusted	TRUE	
+42	TCGA-BR-6706-01A	TCGA-BR-6706	purity_adjusted	TRUE	
+43	TCGA-BR-6707-01A	TCGA-BR-6707	purity_adjusted	TRUE	
+44	TCGA-BR-6709-01A	TCGA-BR-6709	purity_adjusted	TRUE	
+45	TCGA-BR-6710-01A	TCGA-BR-6710	purity_adjusted	TRUE	
+46	TCGA-BR-6801-01A	TCGA-BR-6801	purity_adjusted	TRUE	
+47	TCGA-BR-6802-01A	TCGA-BR-6802	purity_adjusted	TRUE	
+48	TCGA-BR-6803-01A	TCGA-BR-6803	purity_adjusted	TRUE	
+49	TCGA-BR-6852-01A	TCGA-BR-6852	purity_adjusted	TRUE	
+50	TCGA-BR-7196-01A	TCGA-BR-7196	purity_adjusted	TRUE	
+51	TCGA-BR-7197-01A	TCGA-BR-7197	purity_adjusted	TRUE	
+52	TCGA-BR-7703-01A	TCGA-BR-7703	purity_adjusted	TRUE	
+53	TCGA-BR-7704-01A	TCGA-BR-7704	purity_adjusted	TRUE	
+54	TCGA-BR-7707-01A	TCGA-BR-7707	purity_adjusted	TRUE	
+55	TCGA-BR-7715-01A	TCGA-BR-7715	purity_adjusted	TRUE	
+56	TCGA-BR-7716-01A	TCGA-BR-7716	purity_adjusted	TRUE	
+57	TCGA-BR-7717-01A	TCGA-BR-7717	purity_adjusted	TRUE	
+58	TCGA-BR-7722-01A	TCGA-BR-7722	purity_adjusted	TRUE	
+59	TCGA-BR-7723-01A	TCGA-BR-7723	purity_adjusted	TRUE	
+60	TCGA-BR-7851-01A	TCGA-BR-7851	purity_adjusted	TRUE	
+61	TCGA-BR-7901-01A	TCGA-BR-7901	purity_adjusted	TRUE	
+62	TCGA-BR-7957-01A	TCGA-BR-7957	purity_adjusted	TRUE	
+63	TCGA-BR-7958-01A	TCGA-BR-7958	purity_adjusted	TRUE	
+64	TCGA-BR-7959-01A	TCGA-BR-7959	purity_adjusted	TRUE	
+65	TCGA-BR-8058-01A	TCGA-BR-8058	purity_adjusted	TRUE	
+66	TCGA-BR-8059-01A	TCGA-BR-8059	purity_adjusted	TRUE	
+67	TCGA-BR-8060-01A	TCGA-BR-8060	purity_adjusted	TRUE	
+68	TCGA-BR-8077-01A	TCGA-BR-8077	purity_adjusted	TRUE	
+69	TCGA-BR-8078-01A	TCGA-BR-8078	purity_adjusted	TRUE	
+70	TCGA-BR-8080-01A	TCGA-BR-8080	purity_adjusted	TRUE	
+71	TCGA-BR-8081-01A	TCGA-BR-8081	purity_adjusted	TRUE	
+72	TCGA-BR-8284-01A	TCGA-BR-8284	purity_adjusted	TRUE	
+73	TCGA-BR-8286-01A	TCGA-BR-8286	purity_adjusted	TRUE	
+74	TCGA-BR-8289-01A	TCGA-BR-8289	purity_adjusted	TRUE	
+75	TCGA-BR-8291-01A	TCGA-BR-8291	purity_adjusted	TRUE	
+76	TCGA-BR-8295-01A	TCGA-BR-8295	purity_adjusted	TRUE	
+77	TCGA-BR-8296-01A	TCGA-BR-8296	purity_adjusted	TRUE	
+78	TCGA-BR-8297-01A	TCGA-BR-8297	purity_adjusted	TRUE	
+79	TCGA-BR-8361-01A	TCGA-BR-8361	purity_adjusted	TRUE	
+80	TCGA-BR-8362-01A	TCGA-BR-8362	purity_adjusted	TRUE	
+81	TCGA-BR-8363-01A	TCGA-BR-8363	purity_adjusted	TRUE	
+82	TCGA-BR-8364-01A	TCGA-BR-8364	purity_adjusted	TRUE	
+83	TCGA-BR-8365-01A	TCGA-BR-8365	purity_adjusted	TRUE	
+84	TCGA-BR-8366-01A	TCGA-BR-8366	purity_adjusted	TRUE	
+85	TCGA-BR-8367-01A	TCGA-BR-8367	purity_adjusted	TRUE	
+86	TCGA-BR-8368-01A	TCGA-BR-8368	purity_adjusted	TRUE	
+87	TCGA-BR-8369-01A	TCGA-BR-8369	purity_adjusted	TRUE	
+88	TCGA-BR-8371-01A	TCGA-BR-8371	purity_adjusted	TRUE	
+89	TCGA-BR-8372-01A	TCGA-BR-8372	purity_adjusted	TRUE	
+90	TCGA-BR-8373-01A	TCGA-BR-8373	purity_adjusted	TRUE	
+91	TCGA-BR-8380-01A	TCGA-BR-8380	purity_adjusted	TRUE	
+92	TCGA-BR-8381-01A	TCGA-BR-8381	purity_adjusted	TRUE	
+93	TCGA-BR-8382-01A	TCGA-BR-8382	purity_adjusted	TRUE	
+94	TCGA-BR-8384-01A	TCGA-BR-8384	purity_adjusted	TRUE	
+95	TCGA-BR-8483-01A	TCGA-BR-8483	purity_adjusted	TRUE	
+96	TCGA-BR-8484-01A	TCGA-BR-8484	purity_adjusted	TRUE	
+97	TCGA-BR-8485-01A	TCGA-BR-8485	purity_adjusted	TRUE	
+98	TCGA-BR-8486-01A	TCGA-BR-8486	purity_adjusted	TRUE	
+99	TCGA-BR-8487-01A	TCGA-BR-8487	purity_adjusted	TRUE	
+100	TCGA-BR-8588-01A	TCGA-BR-8588	purity_adjusted	TRUE	
+101	TCGA-BR-8589-01A	TCGA-BR-8589	purity_adjusted	TRUE	
+102	TCGA-BR-8590-01A	TCGA-BR-8590	purity_adjusted	TRUE	
+103	TCGA-BR-8591-01A	TCGA-BR-8591	purity_adjusted	TRUE	
+104	TCGA-BR-8592-01A	TCGA-BR-8592	purity_adjusted	TRUE	
+105	TCGA-BR-8676-01A	TCGA-BR-8676	purity_adjusted	TRUE	
+106	TCGA-BR-8677-01A	TCGA-BR-8677	purity_adjusted	TRUE	
+107	TCGA-BR-8678-01A	TCGA-BR-8678	purity_adjusted	TRUE	
+108	TCGA-BR-8679-01A	TCGA-BR-8679	purity_adjusted	TRUE	
+109	TCGA-BR-8680-01A	TCGA-BR-8680	purity_adjusted	TRUE	
+110	TCGA-BR-8682-01A	TCGA-BR-8682	purity_adjusted	TRUE	
+111	TCGA-BR-8683-01A	TCGA-BR-8683	purity_adjusted	TRUE	
+112	TCGA-BR-8686-01A	TCGA-BR-8686	purity_adjusted	TRUE	
+113	TCGA-BR-8687-01A	TCGA-BR-8687	purity_adjusted	TRUE	
+114	TCGA-BR-8690-01A	TCGA-BR-8690	purity_adjusted	TRUE	
+115	TCGA-BR-A44T-01A	TCGA-BR-A44T	purity_adjusted	TRUE	
+116	TCGA-BR-A44U-01A	TCGA-BR-A44U	purity_adjusted	TRUE	
+117	TCGA-BR-A452-01A	TCGA-BR-A452	purity_adjusted	TRUE	
+118	TCGA-BR-A453-01A	TCGA-BR-A453	purity_adjusted	TRUE	
+119	TCGA-BR-A4CR-01A	TCGA-BR-A4CR	purity_adjusted	TRUE	
+120	TCGA-BR-A4CS-01A	TCGA-BR-A4CS	purity_adjusted	TRUE	
+121	TCGA-BR-A4IU-01A	TCGA-BR-A4IU	purity_adjusted	TRUE	
+122	TCGA-BR-A4IV-01A	TCGA-BR-A4IV	purity_adjusted	TRUE	
+123	TCGA-BR-A4IY-01A	TCGA-BR-A4IY	purity_adjusted	TRUE	
+124	TCGA-BR-A4IZ-01A	TCGA-BR-A4IZ	purity_adjusted	TRUE	
+125	TCGA-BR-A4J1-01A	TCGA-BR-A4J1	purity_adjusted	TRUE	
+126	TCGA-BR-A4J2-01A	TCGA-BR-A4J2	purity_adjusted	TRUE	
+127	TCGA-BR-A4J4-01A	TCGA-BR-A4J4	purity_adjusted	TRUE	
+128	TCGA-BR-A4J5-01A	TCGA-BR-A4J5	purity_adjusted	TRUE	
+129	TCGA-BR-A4J6-01A	TCGA-BR-A4J6	purity_adjusted	TRUE	
+130	TCGA-BR-A4J7-01A	TCGA-BR-A4J7	purity_adjusted	TRUE	
+131	TCGA-BR-A4J8-01A	TCGA-BR-A4J8	purity_adjusted	TRUE	
+132	TCGA-BR-A4J9-01A	TCGA-BR-A4J9	purity_adjusted	TRUE	
+133	TCGA-BR-A4PD-01A	TCGA-BR-A4PD	purity_adjusted	TRUE	
+134	TCGA-BR-A4PE-01A	TCGA-BR-A4PE	purity_adjusted	TRUE	
+135	TCGA-BR-A4PF-01A	TCGA-BR-A4PF	purity_adjusted	TRUE	
+136	TCGA-BR-A4QI-01A	TCGA-BR-A4QI	purity_adjusted	TRUE	
+137	TCGA-BR-A4QL-01A	TCGA-BR-A4QL	purity_adjusted	TRUE	
+138	TCGA-BR-A4QM-01A	TCGA-BR-A4QM	purity_adjusted	TRUE	
+139	TCGA-CD-5798-01A	TCGA-CD-5798	purity_adjusted	TRUE	
+140	TCGA-CD-5799-01A	TCGA-CD-5799	purity_adjusted	TRUE	
+141	TCGA-CD-5800-01A	TCGA-CD-5800	purity_adjusted	TRUE	
+142	TCGA-CD-5801-01A	TCGA-CD-5801	purity_adjusted	TRUE	
+143	TCGA-CD-5803-01A	TCGA-CD-5803	purity_adjusted	TRUE	
+144	TCGA-CD-5804-01A	TCGA-CD-5804	purity_adjusted	TRUE	
+145	TCGA-CD-5813-01A	TCGA-CD-5813	purity_adjusted	FALSE	purity_z_model
+146	TCGA-CD-8524-01A	TCGA-CD-8524	purity_adjusted	TRUE	
+147	TCGA-CD-8525-01A	TCGA-CD-8525	purity_adjusted	TRUE	
+148	TCGA-CD-8526-01A	TCGA-CD-8526	purity_adjusted	TRUE	
+149	TCGA-CD-8527-01A	TCGA-CD-8527	purity_adjusted	TRUE	
+150	TCGA-CD-8528-01A	TCGA-CD-8528	purity_adjusted	TRUE	
+151	TCGA-CD-8529-01A	TCGA-CD-8529	purity_adjusted	TRUE	
+152	TCGA-CD-8530-01A	TCGA-CD-8530	purity_adjusted	TRUE	
+153	TCGA-CD-8531-01A	TCGA-CD-8531	purity_adjusted	TRUE	
+154	TCGA-CD-8532-01A	TCGA-CD-8532	purity_adjusted	TRUE	
+155	TCGA-CD-8533-01A	TCGA-CD-8533	purity_adjusted	TRUE	
+156	TCGA-CD-8534-01A	TCGA-CD-8534	purity_adjusted	TRUE	
+157	TCGA-CD-8535-01A	TCGA-CD-8535	purity_adjusted	TRUE	
+158	TCGA-CD-8536-01A	TCGA-CD-8536	purity_adjusted	TRUE	
+159	TCGA-CD-A486-01A	TCGA-CD-A486	purity_adjusted	TRUE	
+160	TCGA-CD-A487-01A	TCGA-CD-A487	purity_adjusted	TRUE	
+161	TCGA-CD-A489-01A	TCGA-CD-A489	purity_adjusted	TRUE	
+162	TCGA-CD-A48A-01A	TCGA-CD-A48A	purity_adjusted	TRUE	
+163	TCGA-CD-A48C-01A	TCGA-CD-A48C	purity_adjusted	TRUE	
+164	TCGA-CD-A4MG-01A	TCGA-CD-A4MG	purity_adjusted	TRUE	
+165	TCGA-CD-A4MH-01A	TCGA-CD-A4MH	purity_adjusted	TRUE	
+166	TCGA-CD-A4MI-01A	TCGA-CD-A4MI	purity_adjusted	TRUE	
+167	TCGA-CD-A4MJ-01A	TCGA-CD-A4MJ	purity_adjusted	TRUE	
+168	TCGA-CG-4301-01A	TCGA-CG-4301	purity_adjusted	TRUE	
+169	TCGA-CG-4304-01A	TCGA-CG-4304	purity_adjusted	TRUE	
+170	TCGA-CG-4305-01A	TCGA-CG-4305	purity_adjusted	TRUE	
+171	TCGA-CG-4306-01A	TCGA-CG-4306	purity_adjusted	TRUE	
+172	TCGA-CG-4436-01A	TCGA-CG-4436	purity_adjusted	TRUE	
+173	TCGA-CG-4437-01A	TCGA-CG-4437	purity_adjusted	TRUE	
+174	TCGA-CG-4438-01A	TCGA-CG-4438	purity_adjusted	TRUE	
+175	TCGA-CG-4440-01A	TCGA-CG-4440	purity_adjusted	TRUE	
+176	TCGA-CG-4441-01A	TCGA-CG-4441	purity_adjusted	TRUE	
+177	TCGA-CG-4442-01A	TCGA-CG-4442	purity_adjusted	TRUE	
+178	TCGA-CG-4443-01A	TCGA-CG-4443	purity_adjusted	TRUE	
+179	TCGA-CG-4444-01A	TCGA-CG-4444	purity_adjusted	TRUE	
+180	TCGA-CG-4460-01A	TCGA-CG-4460	purity_adjusted	TRUE	
+181	TCGA-CG-4462-01A	TCGA-CG-4462	purity_adjusted	TRUE	
+182	TCGA-CG-4465-01A	TCGA-CG-4465	purity_adjusted	TRUE	
+183	TCGA-CG-4466-01A	TCGA-CG-4466	purity_adjusted	TRUE	
+184	TCGA-CG-4469-01A	TCGA-CG-4469	purity_adjusted	TRUE	
+185	TCGA-CG-4475-01A	TCGA-CG-4475	purity_adjusted	TRUE	
+186	TCGA-CG-4476-01A	TCGA-CG-4476	purity_adjusted	TRUE	
+187	TCGA-CG-4477-01A	TCGA-CG-4477	purity_adjusted	TRUE	
+188	TCGA-CG-5716-01A	TCGA-CG-5716	purity_adjusted	FALSE	purity_z_model
+189	TCGA-CG-5717-01A	TCGA-CG-5717	purity_adjusted	TRUE	
+190	TCGA-CG-5718-01A	TCGA-CG-5718	purity_adjusted	TRUE	
+191	TCGA-CG-5719-01A	TCGA-CG-5719	purity_adjusted	TRUE	
+192	TCGA-CG-5720-01A	TCGA-CG-5720	purity_adjusted	TRUE	
+193	TCGA-CG-5721-01A	TCGA-CG-5721	purity_adjusted	TRUE	
+194	TCGA-CG-5722-01A	TCGA-CG-5722	purity_adjusted	TRUE	
+195	TCGA-CG-5723-01A	TCGA-CG-5723	purity_adjusted	TRUE	
+196	TCGA-CG-5724-01A	TCGA-CG-5724	purity_adjusted	TRUE	
+197	TCGA-CG-5725-01A	TCGA-CG-5725	purity_adjusted	TRUE	
+198	TCGA-CG-5726-01A	TCGA-CG-5726	purity_adjusted	TRUE	
+199	TCGA-CG-5732-01A	TCGA-CG-5732	purity_adjusted	TRUE	
+200	TCGA-CG-5734-01A	TCGA-CG-5734	purity_adjusted	TRUE	
+201	TCGA-D7-5577-01A	TCGA-D7-5577	purity_adjusted	TRUE	
+202	TCGA-D7-5578-01A	TCGA-D7-5578	purity_adjusted	TRUE	
+203	TCGA-D7-6518-01A	TCGA-D7-6518	purity_adjusted	TRUE	
+204	TCGA-D7-6519-01A	TCGA-D7-6519	purity_adjusted	TRUE	
+205	TCGA-D7-6520-01A	TCGA-D7-6520	purity_adjusted	TRUE	
+206	TCGA-D7-6521-01A	TCGA-D7-6521	purity_adjusted	TRUE	
+207	TCGA-D7-6522-01A	TCGA-D7-6522	purity_adjusted	TRUE	
+208	TCGA-D7-6524-01A	TCGA-D7-6524	purity_adjusted	TRUE	
+209	TCGA-D7-6525-01A	TCGA-D7-6525	purity_adjusted	TRUE	
+210	TCGA-D7-6526-01A	TCGA-D7-6526	purity_adjusted	TRUE	
+211	TCGA-D7-6527-01A	TCGA-D7-6527	purity_adjusted	TRUE	
+212	TCGA-D7-6528-01A	TCGA-D7-6528	purity_adjusted	TRUE	
+213	TCGA-D7-6815-01A	TCGA-D7-6815	purity_adjusted	TRUE	
+214	TCGA-D7-6817-01A	TCGA-D7-6817	purity_adjusted	TRUE	
+215	TCGA-D7-6818-01A	TCGA-D7-6818	purity_adjusted	TRUE	
+216	TCGA-D7-6820-01A	TCGA-D7-6820	purity_adjusted	TRUE	
+217	TCGA-D7-6822-01A	TCGA-D7-6822	purity_adjusted	TRUE	
+218	TCGA-D7-8570-01A	TCGA-D7-8570	purity_adjusted	TRUE	
+219	TCGA-D7-8572-01A	TCGA-D7-8572	purity_adjusted	TRUE	
+220	TCGA-D7-8573-01A	TCGA-D7-8573	purity_adjusted	TRUE	
+221	TCGA-D7-8574-01A	TCGA-D7-8574	purity_adjusted	TRUE	
+222	TCGA-D7-8575-01A	TCGA-D7-8575	purity_adjusted	TRUE	
+223	TCGA-D7-8576-01A	TCGA-D7-8576	purity_adjusted	TRUE	
+224	TCGA-D7-8578-01A	TCGA-D7-8578	purity_adjusted	TRUE	
+225	TCGA-D7-8579-01A	TCGA-D7-8579	purity_adjusted	TRUE	
+226	TCGA-D7-A4YT-01A	TCGA-D7-A4YT	purity_adjusted	TRUE	
+227	TCGA-D7-A4YU-01A	TCGA-D7-A4YU	purity_adjusted	TRUE	
+228	TCGA-D7-A4YV-01A	TCGA-D7-A4YV	purity_adjusted	TRUE	
+229	TCGA-D7-A4YX-01A	TCGA-D7-A4YX	purity_adjusted	TRUE	
+230	TCGA-D7-A4YY-01A	TCGA-D7-A4YY	purity_adjusted	TRUE	
+231	TCGA-D7-A4Z0-01A	TCGA-D7-A4Z0	purity_adjusted	TRUE	
+232	TCGA-D7-A6EV-01A	TCGA-D7-A6EV	purity_adjusted	TRUE	
+233	TCGA-D7-A6EX-01A	TCGA-D7-A6EX	purity_adjusted	TRUE	
+234	TCGA-D7-A6EY-01A	TCGA-D7-A6EY	purity_adjusted	TRUE	
+235	TCGA-D7-A6EZ-01A	TCGA-D7-A6EZ	purity_adjusted	TRUE	
+236	TCGA-D7-A6F0-01A	TCGA-D7-A6F0	purity_adjusted	TRUE	
+237	TCGA-D7-A6F2-01A	TCGA-D7-A6F2	purity_adjusted	TRUE	
+238	TCGA-D7-A747-01A	TCGA-D7-A747	purity_adjusted	TRUE	
+239	TCGA-D7-A748-01A	TCGA-D7-A748	purity_adjusted	TRUE	
+240	TCGA-D7-A74A-01A	TCGA-D7-A74A	purity_adjusted	TRUE	
+241	TCGA-EQ-8122-01A	TCGA-EQ-8122	purity_adjusted	TRUE	
+242	TCGA-EQ-A4SO-01A	TCGA-EQ-A4SO	purity_adjusted	TRUE	
+243	TCGA-F1-6177-01A	TCGA-F1-6177	purity_adjusted	TRUE	
+244	TCGA-F1-6874-01A	TCGA-F1-6874	purity_adjusted	TRUE	
+245	TCGA-F1-6875-01A	TCGA-F1-6875	purity_adjusted	TRUE	
+246	TCGA-F1-A448-01A	TCGA-F1-A448	purity_adjusted	TRUE	
+247	TCGA-F1-A72C-01A	TCGA-F1-A72C	purity_adjusted	TRUE	
+248	TCGA-FP-7735-01A	TCGA-FP-7735	purity_adjusted	FALSE	purity_z_model
+249	TCGA-FP-7829-01A	TCGA-FP-7829	purity_adjusted	TRUE	
+250	TCGA-FP-7916-01A	TCGA-FP-7916	purity_adjusted	TRUE	
+251	TCGA-FP-7998-01A	TCGA-FP-7998	purity_adjusted	TRUE	
+252	TCGA-FP-8099-01A	TCGA-FP-8099	purity_adjusted	TRUE	
+253	TCGA-FP-8209-01A	TCGA-FP-8209	purity_adjusted	FALSE	purity_z_model
+254	TCGA-FP-8210-01A	TCGA-FP-8210	purity_adjusted	TRUE	
+255	TCGA-FP-8211-01A	TCGA-FP-8211	purity_adjusted	TRUE	
+256	TCGA-FP-8631-01A	TCGA-FP-8631	purity_adjusted	TRUE	
+257	TCGA-FP-A4BE-01A	TCGA-FP-A4BE	purity_adjusted	FALSE	purity_z_model
+258	TCGA-FP-A4BF-01A	TCGA-FP-A4BF	purity_adjusted	TRUE	
+259	TCGA-FP-A8CX-01A	TCGA-FP-A8CX	purity_adjusted	TRUE	
+260	TCGA-FP-A9TM-01A	TCGA-FP-A9TM	purity_adjusted	TRUE	
+261	TCGA-HF-7131-01A	TCGA-HF-7131	purity_adjusted	TRUE	
+262	TCGA-HF-7132-01A	TCGA-HF-7132	purity_adjusted	TRUE	
+263	TCGA-HF-7133-01A	TCGA-HF-7133	purity_adjusted	TRUE	
+264	TCGA-HF-7134-01A	TCGA-HF-7134	purity_adjusted	TRUE	
+265	TCGA-HF-7136-01A	TCGA-HF-7136	purity_adjusted	TRUE	
+266	TCGA-HF-A5NB-01A	TCGA-HF-A5NB	purity_adjusted	TRUE	
+267	TCGA-HJ-7597-01A	TCGA-HJ-7597	purity_adjusted	TRUE	
+268	TCGA-HU-8238-01A	TCGA-HU-8238	purity_adjusted	TRUE	
+269	TCGA-HU-8243-01A	TCGA-HU-8243	purity_adjusted	TRUE	
+270	TCGA-HU-8244-01A	TCGA-HU-8244	purity_adjusted	TRUE	
+271	TCGA-HU-8249-01A	TCGA-HU-8249	purity_adjusted	TRUE	
+272	TCGA-HU-8602-01A	TCGA-HU-8602	purity_adjusted	TRUE	
+273	TCGA-HU-8604-01A	TCGA-HU-8604	purity_adjusted	TRUE	
+274	TCGA-HU-8608-01A	TCGA-HU-8608	purity_adjusted	TRUE	
+275	TCGA-HU-8610-01A	TCGA-HU-8610	purity_adjusted	TRUE	
+276	TCGA-HU-A4G2-01A	TCGA-HU-A4G2	purity_adjusted	TRUE	
+277	TCGA-HU-A4G3-01A	TCGA-HU-A4G3	purity_adjusted	FALSE	purity_z_model
+278	TCGA-HU-A4G6-01A	TCGA-HU-A4G6	purity_adjusted	TRUE	
+279	TCGA-HU-A4G8-01A	TCGA-HU-A4G8	purity_adjusted	TRUE	
+280	TCGA-HU-A4G9-01A	TCGA-HU-A4G9	purity_adjusted	TRUE	
+281	TCGA-HU-A4GC-01A	TCGA-HU-A4GC	purity_adjusted	TRUE	
+282	TCGA-HU-A4GD-01A	TCGA-HU-A4GD	purity_adjusted	TRUE	
+283	TCGA-HU-A4GF-01A	TCGA-HU-A4GF	purity_adjusted	TRUE	
+284	TCGA-HU-A4GH-01A	TCGA-HU-A4GH	purity_adjusted	TRUE	
+285	TCGA-HU-A4GJ-01A	TCGA-HU-A4GJ	purity_adjusted	FALSE	purity_z_model
+286	TCGA-HU-A4GN-01A	TCGA-HU-A4GN	purity_adjusted	TRUE	
+287	TCGA-HU-A4GP-01A	TCGA-HU-A4GP	purity_adjusted	TRUE	
+288	TCGA-HU-A4GQ-01A	TCGA-HU-A4GQ	purity_adjusted	TRUE	
+289	TCGA-HU-A4GT-01A	TCGA-HU-A4GT	purity_adjusted	TRUE	
+290	TCGA-HU-A4GU-01A	TCGA-HU-A4GU	purity_adjusted	TRUE	
+291	TCGA-HU-A4GX-01A	TCGA-HU-A4GX	purity_adjusted	TRUE	
+292	TCGA-HU-A4GY-01A	TCGA-HU-A4GY	purity_adjusted	TRUE	
+293	TCGA-HU-A4H0-01A	TCGA-HU-A4H0	purity_adjusted	TRUE	
+294	TCGA-HU-A4H2-01A	TCGA-HU-A4H2	purity_adjusted	TRUE	
+295	TCGA-HU-A4H3-01A	TCGA-HU-A4H3	purity_adjusted	TRUE	
+296	TCGA-HU-A4H4-01A	TCGA-HU-A4H4	purity_adjusted	TRUE	
+297	TCGA-HU-A4H5-01A	TCGA-HU-A4H5	purity_adjusted	TRUE	
+298	TCGA-HU-A4H6-01A	TCGA-HU-A4H6	purity_adjusted	TRUE	
+299	TCGA-HU-A4H8-01A	TCGA-HU-A4H8	purity_adjusted	TRUE	
+300	TCGA-HU-A4HB-01A	TCGA-HU-A4HB	purity_adjusted	TRUE	
+301	TCGA-HU-A4HD-01A	TCGA-HU-A4HD	purity_adjusted	TRUE	
+302	TCGA-IN-7806-01A	TCGA-IN-7806	purity_adjusted	TRUE	
+303	TCGA-IN-7808-01A	TCGA-IN-7808	purity_adjusted	TRUE	
+304	TCGA-IN-8462-01A	TCGA-IN-8462	purity_adjusted	TRUE	
+305	TCGA-IN-8663-01A	TCGA-IN-8663	purity_adjusted	TRUE	
+306	TCGA-IN-A6RI-01A	TCGA-IN-A6RI	purity_adjusted	TRUE	
+307	TCGA-IN-A6RJ-01A	TCGA-IN-A6RJ	purity_adjusted	TRUE	
+308	TCGA-IN-A6RL-01A	TCGA-IN-A6RL	purity_adjusted	TRUE	
+309	TCGA-IN-A6RN-01A	TCGA-IN-A6RN	purity_adjusted	TRUE	
+310	TCGA-IN-A6RO-01A	TCGA-IN-A6RO	purity_adjusted	TRUE	
+311	TCGA-IN-A6RR-01A	TCGA-IN-A6RR	purity_adjusted	TRUE	
+312	TCGA-IN-A6RS-01A	TCGA-IN-A6RS	purity_adjusted	TRUE	
+313	TCGA-IN-A7NR-01A	TCGA-IN-A7NR	purity_adjusted	TRUE	
+314	TCGA-IN-A7NT-01A	TCGA-IN-A7NT	purity_adjusted	TRUE	
+315	TCGA-IN-A7NU-01A	TCGA-IN-A7NU	purity_adjusted	TRUE	
+316	TCGA-IN-AB1V-01A	TCGA-IN-AB1V	purity_adjusted	TRUE	
+317	TCGA-IN-AB1X-01A	TCGA-IN-AB1X	purity_adjusted	TRUE	
+318	TCGA-IP-7968-01A	TCGA-IP-7968	purity_adjusted	TRUE	
+319	TCGA-KB-A6F7-01A	TCGA-KB-A6F7	purity_adjusted	TRUE	
+320	TCGA-KB-A93G-01A	TCGA-KB-A93G	purity_adjusted	TRUE	
+321	TCGA-KB-A93H-01A	TCGA-KB-A93H	purity_adjusted	TRUE	
+322	TCGA-KB-A93J-01A	TCGA-KB-A93J	purity_adjusted	TRUE	
+323	TCGA-MX-A5UG-01A	TCGA-MX-A5UG	purity_adjusted	TRUE	
+324	TCGA-MX-A5UJ-01A	TCGA-MX-A5UJ	purity_adjusted	TRUE	
+325	TCGA-MX-A663-01A	TCGA-MX-A663	purity_adjusted	TRUE	
+326	TCGA-MX-A666-01A	TCGA-MX-A666	purity_adjusted	TRUE	
+327	TCGA-R5-A7O7-01A	TCGA-R5-A7O7	purity_adjusted	TRUE	
+328	TCGA-R5-A7ZE-01B	TCGA-R5-A7ZE	purity_adjusted	TRUE	
+329	TCGA-R5-A7ZF-01A	TCGA-R5-A7ZF	purity_adjusted	TRUE	
+330	TCGA-R5-A7ZI-01A	TCGA-R5-A7ZI	purity_adjusted	TRUE	
+331	TCGA-R5-A7ZR-01A	TCGA-R5-A7ZR	purity_adjusted	TRUE	
+332	TCGA-R5-A805-01A	TCGA-R5-A805	purity_adjusted	TRUE	
+333	TCGA-RD-A7BS-01A	TCGA-RD-A7BS	purity_adjusted	TRUE	
+334	TCGA-RD-A7BT-01A	TCGA-RD-A7BT	purity_adjusted	TRUE	
+335	TCGA-RD-A7BW-01A	TCGA-RD-A7BW	purity_adjusted	TRUE	
+336	TCGA-RD-A7C1-01A	TCGA-RD-A7C1	purity_adjusted	TRUE	
+337	TCGA-RD-A8MV-01A	TCGA-RD-A8MV	purity_adjusted	TRUE	
+338	TCGA-RD-A8MW-01A	TCGA-RD-A8MW	purity_adjusted	TRUE	
+339	TCGA-RD-A8N0-01A	TCGA-RD-A8N0	purity_adjusted	FALSE	purity_z_model
+340	TCGA-RD-A8N1-01A	TCGA-RD-A8N1	purity_adjusted	TRUE	
+341	TCGA-RD-A8N2-01A	TCGA-RD-A8N2	purity_adjusted	FALSE	purity_z_model
+342	TCGA-RD-A8N4-01A	TCGA-RD-A8N4	purity_adjusted	TRUE	
+343	TCGA-RD-A8N5-01A	TCGA-RD-A8N5	purity_adjusted	TRUE	
+344	TCGA-RD-A8N6-01A	TCGA-RD-A8N6	purity_adjusted	TRUE	
+345	TCGA-RD-A8N9-01A	TCGA-RD-A8N9	purity_adjusted	TRUE	
+346	TCGA-RD-A8NB-01A	TCGA-RD-A8NB	purity_adjusted	FALSE	purity_z_model
+347	TCGA-SW-A7EA-01A	TCGA-SW-A7EA	purity_adjusted	TRUE	
+348	TCGA-SW-A7EB-01A	TCGA-SW-A7EB	purity_adjusted	TRUE	
+349	TCGA-VQ-A8DT-01A	TCGA-VQ-A8DT	purity_adjusted	TRUE	
+350	TCGA-VQ-A8DU-01A	TCGA-VQ-A8DU	purity_adjusted	TRUE	
+351	TCGA-VQ-A8DV-01A	TCGA-VQ-A8DV	purity_adjusted	TRUE	
+352	TCGA-VQ-A8DZ-01A	TCGA-VQ-A8DZ	purity_adjusted	TRUE	
+353	TCGA-VQ-A8E0-01A	TCGA-VQ-A8E0	purity_adjusted	TRUE	
+354	TCGA-VQ-A8E2-01A	TCGA-VQ-A8E2	purity_adjusted	TRUE	
+355	TCGA-VQ-A8E3-01A	TCGA-VQ-A8E3	purity_adjusted	TRUE	
+356	TCGA-VQ-A8E7-01B	TCGA-VQ-A8E7	purity_adjusted	TRUE	
+357	TCGA-VQ-A8P2-01A	TCGA-VQ-A8P2	purity_adjusted	TRUE	
+358	TCGA-VQ-A8P3-01A	TCGA-VQ-A8P3	purity_adjusted	TRUE	
+359	TCGA-VQ-A8P5-01A	TCGA-VQ-A8P5	purity_adjusted	TRUE	
+360	TCGA-VQ-A8P8-01A	TCGA-VQ-A8P8	purity_adjusted	FALSE	purity_z_model
+361	TCGA-VQ-A8PB-01A	TCGA-VQ-A8PB	purity_adjusted	TRUE	
+362	TCGA-VQ-A8PC-01A	TCGA-VQ-A8PC	purity_adjusted	TRUE	
+363	TCGA-VQ-A8PD-01A	TCGA-VQ-A8PD	purity_adjusted	TRUE	
+364	TCGA-VQ-A8PE-01A	TCGA-VQ-A8PE	purity_adjusted	TRUE	
+365	TCGA-VQ-A8PF-01A	TCGA-VQ-A8PF	purity_adjusted	TRUE	
+366	TCGA-VQ-A8PH-01A	TCGA-VQ-A8PH	purity_adjusted	TRUE	
+367	TCGA-VQ-A8PJ-01A	TCGA-VQ-A8PJ	purity_adjusted	TRUE	
+368	TCGA-VQ-A8PK-01A	TCGA-VQ-A8PK	purity_adjusted	TRUE	
+369	TCGA-VQ-A8PM-01A	TCGA-VQ-A8PM	purity_adjusted	TRUE	
+370	TCGA-VQ-A8PO-01A	TCGA-VQ-A8PO	purity_adjusted	TRUE	
+371	TCGA-VQ-A8PP-01A	TCGA-VQ-A8PP	purity_adjusted	TRUE	
+372	TCGA-VQ-A8PQ-01A	TCGA-VQ-A8PQ	purity_adjusted	TRUE	
+373	TCGA-VQ-A8PU-01A	TCGA-VQ-A8PU	purity_adjusted	TRUE	
+374	TCGA-VQ-A8PX-01A	TCGA-VQ-A8PX	purity_adjusted	TRUE	
+375	TCGA-VQ-A91A-01A	TCGA-VQ-A91A	purity_adjusted	TRUE	
+376	TCGA-VQ-A91D-01A	TCGA-VQ-A91D	purity_adjusted	TRUE	
+377	TCGA-VQ-A91E-01A	TCGA-VQ-A91E	purity_adjusted	TRUE	
+378	TCGA-VQ-A91K-01A	TCGA-VQ-A91K	purity_adjusted	TRUE	
+379	TCGA-VQ-A91N-01A	TCGA-VQ-A91N	purity_adjusted	TRUE	
+380	TCGA-VQ-A91Q-01A	TCGA-VQ-A91Q	purity_adjusted	TRUE	
+381	TCGA-VQ-A91S-01A	TCGA-VQ-A91S	purity_adjusted	TRUE	
+382	TCGA-VQ-A91U-01A	TCGA-VQ-A91U	purity_adjusted	TRUE	
+383	TCGA-VQ-A91V-01A	TCGA-VQ-A91V	purity_adjusted	TRUE	
+384	TCGA-VQ-A91W-01A	TCGA-VQ-A91W	purity_adjusted	TRUE	
+385	TCGA-VQ-A91X-01A	TCGA-VQ-A91X	purity_adjusted	TRUE	
+386	TCGA-VQ-A91Y-01A	TCGA-VQ-A91Y	purity_adjusted	TRUE	
+387	TCGA-VQ-A91Z-01A	TCGA-VQ-A91Z	purity_adjusted	TRUE	
+388	TCGA-VQ-A922-01A	TCGA-VQ-A922	purity_adjusted	TRUE	
+389	TCGA-VQ-A923-01A	TCGA-VQ-A923	purity_adjusted	TRUE	
+390	TCGA-VQ-A924-01A	TCGA-VQ-A924	purity_adjusted	TRUE	
+391	TCGA-VQ-A925-01A	TCGA-VQ-A925	purity_adjusted	TRUE	
+392	TCGA-VQ-A927-01A	TCGA-VQ-A927	purity_adjusted	FALSE	purity_z_model
+393	TCGA-VQ-A928-01A	TCGA-VQ-A928	purity_adjusted	TRUE	
+394	TCGA-VQ-A92D-01A	TCGA-VQ-A92D	purity_adjusted	TRUE	
+395	TCGA-VQ-A94O-01A	TCGA-VQ-A94O	purity_adjusted	TRUE	
+396	TCGA-VQ-A94P-01A	TCGA-VQ-A94P	purity_adjusted	TRUE	
+397	TCGA-VQ-A94R-01A	TCGA-VQ-A94R	purity_adjusted	TRUE	
+398	TCGA-VQ-A94T-01A	TCGA-VQ-A94T	purity_adjusted	TRUE	
+399	TCGA-VQ-A94U-01A	TCGA-VQ-A94U	purity_adjusted	TRUE	
+400	TCGA-VQ-AA64-01A	TCGA-VQ-AA64	purity_adjusted	TRUE	
+401	TCGA-VQ-AA68-01A	TCGA-VQ-AA68	purity_adjusted	TRUE	
+402	TCGA-VQ-AA69-01A	TCGA-VQ-AA69	purity_adjusted	TRUE	
+403	TCGA-VQ-AA6A-01A	TCGA-VQ-AA6A	purity_adjusted	TRUE	
+404	TCGA-VQ-AA6B-01A	TCGA-VQ-AA6B	purity_adjusted	TRUE	
+405	TCGA-VQ-AA6D-01A	TCGA-VQ-AA6D	purity_adjusted	TRUE	
+406	TCGA-VQ-AA6F-01A	TCGA-VQ-AA6F	purity_adjusted	TRUE	
+407	TCGA-VQ-AA6G-01A	TCGA-VQ-AA6G	purity_adjusted	TRUE	
+408	TCGA-VQ-AA6I-01A	TCGA-VQ-AA6I	purity_adjusted	TRUE	
+409	TCGA-VQ-AA6J-01A	TCGA-VQ-AA6J	purity_adjusted	TRUE	
+410	TCGA-VQ-AA6K-01A	TCGA-VQ-AA6K	purity_adjusted	TRUE	
+411	TCGA-ZA-A8F6-01A	TCGA-ZA-A8F6	purity_adjusted	TRUE	
+412	TCGA-ZQ-A9CR-01A	TCGA-ZQ-A9CR	purity_adjusted	TRUE	
+1	TCGA-3M-AB46-01A	TCGA-3M-AB46	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+2	TCGA-3M-AB47-01A	TCGA-3M-AB47	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+3	TCGA-B7-5816-01A	TCGA-B7-5816	lineage_subtype_adjusted	TRUE	
+4	TCGA-B7-5818-01A	TCGA-B7-5818	lineage_subtype_adjusted	TRUE	
+5	TCGA-B7-A5TI-01A	TCGA-B7-A5TI	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+6	TCGA-B7-A5TJ-01A	TCGA-B7-A5TJ	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+7	TCGA-B7-A5TK-01A	TCGA-B7-A5TK	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+8	TCGA-B7-A5TN-01A	TCGA-B7-A5TN	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+9	TCGA-BR-4187-01A	TCGA-BR-4187	lineage_subtype_adjusted	TRUE	
+10	TCGA-BR-4191-01A	TCGA-BR-4191	lineage_subtype_adjusted	TRUE	
+11	TCGA-BR-4201-01A	TCGA-BR-4201	lineage_subtype_adjusted	TRUE	
+12	TCGA-BR-4253-01A	TCGA-BR-4253	lineage_subtype_adjusted	TRUE	
+13	TCGA-BR-4255-01A	TCGA-BR-4255	lineage_subtype_adjusted	TRUE	
+14	TCGA-BR-4256-01A	TCGA-BR-4256	lineage_subtype_adjusted	TRUE	
+15	TCGA-BR-4257-01A	TCGA-BR-4257	lineage_subtype_adjusted	TRUE	
+16	TCGA-BR-4267-01A	TCGA-BR-4267	lineage_subtype_adjusted	TRUE	
+17	TCGA-BR-4279-01A	TCGA-BR-4279	lineage_subtype_adjusted	TRUE	
+18	TCGA-BR-4280-01A	TCGA-BR-4280	lineage_subtype_adjusted	TRUE	
+19	TCGA-BR-4292-01A	TCGA-BR-4292	lineage_subtype_adjusted	TRUE	
+20	TCGA-BR-4294-01A	TCGA-BR-4294	lineage_subtype_adjusted	TRUE	
+21	TCGA-BR-4357-01A	TCGA-BR-4357	lineage_subtype_adjusted	TRUE	
+22	TCGA-BR-4361-01A	TCGA-BR-4361	lineage_subtype_adjusted	TRUE	
+23	TCGA-BR-4363-01A	TCGA-BR-4363	lineage_subtype_adjusted	TRUE	
+24	TCGA-BR-4366-01A	TCGA-BR-4366	lineage_subtype_adjusted	TRUE	
+25	TCGA-BR-4367-01A	TCGA-BR-4367	lineage_subtype_adjusted	TRUE	
+26	TCGA-BR-4368-01A	TCGA-BR-4368	lineage_subtype_adjusted	TRUE	
+27	TCGA-BR-4369-01A	TCGA-BR-4369	lineage_subtype_adjusted	TRUE	
+28	TCGA-BR-4370-01A	TCGA-BR-4370	lineage_subtype_adjusted	TRUE	
+29	TCGA-BR-4371-01A	TCGA-BR-4371	lineage_subtype_adjusted	TRUE	
+30	TCGA-BR-6452-01A	TCGA-BR-6452	lineage_subtype_adjusted	TRUE	
+31	TCGA-BR-6453-01A	TCGA-BR-6453	lineage_subtype_adjusted	TRUE	
+32	TCGA-BR-6454-01A	TCGA-BR-6454	lineage_subtype_adjusted	TRUE	
+33	TCGA-BR-6455-01A	TCGA-BR-6455	lineage_subtype_adjusted	TRUE	
+34	TCGA-BR-6456-01A	TCGA-BR-6456	lineage_subtype_adjusted	TRUE	
+35	TCGA-BR-6457-01A	TCGA-BR-6457	lineage_subtype_adjusted	TRUE	
+36	TCGA-BR-6458-01A	TCGA-BR-6458	lineage_subtype_adjusted	TRUE	
+37	TCGA-BR-6563-01A	TCGA-BR-6563	lineage_subtype_adjusted	TRUE	
+38	TCGA-BR-6564-01A	TCGA-BR-6564	lineage_subtype_adjusted	TRUE	
+39	TCGA-BR-6565-01A	TCGA-BR-6565	lineage_subtype_adjusted	TRUE	
+40	TCGA-BR-6566-01A	TCGA-BR-6566	lineage_subtype_adjusted	TRUE	
+41	TCGA-BR-6705-01A	TCGA-BR-6705	lineage_subtype_adjusted	TRUE	
+42	TCGA-BR-6706-01A	TCGA-BR-6706	lineage_subtype_adjusted	TRUE	
+43	TCGA-BR-6707-01A	TCGA-BR-6707	lineage_subtype_adjusted	TRUE	
+44	TCGA-BR-6709-01A	TCGA-BR-6709	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+45	TCGA-BR-6710-01A	TCGA-BR-6710	lineage_subtype_adjusted	TRUE	
+46	TCGA-BR-6801-01A	TCGA-BR-6801	lineage_subtype_adjusted	TRUE	
+47	TCGA-BR-6802-01A	TCGA-BR-6802	lineage_subtype_adjusted	TRUE	
+48	TCGA-BR-6803-01A	TCGA-BR-6803	lineage_subtype_adjusted	TRUE	
+49	TCGA-BR-6852-01A	TCGA-BR-6852	lineage_subtype_adjusted	TRUE	
+50	TCGA-BR-7196-01A	TCGA-BR-7196	lineage_subtype_adjusted	TRUE	
+51	TCGA-BR-7197-01A	TCGA-BR-7197	lineage_subtype_adjusted	TRUE	
+52	TCGA-BR-7703-01A	TCGA-BR-7703	lineage_subtype_adjusted	TRUE	
+53	TCGA-BR-7704-01A	TCGA-BR-7704	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+54	TCGA-BR-7707-01A	TCGA-BR-7707	lineage_subtype_adjusted	TRUE	
+55	TCGA-BR-7715-01A	TCGA-BR-7715	lineage_subtype_adjusted	TRUE	
+56	TCGA-BR-7716-01A	TCGA-BR-7716	lineage_subtype_adjusted	TRUE	
+57	TCGA-BR-7717-01A	TCGA-BR-7717	lineage_subtype_adjusted	TRUE	
+58	TCGA-BR-7722-01A	TCGA-BR-7722	lineage_subtype_adjusted	TRUE	
+59	TCGA-BR-7723-01A	TCGA-BR-7723	lineage_subtype_adjusted	TRUE	
+60	TCGA-BR-7851-01A	TCGA-BR-7851	lineage_subtype_adjusted	TRUE	
+61	TCGA-BR-7901-01A	TCGA-BR-7901	lineage_subtype_adjusted	TRUE	
+62	TCGA-BR-7957-01A	TCGA-BR-7957	lineage_subtype_adjusted	TRUE	
+63	TCGA-BR-7958-01A	TCGA-BR-7958	lineage_subtype_adjusted	TRUE	
+64	TCGA-BR-7959-01A	TCGA-BR-7959	lineage_subtype_adjusted	TRUE	
+65	TCGA-BR-8058-01A	TCGA-BR-8058	lineage_subtype_adjusted	TRUE	
+66	TCGA-BR-8059-01A	TCGA-BR-8059	lineage_subtype_adjusted	TRUE	
+67	TCGA-BR-8060-01A	TCGA-BR-8060	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+68	TCGA-BR-8077-01A	TCGA-BR-8077	lineage_subtype_adjusted	TRUE	
+69	TCGA-BR-8078-01A	TCGA-BR-8078	lineage_subtype_adjusted	TRUE	
+70	TCGA-BR-8080-01A	TCGA-BR-8080	lineage_subtype_adjusted	TRUE	
+71	TCGA-BR-8081-01A	TCGA-BR-8081	lineage_subtype_adjusted	TRUE	
+72	TCGA-BR-8284-01A	TCGA-BR-8284	lineage_subtype_adjusted	TRUE	
+73	TCGA-BR-8286-01A	TCGA-BR-8286	lineage_subtype_adjusted	TRUE	
+74	TCGA-BR-8289-01A	TCGA-BR-8289	lineage_subtype_adjusted	TRUE	
+75	TCGA-BR-8291-01A	TCGA-BR-8291	lineage_subtype_adjusted	TRUE	
+76	TCGA-BR-8295-01A	TCGA-BR-8295	lineage_subtype_adjusted	TRUE	
+77	TCGA-BR-8296-01A	TCGA-BR-8296	lineage_subtype_adjusted	TRUE	
+78	TCGA-BR-8297-01A	TCGA-BR-8297	lineage_subtype_adjusted	TRUE	
+79	TCGA-BR-8361-01A	TCGA-BR-8361	lineage_subtype_adjusted	TRUE	
+80	TCGA-BR-8362-01A	TCGA-BR-8362	lineage_subtype_adjusted	TRUE	
+81	TCGA-BR-8363-01A	TCGA-BR-8363	lineage_subtype_adjusted	TRUE	
+82	TCGA-BR-8364-01A	TCGA-BR-8364	lineage_subtype_adjusted	TRUE	
+83	TCGA-BR-8365-01A	TCGA-BR-8365	lineage_subtype_adjusted	TRUE	
+84	TCGA-BR-8366-01A	TCGA-BR-8366	lineage_subtype_adjusted	TRUE	
+85	TCGA-BR-8367-01A	TCGA-BR-8367	lineage_subtype_adjusted	TRUE	
+86	TCGA-BR-8368-01A	TCGA-BR-8368	lineage_subtype_adjusted	TRUE	
+87	TCGA-BR-8369-01A	TCGA-BR-8369	lineage_subtype_adjusted	TRUE	
+88	TCGA-BR-8371-01A	TCGA-BR-8371	lineage_subtype_adjusted	TRUE	
+89	TCGA-BR-8372-01A	TCGA-BR-8372	lineage_subtype_adjusted	TRUE	
+90	TCGA-BR-8373-01A	TCGA-BR-8373	lineage_subtype_adjusted	TRUE	
+91	TCGA-BR-8380-01A	TCGA-BR-8380	lineage_subtype_adjusted	TRUE	
+92	TCGA-BR-8381-01A	TCGA-BR-8381	lineage_subtype_adjusted	TRUE	
+93	TCGA-BR-8382-01A	TCGA-BR-8382	lineage_subtype_adjusted	TRUE	
+94	TCGA-BR-8384-01A	TCGA-BR-8384	lineage_subtype_adjusted	TRUE	
+95	TCGA-BR-8483-01A	TCGA-BR-8483	lineage_subtype_adjusted	TRUE	
+96	TCGA-BR-8484-01A	TCGA-BR-8484	lineage_subtype_adjusted	TRUE	
+97	TCGA-BR-8485-01A	TCGA-BR-8485	lineage_subtype_adjusted	TRUE	
+98	TCGA-BR-8486-01A	TCGA-BR-8486	lineage_subtype_adjusted	TRUE	
+99	TCGA-BR-8487-01A	TCGA-BR-8487	lineage_subtype_adjusted	TRUE	
+100	TCGA-BR-8588-01A	TCGA-BR-8588	lineage_subtype_adjusted	TRUE	
+101	TCGA-BR-8589-01A	TCGA-BR-8589	lineage_subtype_adjusted	TRUE	
+102	TCGA-BR-8590-01A	TCGA-BR-8590	lineage_subtype_adjusted	TRUE	
+103	TCGA-BR-8591-01A	TCGA-BR-8591	lineage_subtype_adjusted	TRUE	
+104	TCGA-BR-8592-01A	TCGA-BR-8592	lineage_subtype_adjusted	TRUE	
+105	TCGA-BR-8676-01A	TCGA-BR-8676	lineage_subtype_adjusted	TRUE	
+106	TCGA-BR-8677-01A	TCGA-BR-8677	lineage_subtype_adjusted	TRUE	
+107	TCGA-BR-8678-01A	TCGA-BR-8678	lineage_subtype_adjusted	TRUE	
+108	TCGA-BR-8679-01A	TCGA-BR-8679	lineage_subtype_adjusted	TRUE	
+109	TCGA-BR-8680-01A	TCGA-BR-8680	lineage_subtype_adjusted	TRUE	
+110	TCGA-BR-8682-01A	TCGA-BR-8682	lineage_subtype_adjusted	TRUE	
+111	TCGA-BR-8683-01A	TCGA-BR-8683	lineage_subtype_adjusted	TRUE	
+112	TCGA-BR-8686-01A	TCGA-BR-8686	lineage_subtype_adjusted	TRUE	
+113	TCGA-BR-8687-01A	TCGA-BR-8687	lineage_subtype_adjusted	TRUE	
+114	TCGA-BR-8690-01A	TCGA-BR-8690	lineage_subtype_adjusted	TRUE	
+115	TCGA-BR-A44T-01A	TCGA-BR-A44T	lineage_subtype_adjusted	TRUE	
+116	TCGA-BR-A44U-01A	TCGA-BR-A44U	lineage_subtype_adjusted	TRUE	
+117	TCGA-BR-A452-01A	TCGA-BR-A452	lineage_subtype_adjusted	TRUE	
+118	TCGA-BR-A453-01A	TCGA-BR-A453	lineage_subtype_adjusted	TRUE	
+119	TCGA-BR-A4CR-01A	TCGA-BR-A4CR	lineage_subtype_adjusted	TRUE	
+120	TCGA-BR-A4CS-01A	TCGA-BR-A4CS	lineage_subtype_adjusted	TRUE	
+121	TCGA-BR-A4IU-01A	TCGA-BR-A4IU	lineage_subtype_adjusted	TRUE	
+122	TCGA-BR-A4IV-01A	TCGA-BR-A4IV	lineage_subtype_adjusted	TRUE	
+123	TCGA-BR-A4IY-01A	TCGA-BR-A4IY	lineage_subtype_adjusted	TRUE	
+124	TCGA-BR-A4IZ-01A	TCGA-BR-A4IZ	lineage_subtype_adjusted	TRUE	
+125	TCGA-BR-A4J1-01A	TCGA-BR-A4J1	lineage_subtype_adjusted	TRUE	
+126	TCGA-BR-A4J2-01A	TCGA-BR-A4J2	lineage_subtype_adjusted	TRUE	
+127	TCGA-BR-A4J4-01A	TCGA-BR-A4J4	lineage_subtype_adjusted	TRUE	
+128	TCGA-BR-A4J5-01A	TCGA-BR-A4J5	lineage_subtype_adjusted	TRUE	
+129	TCGA-BR-A4J6-01A	TCGA-BR-A4J6	lineage_subtype_adjusted	TRUE	
+130	TCGA-BR-A4J7-01A	TCGA-BR-A4J7	lineage_subtype_adjusted	TRUE	
+131	TCGA-BR-A4J8-01A	TCGA-BR-A4J8	lineage_subtype_adjusted	TRUE	
+132	TCGA-BR-A4J9-01A	TCGA-BR-A4J9	lineage_subtype_adjusted	TRUE	
+133	TCGA-BR-A4PD-01A	TCGA-BR-A4PD	lineage_subtype_adjusted	TRUE	
+134	TCGA-BR-A4PE-01A	TCGA-BR-A4PE	lineage_subtype_adjusted	TRUE	
+135	TCGA-BR-A4PF-01A	TCGA-BR-A4PF	lineage_subtype_adjusted	TRUE	
+136	TCGA-BR-A4QI-01A	TCGA-BR-A4QI	lineage_subtype_adjusted	TRUE	
+137	TCGA-BR-A4QL-01A	TCGA-BR-A4QL	lineage_subtype_adjusted	TRUE	
+138	TCGA-BR-A4QM-01A	TCGA-BR-A4QM	lineage_subtype_adjusted	TRUE	
+139	TCGA-CD-5798-01A	TCGA-CD-5798	lineage_subtype_adjusted	TRUE	
+140	TCGA-CD-5799-01A	TCGA-CD-5799	lineage_subtype_adjusted	TRUE	
+141	TCGA-CD-5800-01A	TCGA-CD-5800	lineage_subtype_adjusted	TRUE	
+142	TCGA-CD-5801-01A	TCGA-CD-5801	lineage_subtype_adjusted	TRUE	
+143	TCGA-CD-5803-01A	TCGA-CD-5803	lineage_subtype_adjusted	TRUE	
+144	TCGA-CD-5804-01A	TCGA-CD-5804	lineage_subtype_adjusted	TRUE	
+145	TCGA-CD-5813-01A	TCGA-CD-5813	lineage_subtype_adjusted	FALSE	purity_z_model
+146	TCGA-CD-8524-01A	TCGA-CD-8524	lineage_subtype_adjusted	TRUE	
+147	TCGA-CD-8525-01A	TCGA-CD-8525	lineage_subtype_adjusted	TRUE	
+148	TCGA-CD-8526-01A	TCGA-CD-8526	lineage_subtype_adjusted	TRUE	
+149	TCGA-CD-8527-01A	TCGA-CD-8527	lineage_subtype_adjusted	TRUE	
+150	TCGA-CD-8528-01A	TCGA-CD-8528	lineage_subtype_adjusted	TRUE	
+151	TCGA-CD-8529-01A	TCGA-CD-8529	lineage_subtype_adjusted	TRUE	
+152	TCGA-CD-8530-01A	TCGA-CD-8530	lineage_subtype_adjusted	TRUE	
+153	TCGA-CD-8531-01A	TCGA-CD-8531	lineage_subtype_adjusted	TRUE	
+154	TCGA-CD-8532-01A	TCGA-CD-8532	lineage_subtype_adjusted	TRUE	
+155	TCGA-CD-8533-01A	TCGA-CD-8533	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+156	TCGA-CD-8534-01A	TCGA-CD-8534	lineage_subtype_adjusted	TRUE	
+157	TCGA-CD-8535-01A	TCGA-CD-8535	lineage_subtype_adjusted	TRUE	
+158	TCGA-CD-8536-01A	TCGA-CD-8536	lineage_subtype_adjusted	TRUE	
+159	TCGA-CD-A486-01A	TCGA-CD-A486	lineage_subtype_adjusted	TRUE	
+160	TCGA-CD-A487-01A	TCGA-CD-A487	lineage_subtype_adjusted	TRUE	
+161	TCGA-CD-A489-01A	TCGA-CD-A489	lineage_subtype_adjusted	TRUE	
+162	TCGA-CD-A48A-01A	TCGA-CD-A48A	lineage_subtype_adjusted	TRUE	
+163	TCGA-CD-A48C-01A	TCGA-CD-A48C	lineage_subtype_adjusted	TRUE	
+164	TCGA-CD-A4MG-01A	TCGA-CD-A4MG	lineage_subtype_adjusted	TRUE	
+165	TCGA-CD-A4MH-01A	TCGA-CD-A4MH	lineage_subtype_adjusted	TRUE	
+166	TCGA-CD-A4MI-01A	TCGA-CD-A4MI	lineage_subtype_adjusted	TRUE	
+167	TCGA-CD-A4MJ-01A	TCGA-CD-A4MJ	lineage_subtype_adjusted	TRUE	
+168	TCGA-CG-4301-01A	TCGA-CG-4301	lineage_subtype_adjusted	TRUE	
+169	TCGA-CG-4304-01A	TCGA-CG-4304	lineage_subtype_adjusted	TRUE	
+170	TCGA-CG-4305-01A	TCGA-CG-4305	lineage_subtype_adjusted	TRUE	
+171	TCGA-CG-4306-01A	TCGA-CG-4306	lineage_subtype_adjusted	TRUE	
+172	TCGA-CG-4436-01A	TCGA-CG-4436	lineage_subtype_adjusted	TRUE	
+173	TCGA-CG-4437-01A	TCGA-CG-4437	lineage_subtype_adjusted	TRUE	
+174	TCGA-CG-4438-01A	TCGA-CG-4438	lineage_subtype_adjusted	TRUE	
+175	TCGA-CG-4440-01A	TCGA-CG-4440	lineage_subtype_adjusted	TRUE	
+176	TCGA-CG-4441-01A	TCGA-CG-4441	lineage_subtype_adjusted	TRUE	
+177	TCGA-CG-4442-01A	TCGA-CG-4442	lineage_subtype_adjusted	TRUE	
+178	TCGA-CG-4443-01A	TCGA-CG-4443	lineage_subtype_adjusted	TRUE	
+179	TCGA-CG-4444-01A	TCGA-CG-4444	lineage_subtype_adjusted	TRUE	
+180	TCGA-CG-4460-01A	TCGA-CG-4460	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+181	TCGA-CG-4462-01A	TCGA-CG-4462	lineage_subtype_adjusted	TRUE	
+182	TCGA-CG-4465-01A	TCGA-CG-4465	lineage_subtype_adjusted	TRUE	
+183	TCGA-CG-4466-01A	TCGA-CG-4466	lineage_subtype_adjusted	TRUE	
+184	TCGA-CG-4469-01A	TCGA-CG-4469	lineage_subtype_adjusted	TRUE	
+185	TCGA-CG-4475-01A	TCGA-CG-4475	lineage_subtype_adjusted	TRUE	
+186	TCGA-CG-4476-01A	TCGA-CG-4476	lineage_subtype_adjusted	TRUE	
+187	TCGA-CG-4477-01A	TCGA-CG-4477	lineage_subtype_adjusted	TRUE	
+188	TCGA-CG-5716-01A	TCGA-CG-5716	lineage_subtype_adjusted	FALSE	purity_z_model;tcga2014_subtype
+189	TCGA-CG-5717-01A	TCGA-CG-5717	lineage_subtype_adjusted	TRUE	
+190	TCGA-CG-5718-01A	TCGA-CG-5718	lineage_subtype_adjusted	TRUE	
+191	TCGA-CG-5719-01A	TCGA-CG-5719	lineage_subtype_adjusted	TRUE	
+192	TCGA-CG-5720-01A	TCGA-CG-5720	lineage_subtype_adjusted	TRUE	
+193	TCGA-CG-5721-01A	TCGA-CG-5721	lineage_subtype_adjusted	TRUE	
+194	TCGA-CG-5722-01A	TCGA-CG-5722	lineage_subtype_adjusted	TRUE	
+195	TCGA-CG-5723-01A	TCGA-CG-5723	lineage_subtype_adjusted	TRUE	
+196	TCGA-CG-5724-01A	TCGA-CG-5724	lineage_subtype_adjusted	TRUE	
+197	TCGA-CG-5725-01A	TCGA-CG-5725	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+198	TCGA-CG-5726-01A	TCGA-CG-5726	lineage_subtype_adjusted	TRUE	
+199	TCGA-CG-5732-01A	TCGA-CG-5732	lineage_subtype_adjusted	TRUE	
+200	TCGA-CG-5734-01A	TCGA-CG-5734	lineage_subtype_adjusted	TRUE	
+201	TCGA-D7-5577-01A	TCGA-D7-5577	lineage_subtype_adjusted	TRUE	
+202	TCGA-D7-5578-01A	TCGA-D7-5578	lineage_subtype_adjusted	TRUE	
+203	TCGA-D7-6518-01A	TCGA-D7-6518	lineage_subtype_adjusted	TRUE	
+204	TCGA-D7-6519-01A	TCGA-D7-6519	lineage_subtype_adjusted	TRUE	
+205	TCGA-D7-6520-01A	TCGA-D7-6520	lineage_subtype_adjusted	TRUE	
+206	TCGA-D7-6521-01A	TCGA-D7-6521	lineage_subtype_adjusted	TRUE	
+207	TCGA-D7-6522-01A	TCGA-D7-6522	lineage_subtype_adjusted	TRUE	
+208	TCGA-D7-6524-01A	TCGA-D7-6524	lineage_subtype_adjusted	TRUE	
+209	TCGA-D7-6525-01A	TCGA-D7-6525	lineage_subtype_adjusted	TRUE	
+210	TCGA-D7-6526-01A	TCGA-D7-6526	lineage_subtype_adjusted	TRUE	
+211	TCGA-D7-6527-01A	TCGA-D7-6527	lineage_subtype_adjusted	TRUE	
+212	TCGA-D7-6528-01A	TCGA-D7-6528	lineage_subtype_adjusted	TRUE	
+213	TCGA-D7-6815-01A	TCGA-D7-6815	lineage_subtype_adjusted	TRUE	
+214	TCGA-D7-6817-01A	TCGA-D7-6817	lineage_subtype_adjusted	TRUE	
+215	TCGA-D7-6818-01A	TCGA-D7-6818	lineage_subtype_adjusted	TRUE	
+216	TCGA-D7-6820-01A	TCGA-D7-6820	lineage_subtype_adjusted	TRUE	
+217	TCGA-D7-6822-01A	TCGA-D7-6822	lineage_subtype_adjusted	TRUE	
+218	TCGA-D7-8570-01A	TCGA-D7-8570	lineage_subtype_adjusted	TRUE	
+219	TCGA-D7-8572-01A	TCGA-D7-8572	lineage_subtype_adjusted	TRUE	
+220	TCGA-D7-8573-01A	TCGA-D7-8573	lineage_subtype_adjusted	TRUE	
+221	TCGA-D7-8574-01A	TCGA-D7-8574	lineage_subtype_adjusted	TRUE	
+222	TCGA-D7-8575-01A	TCGA-D7-8575	lineage_subtype_adjusted	TRUE	
+223	TCGA-D7-8576-01A	TCGA-D7-8576	lineage_subtype_adjusted	TRUE	
+224	TCGA-D7-8578-01A	TCGA-D7-8578	lineage_subtype_adjusted	TRUE	
+225	TCGA-D7-8579-01A	TCGA-D7-8579	lineage_subtype_adjusted	TRUE	
+226	TCGA-D7-A4YT-01A	TCGA-D7-A4YT	lineage_subtype_adjusted	TRUE	
+227	TCGA-D7-A4YU-01A	TCGA-D7-A4YU	lineage_subtype_adjusted	TRUE	
+228	TCGA-D7-A4YV-01A	TCGA-D7-A4YV	lineage_subtype_adjusted	TRUE	
+229	TCGA-D7-A4YX-01A	TCGA-D7-A4YX	lineage_subtype_adjusted	TRUE	
+230	TCGA-D7-A4YY-01A	TCGA-D7-A4YY	lineage_subtype_adjusted	TRUE	
+231	TCGA-D7-A4Z0-01A	TCGA-D7-A4Z0	lineage_subtype_adjusted	TRUE	
+232	TCGA-D7-A6EV-01A	TCGA-D7-A6EV	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+233	TCGA-D7-A6EX-01A	TCGA-D7-A6EX	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+234	TCGA-D7-A6EY-01A	TCGA-D7-A6EY	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+235	TCGA-D7-A6EZ-01A	TCGA-D7-A6EZ	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+236	TCGA-D7-A6F0-01A	TCGA-D7-A6F0	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+237	TCGA-D7-A6F2-01A	TCGA-D7-A6F2	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+238	TCGA-D7-A747-01A	TCGA-D7-A747	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+239	TCGA-D7-A748-01A	TCGA-D7-A748	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+240	TCGA-D7-A74A-01A	TCGA-D7-A74A	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+241	TCGA-EQ-8122-01A	TCGA-EQ-8122	lineage_subtype_adjusted	TRUE	
+242	TCGA-EQ-A4SO-01A	TCGA-EQ-A4SO	lineage_subtype_adjusted	TRUE	
+243	TCGA-F1-6177-01A	TCGA-F1-6177	lineage_subtype_adjusted	TRUE	
+244	TCGA-F1-6874-01A	TCGA-F1-6874	lineage_subtype_adjusted	TRUE	
+245	TCGA-F1-6875-01A	TCGA-F1-6875	lineage_subtype_adjusted	TRUE	
+246	TCGA-F1-A448-01A	TCGA-F1-A448	lineage_subtype_adjusted	TRUE	
+247	TCGA-F1-A72C-01A	TCGA-F1-A72C	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+248	TCGA-FP-7735-01A	TCGA-FP-7735	lineage_subtype_adjusted	FALSE	purity_z_model
+249	TCGA-FP-7829-01A	TCGA-FP-7829	lineage_subtype_adjusted	TRUE	
+250	TCGA-FP-7916-01A	TCGA-FP-7916	lineage_subtype_adjusted	TRUE	
+251	TCGA-FP-7998-01A	TCGA-FP-7998	lineage_subtype_adjusted	TRUE	
+252	TCGA-FP-8099-01A	TCGA-FP-8099	lineage_subtype_adjusted	TRUE	
+253	TCGA-FP-8209-01A	TCGA-FP-8209	lineage_subtype_adjusted	FALSE	purity_z_model
+254	TCGA-FP-8210-01A	TCGA-FP-8210	lineage_subtype_adjusted	TRUE	
+255	TCGA-FP-8211-01A	TCGA-FP-8211	lineage_subtype_adjusted	TRUE	
+256	TCGA-FP-8631-01A	TCGA-FP-8631	lineage_subtype_adjusted	TRUE	
+257	TCGA-FP-A4BE-01A	TCGA-FP-A4BE	lineage_subtype_adjusted	FALSE	purity_z_model
+258	TCGA-FP-A4BF-01A	TCGA-FP-A4BF	lineage_subtype_adjusted	TRUE	
+259	TCGA-FP-A8CX-01A	TCGA-FP-A8CX	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+260	TCGA-FP-A9TM-01A	TCGA-FP-A9TM	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+261	TCGA-HF-7131-01A	TCGA-HF-7131	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+262	TCGA-HF-7132-01A	TCGA-HF-7132	lineage_subtype_adjusted	TRUE	
+263	TCGA-HF-7133-01A	TCGA-HF-7133	lineage_subtype_adjusted	TRUE	
+264	TCGA-HF-7134-01A	TCGA-HF-7134	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+265	TCGA-HF-7136-01A	TCGA-HF-7136	lineage_subtype_adjusted	TRUE	
+266	TCGA-HF-A5NB-01A	TCGA-HF-A5NB	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+267	TCGA-HJ-7597-01A	TCGA-HJ-7597	lineage_subtype_adjusted	TRUE	
+268	TCGA-HU-8238-01A	TCGA-HU-8238	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+269	TCGA-HU-8243-01A	TCGA-HU-8243	lineage_subtype_adjusted	TRUE	
+270	TCGA-HU-8244-01A	TCGA-HU-8244	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+271	TCGA-HU-8249-01A	TCGA-HU-8249	lineage_subtype_adjusted	TRUE	
+272	TCGA-HU-8602-01A	TCGA-HU-8602	lineage_subtype_adjusted	TRUE	
+273	TCGA-HU-8604-01A	TCGA-HU-8604	lineage_subtype_adjusted	TRUE	
+274	TCGA-HU-8608-01A	TCGA-HU-8608	lineage_subtype_adjusted	TRUE	
+275	TCGA-HU-8610-01A	TCGA-HU-8610	lineage_subtype_adjusted	TRUE	
+276	TCGA-HU-A4G2-01A	TCGA-HU-A4G2	lineage_subtype_adjusted	TRUE	
+277	TCGA-HU-A4G3-01A	TCGA-HU-A4G3	lineage_subtype_adjusted	FALSE	purity_z_model
+278	TCGA-HU-A4G6-01A	TCGA-HU-A4G6	lineage_subtype_adjusted	TRUE	
+279	TCGA-HU-A4G8-01A	TCGA-HU-A4G8	lineage_subtype_adjusted	TRUE	
+280	TCGA-HU-A4G9-01A	TCGA-HU-A4G9	lineage_subtype_adjusted	TRUE	
+281	TCGA-HU-A4GC-01A	TCGA-HU-A4GC	lineage_subtype_adjusted	TRUE	
+282	TCGA-HU-A4GD-01A	TCGA-HU-A4GD	lineage_subtype_adjusted	TRUE	
+283	TCGA-HU-A4GF-01A	TCGA-HU-A4GF	lineage_subtype_adjusted	TRUE	
+284	TCGA-HU-A4GH-01A	TCGA-HU-A4GH	lineage_subtype_adjusted	TRUE	
+285	TCGA-HU-A4GJ-01A	TCGA-HU-A4GJ	lineage_subtype_adjusted	FALSE	purity_z_model;tcga2014_subtype
+286	TCGA-HU-A4GN-01A	TCGA-HU-A4GN	lineage_subtype_adjusted	TRUE	
+287	TCGA-HU-A4GP-01A	TCGA-HU-A4GP	lineage_subtype_adjusted	TRUE	
+288	TCGA-HU-A4GQ-01A	TCGA-HU-A4GQ	lineage_subtype_adjusted	TRUE	
+289	TCGA-HU-A4GT-01A	TCGA-HU-A4GT	lineage_subtype_adjusted	TRUE	
+290	TCGA-HU-A4GU-01A	TCGA-HU-A4GU	lineage_subtype_adjusted	TRUE	
+291	TCGA-HU-A4GX-01A	TCGA-HU-A4GX	lineage_subtype_adjusted	TRUE	
+292	TCGA-HU-A4GY-01A	TCGA-HU-A4GY	lineage_subtype_adjusted	TRUE	
+293	TCGA-HU-A4H0-01A	TCGA-HU-A4H0	lineage_subtype_adjusted	TRUE	
+294	TCGA-HU-A4H2-01A	TCGA-HU-A4H2	lineage_subtype_adjusted	TRUE	
+295	TCGA-HU-A4H3-01A	TCGA-HU-A4H3	lineage_subtype_adjusted	TRUE	
+296	TCGA-HU-A4H4-01A	TCGA-HU-A4H4	lineage_subtype_adjusted	TRUE	
+297	TCGA-HU-A4H5-01A	TCGA-HU-A4H5	lineage_subtype_adjusted	TRUE	
+298	TCGA-HU-A4H6-01A	TCGA-HU-A4H6	lineage_subtype_adjusted	TRUE	
+299	TCGA-HU-A4H8-01A	TCGA-HU-A4H8	lineage_subtype_adjusted	TRUE	
+300	TCGA-HU-A4HB-01A	TCGA-HU-A4HB	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+301	TCGA-HU-A4HD-01A	TCGA-HU-A4HD	lineage_subtype_adjusted	TRUE	
+302	TCGA-IN-7806-01A	TCGA-IN-7806	lineage_subtype_adjusted	TRUE	
+303	TCGA-IN-7808-01A	TCGA-IN-7808	lineage_subtype_adjusted	TRUE	
+304	TCGA-IN-8462-01A	TCGA-IN-8462	lineage_subtype_adjusted	TRUE	
+305	TCGA-IN-8663-01A	TCGA-IN-8663	lineage_subtype_adjusted	TRUE	
+306	TCGA-IN-A6RI-01A	TCGA-IN-A6RI	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+307	TCGA-IN-A6RJ-01A	TCGA-IN-A6RJ	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+308	TCGA-IN-A6RL-01A	TCGA-IN-A6RL	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+309	TCGA-IN-A6RN-01A	TCGA-IN-A6RN	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+310	TCGA-IN-A6RO-01A	TCGA-IN-A6RO	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+311	TCGA-IN-A6RR-01A	TCGA-IN-A6RR	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+312	TCGA-IN-A6RS-01A	TCGA-IN-A6RS	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+313	TCGA-IN-A7NR-01A	TCGA-IN-A7NR	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+314	TCGA-IN-A7NT-01A	TCGA-IN-A7NT	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+315	TCGA-IN-A7NU-01A	TCGA-IN-A7NU	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+316	TCGA-IN-AB1V-01A	TCGA-IN-AB1V	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+317	TCGA-IN-AB1X-01A	TCGA-IN-AB1X	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+318	TCGA-IP-7968-01A	TCGA-IP-7968	lineage_subtype_adjusted	TRUE	
+319	TCGA-KB-A6F7-01A	TCGA-KB-A6F7	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+320	TCGA-KB-A93G-01A	TCGA-KB-A93G	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+321	TCGA-KB-A93H-01A	TCGA-KB-A93H	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+322	TCGA-KB-A93J-01A	TCGA-KB-A93J	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+323	TCGA-MX-A5UG-01A	TCGA-MX-A5UG	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+324	TCGA-MX-A5UJ-01A	TCGA-MX-A5UJ	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+325	TCGA-MX-A663-01A	TCGA-MX-A663	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+326	TCGA-MX-A666-01A	TCGA-MX-A666	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+327	TCGA-R5-A7O7-01A	TCGA-R5-A7O7	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+328	TCGA-R5-A7ZE-01B	TCGA-R5-A7ZE	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+329	TCGA-R5-A7ZF-01A	TCGA-R5-A7ZF	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+330	TCGA-R5-A7ZI-01A	TCGA-R5-A7ZI	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+331	TCGA-R5-A7ZR-01A	TCGA-R5-A7ZR	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+332	TCGA-R5-A805-01A	TCGA-R5-A805	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+333	TCGA-RD-A7BS-01A	TCGA-RD-A7BS	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+334	TCGA-RD-A7BT-01A	TCGA-RD-A7BT	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+335	TCGA-RD-A7BW-01A	TCGA-RD-A7BW	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+336	TCGA-RD-A7C1-01A	TCGA-RD-A7C1	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+337	TCGA-RD-A8MV-01A	TCGA-RD-A8MV	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+338	TCGA-RD-A8MW-01A	TCGA-RD-A8MW	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+339	TCGA-RD-A8N0-01A	TCGA-RD-A8N0	lineage_subtype_adjusted	FALSE	purity_z_model;tcga2014_subtype
+340	TCGA-RD-A8N1-01A	TCGA-RD-A8N1	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+341	TCGA-RD-A8N2-01A	TCGA-RD-A8N2	lineage_subtype_adjusted	FALSE	purity_z_model;tcga2014_subtype
+342	TCGA-RD-A8N4-01A	TCGA-RD-A8N4	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+343	TCGA-RD-A8N5-01A	TCGA-RD-A8N5	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+344	TCGA-RD-A8N6-01A	TCGA-RD-A8N6	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+345	TCGA-RD-A8N9-01A	TCGA-RD-A8N9	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+346	TCGA-RD-A8NB-01A	TCGA-RD-A8NB	lineage_subtype_adjusted	FALSE	purity_z_model;tcga2014_subtype
+347	TCGA-SW-A7EA-01A	TCGA-SW-A7EA	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+348	TCGA-SW-A7EB-01A	TCGA-SW-A7EB	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+349	TCGA-VQ-A8DT-01A	TCGA-VQ-A8DT	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+350	TCGA-VQ-A8DU-01A	TCGA-VQ-A8DU	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+351	TCGA-VQ-A8DV-01A	TCGA-VQ-A8DV	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+352	TCGA-VQ-A8DZ-01A	TCGA-VQ-A8DZ	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+353	TCGA-VQ-A8E0-01A	TCGA-VQ-A8E0	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+354	TCGA-VQ-A8E2-01A	TCGA-VQ-A8E2	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+355	TCGA-VQ-A8E3-01A	TCGA-VQ-A8E3	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+356	TCGA-VQ-A8E7-01B	TCGA-VQ-A8E7	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+357	TCGA-VQ-A8P2-01A	TCGA-VQ-A8P2	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+358	TCGA-VQ-A8P3-01A	TCGA-VQ-A8P3	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+359	TCGA-VQ-A8P5-01A	TCGA-VQ-A8P5	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+360	TCGA-VQ-A8P8-01A	TCGA-VQ-A8P8	lineage_subtype_adjusted	FALSE	purity_z_model;tcga2014_subtype
+361	TCGA-VQ-A8PB-01A	TCGA-VQ-A8PB	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+362	TCGA-VQ-A8PC-01A	TCGA-VQ-A8PC	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+363	TCGA-VQ-A8PD-01A	TCGA-VQ-A8PD	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+364	TCGA-VQ-A8PE-01A	TCGA-VQ-A8PE	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+365	TCGA-VQ-A8PF-01A	TCGA-VQ-A8PF	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+366	TCGA-VQ-A8PH-01A	TCGA-VQ-A8PH	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+367	TCGA-VQ-A8PJ-01A	TCGA-VQ-A8PJ	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+368	TCGA-VQ-A8PK-01A	TCGA-VQ-A8PK	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+369	TCGA-VQ-A8PM-01A	TCGA-VQ-A8PM	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+370	TCGA-VQ-A8PO-01A	TCGA-VQ-A8PO	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+371	TCGA-VQ-A8PP-01A	TCGA-VQ-A8PP	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+372	TCGA-VQ-A8PQ-01A	TCGA-VQ-A8PQ	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+373	TCGA-VQ-A8PU-01A	TCGA-VQ-A8PU	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+374	TCGA-VQ-A8PX-01A	TCGA-VQ-A8PX	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+375	TCGA-VQ-A91A-01A	TCGA-VQ-A91A	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+376	TCGA-VQ-A91D-01A	TCGA-VQ-A91D	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+377	TCGA-VQ-A91E-01A	TCGA-VQ-A91E	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+378	TCGA-VQ-A91K-01A	TCGA-VQ-A91K	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+379	TCGA-VQ-A91N-01A	TCGA-VQ-A91N	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+380	TCGA-VQ-A91Q-01A	TCGA-VQ-A91Q	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+381	TCGA-VQ-A91S-01A	TCGA-VQ-A91S	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+382	TCGA-VQ-A91U-01A	TCGA-VQ-A91U	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+383	TCGA-VQ-A91V-01A	TCGA-VQ-A91V	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+384	TCGA-VQ-A91W-01A	TCGA-VQ-A91W	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+385	TCGA-VQ-A91X-01A	TCGA-VQ-A91X	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+386	TCGA-VQ-A91Y-01A	TCGA-VQ-A91Y	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+387	TCGA-VQ-A91Z-01A	TCGA-VQ-A91Z	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+388	TCGA-VQ-A922-01A	TCGA-VQ-A922	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+389	TCGA-VQ-A923-01A	TCGA-VQ-A923	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+390	TCGA-VQ-A924-01A	TCGA-VQ-A924	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+391	TCGA-VQ-A925-01A	TCGA-VQ-A925	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+392	TCGA-VQ-A927-01A	TCGA-VQ-A927	lineage_subtype_adjusted	FALSE	purity_z_model;tcga2014_subtype
+393	TCGA-VQ-A928-01A	TCGA-VQ-A928	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+394	TCGA-VQ-A92D-01A	TCGA-VQ-A92D	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+395	TCGA-VQ-A94O-01A	TCGA-VQ-A94O	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+396	TCGA-VQ-A94P-01A	TCGA-VQ-A94P	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+397	TCGA-VQ-A94R-01A	TCGA-VQ-A94R	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+398	TCGA-VQ-A94T-01A	TCGA-VQ-A94T	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+399	TCGA-VQ-A94U-01A	TCGA-VQ-A94U	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+400	TCGA-VQ-AA64-01A	TCGA-VQ-AA64	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+401	TCGA-VQ-AA68-01A	TCGA-VQ-AA68	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+402	TCGA-VQ-AA69-01A	TCGA-VQ-AA69	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+403	TCGA-VQ-AA6A-01A	TCGA-VQ-AA6A	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+404	TCGA-VQ-AA6B-01A	TCGA-VQ-AA6B	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+405	TCGA-VQ-AA6D-01A	TCGA-VQ-AA6D	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+406	TCGA-VQ-AA6F-01A	TCGA-VQ-AA6F	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+407	TCGA-VQ-AA6G-01A	TCGA-VQ-AA6G	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+408	TCGA-VQ-AA6I-01A	TCGA-VQ-AA6I	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+409	TCGA-VQ-AA6J-01A	TCGA-VQ-AA6J	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+410	TCGA-VQ-AA6K-01A	TCGA-VQ-AA6K	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+411	TCGA-ZA-A8F6-01A	TCGA-ZA-A8F6	lineage_subtype_adjusted	FALSE	tcga2014_subtype
+412	TCGA-ZQ-A9CR-01A	TCGA-ZQ-A9CR	lineage_subtype_adjusted	FALSE	tcga2014_subtype

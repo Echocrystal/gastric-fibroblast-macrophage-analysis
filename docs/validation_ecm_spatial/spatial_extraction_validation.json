@@ -1,0 +1,81 @@
+[
+  {
+    "dataset": "GSE270678_main_ST",
+    "rows": 63060,
+    "sections": 33,
+    "eligible_sections": 33,
+    "missing": {
+      "barcode": 0,
+      "in_tissue": 0,
+      "array_row": 0,
+      "array_col": 0,
+      "pxl_row": 0,
+      "pxl_col": 0,
+      "sample_id": 0,
+      "donor_id": 0,
+      "total_counts": 0,
+      "detected_features": 0,
+      "percent_mito": 0,
+      "FROZEN_ECM_C1_HIGH50": 0,
+      "FROZEN_ECM_C2_HIGH50": 0,
+      "MARKER_Epithelial": 0,
+      "MARKER_Fibroblast": 0,
+      "frozen_ECM_direction": 0
+    },
+    "unique_section_barcode": true,
+    "max_component_identity_error": 8.43769498715119e-15
+  },
+  {
+    "dataset": "GSE270678_ST_R",
+    "rows": 86606,
+    "sections": 39,
+    "eligible_sections": 37,
+    "missing": {
+      "barcode": 0,
+      "in_tissue": 0,
+      "array_row": 0,
+      "array_col": 0,
+      "pxl_row": 0,
+      "pxl_col": 0,
+      "sample_id": 0,
+      "main_slice_id": 0,
+      "donor_id": 0,
+      "FROZEN_ECM_C1_HIGH50": 0,
+      "FROZEN_ECM_C2_HIGH50": 0,
+      "MARKER_Epithelial": 0,
+      "MARKER_Fibroblast": 0,
+      "frozen_ECM_direction": 0,
+      "total_counts": 0
+    },
+    "unique_section_barcode": true,
+    "max_component_identity_error": 8.881784197001252e-15
+  },
+  {
+    "dataset": "GSE251950",
+    "rows": 30856,
+    "sections": 10,
+    "eligible_sections": 9,
+    "missing": {
+      "GSM": 0,
+      "sample_title": 0,
+      "patient_id": 0,
+      "specimen_type": 0,
+      "folder_id": 0,
+      "barcode": 0,
+      "array_row": 0,
+      "array_col": 0,
+      "pxl_row": 0,
+      "pxl_col": 0,
+      "total_UMI": 0,
+      "detected_genes": 0,
+      "mito_percent": 0,
+      "FROZEN_C1_HIGH50": 0,
+      "FROZEN_C2_HIGH50": 0,
+      "MARKER_Epithelial": 0,
+      "MARKER_Fibroblast": 0,
+      "frozen_ECM_direction": 0
+    },
+    "unique_section_barcode": true,
+    "max_component_identity_error": 9.547918011776346e-15
+  }
+]

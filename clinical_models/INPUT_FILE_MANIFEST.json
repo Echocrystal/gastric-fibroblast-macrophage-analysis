@@ -3,18 +3,18 @@
   "files": [
     {
       "file": "inputs/Figure6h_Kim2018_continuous_models_original.tsv",
-      "bytes": 383,
-      "sha256": "9a100f055c2b8bd299e6150e48b669724edca7ba91a1293290c225ca63ac828b"
+      "bytes": 378,
+      "sha256": "ad79c0d5c16a5aebc788a08eaf81cedf66b53a5088fd026d0a871690b3e6d016"
     },
     {
       "file": "inputs/Kim2018_bias_reduced_response_models_original.tsv",
-      "bytes": 1119,
-      "sha256": "c68081aca65d9c08a30d0aae603b042fd780c4b7f8a2c89840fd717156618a87"
+      "bytes": 1110,
+      "sha256": "d974597e8bd454be2a19370e680f7a1dfcb49c35b2eb0761113ba211e9acb55b"
     },
     {
       "file": "inputs/Kim2018_continuous_joint_state_response_models_original.tsv",
-      "bytes": 1149,
-      "sha256": "8f031264c538f946f9654a5bdf6a898303074f0dcd5b6432c34c8e38a9802663"
+      "bytes": 1140,
+      "sha256": "35a24539958c66e795fc489a3b8efdce5ff446805e780139832a4a0074bcdf73"
     },
     {
       "file": "inputs/Kim2018_model_inputs_deidentified.tsv",

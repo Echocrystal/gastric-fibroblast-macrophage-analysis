@@ -1,0 +1,5 @@
+missing_ecosystem	missing_purity	missing_fibroblast	missing_monocytic	missing_TCGA2014_subtype	N
+FALSE	FALSE	FALSE	FALSE	TRUE	131
+FALSE	FALSE	FALSE	FALSE	FALSE	269
+FALSE	TRUE	FALSE	FALSE	FALSE	5
+FALSE	TRUE	FALSE	FALSE	TRUE	7

@@ -1,0 +1,11 @@
+cohort	variable	cohort_n	available_n	missing_or_empty_n	values
+TCGA-STAD	age	412	405	7	numeric
+TCGA-STAD	sex	412	409	3	FEMALE;MALE
+TCGA-STAD	stage_group_frozen	412	392	20	I;II;III;IV
+TCGA-STAD	absolute_purity	412	400	12	numeric
+TCGA-STAD	tcga_subtype	412	380	32	STAD_CIN;STAD_EBV;STAD_GS;STAD_MSI;STAD_POLE
+TCGA-STAD	tcga2014_subtype	412	274	138	CIN;EBV;GS;MSI
+TCGA-STAD	os_months	412	403	9	numeric
+TCGA-STAD	os_event_frozen	412	409	3	numeric
+TCGA-STAD	TMB_NONSYNONYMOUS.x	412	406	6	numeric
+TCGA-STAD	FRACTION_GENOME_ALTERED.x	412	407	5	numeric

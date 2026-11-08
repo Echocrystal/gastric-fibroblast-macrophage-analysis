@@ -1,0 +1,26 @@
+[
+  {
+    "dataset": "GSE270678_main_ST",
+    "manifest_sections": 33,
+    "individuals": 19,
+    "frozen_spots": 63060,
+    "all_raw_h5_present": true,
+    "all_raw_h5_sizes_and_sha256_match": true
+  },
+  {
+    "dataset": "GSE270678_ST_R_sensitivity",
+    "manifest_sections": 37,
+    "individuals": 16,
+    "frozen_spots": 86606,
+    "all_raw_h5_present": true,
+    "all_raw_h5_sizes_and_sha256_match": true
+  },
+  {
+    "dataset": "GSE251950_primary",
+    "manifest_sections": 9,
+    "individuals": 9,
+    "frozen_spots": 30856,
+    "all_raw_h5_present": true,
+    "all_raw_h5_sizes_and_sha256_match": true
+  }
+]

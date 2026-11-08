@@ -1,0 +1,29 @@
+[
+  {
+    "dataset": "GSE270678_main_ST",
+    "section_id": "D01T2",
+    "spots": 1416,
+    "effects": 19,
+    "section_gate": true,
+    "max_rho_absolute_difference": 9.71445146547012e-17,
+    "all_effects_and_denominators_match": true
+  },
+  {
+    "dataset": "GSE270678_ST_R_sensitivity",
+    "section_id": "D01T2_2",
+    "spots": 1748,
+    "effects": 19,
+    "section_gate": true,
+    "max_rho_absolute_difference": 8.326672684688674e-17,
+    "all_effects_and_denominators_match": true
+  },
+  {
+    "dataset": "GSE251950_primary",
+    "section_id": "GSM7990473",
+    "spots": 3760,
+    "effects": 19,
+    "section_gate": true,
+    "max_rho_absolute_difference": 9.8879238130678e-17,
+    "all_effects_and_denominators_match": true
+  }
+]

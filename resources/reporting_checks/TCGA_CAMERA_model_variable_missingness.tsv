@@ -1,0 +1,8 @@
+model_tier	variable	candidate_n	available_n	missing_n	missing_among_included_n
+purity_adjusted	ecosystem_z	412	412	0	0
+purity_adjusted	purity_z_model	412	400	12	0
+lineage_subtype_adjusted	ecosystem_z	412	412	0	0
+lineage_subtype_adjusted	purity_z_model	412	400	12	0
+lineage_subtype_adjusted	fibroblast_z_model	412	412	0	0
+lineage_subtype_adjusted	monocytic_z_model	412	412	0	0
+lineage_subtype_adjusted	tcga2014_subtype	412	274	138	0

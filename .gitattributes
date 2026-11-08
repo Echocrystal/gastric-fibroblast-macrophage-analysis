@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Auto detect text files and keep byte manifests stable across platforms
+* text=auto eol=lf
+# Preserve verbatim historical source copies and their provenance byte hashes
+code/frozen_sources/** -text
+code/provenance_ecm/** -text
+# Preserve frozen resource bytes, including original mixed line endings
+resources/ecm_direction/** -text
+resources/spatial_covariates/** -text
+resources/reporting_checks/** -text
+docs/validation_ecm_spatial/** -text

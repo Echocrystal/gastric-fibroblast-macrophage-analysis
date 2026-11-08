@@ -1,0 +1,119 @@
+[
+  {
+    "dataset": "GSE270678_main_ST",
+    "section_id": "D01T2",
+    "spots": 1416,
+    "max_absolute_error_by_covariate": {
+      "FROZEN_ECM_C2_HIGH50": 6.661338147750939e-16,
+      "FROZEN_ECM_C1_HIGH50": 5.551115123125783e-16,
+      "MARKER_Fibroblast": 5.551115123125783e-15,
+      "MARKER_Epithelial": 5.329070518200751e-15,
+      "frozen_ECM_direction": 7.771561172376096e-16
+    },
+    "coverage": {
+      "FROZEN_ECM_C2_HIGH50": {
+        "requested": 50,
+        "measured": 50,
+        "informative": 49,
+        "averaged": 50
+      },
+      "FROZEN_ECM_C1_HIGH50": {
+        "requested": 50,
+        "measured": 50,
+        "informative": 35,
+        "averaged": 50
+      },
+      "MARKER_Fibroblast": {
+        "requested": 8,
+        "measured": 8,
+        "informative": 8,
+        "averaged": 8
+      },
+      "MARKER_Epithelial": {
+        "requested": 8,
+        "measured": 8,
+        "informative": 7,
+        "averaged": 8
+      }
+    },
+    "all_totals_exact": true
+  },
+  {
+    "dataset": "GSE270678_ST_R",
+    "section_id": "D01T2_2",
+    "spots": 1748,
+    "max_absolute_error_by_covariate": {
+      "FROZEN_ECM_C2_HIGH50": 6.661338147750939e-16,
+      "FROZEN_ECM_C1_HIGH50": 3.1086244689504383e-15,
+      "MARKER_Fibroblast": 4.884981308350689e-15,
+      "MARKER_Epithelial": 4.884981308350689e-15,
+      "frozen_ECM_direction": 8.881784197001252e-16
+    },
+    "coverage": {
+      "FROZEN_ECM_C2_HIGH50": {
+        "requested": 50,
+        "measured": 50,
+        "informative": 49,
+        "averaged": 50
+      },
+      "FROZEN_ECM_C1_HIGH50": {
+        "requested": 50,
+        "measured": 50,
+        "informative": 28,
+        "averaged": 50
+      },
+      "MARKER_Fibroblast": {
+        "requested": 8,
+        "measured": 8,
+        "informative": 8,
+        "averaged": 8
+      },
+      "MARKER_Epithelial": {
+        "requested": 8,
+        "measured": 8,
+        "informative": 6,
+        "averaged": 8
+      }
+    },
+    "all_totals_exact": true
+  },
+  {
+    "dataset": "GSE251950",
+    "section_id": "GSM7990473",
+    "spots": 3760,
+    "max_absolute_error_by_covariate": {
+      "FROZEN_C2_HIGH50": 5.10702591327572e-15,
+      "FROZEN_C1_HIGH50": 4.6629367034256575e-15,
+      "MARKER_Fibroblast": 5.329070518200751e-15,
+      "MARKER_Epithelial": 5.10702591327572e-15,
+      "frozen_ECM_direction": 5.10702591327572e-15
+    },
+    "coverage": {
+      "FROZEN_C2_HIGH50": {
+        "requested": 50,
+        "measured": 50,
+        "informative": 50,
+        "averaged": 50
+      },
+      "FROZEN_C1_HIGH50": {
+        "requested": 50,
+        "measured": 50,
+        "informative": 47,
+        "averaged": 50
+      },
+      "MARKER_Fibroblast": {
+        "requested": 8,
+        "measured": 8,
+        "informative": 8,
+        "averaged": 8
+      },
+      "MARKER_Epithelial": {
+        "requested": 8,
+        "measured": 8,
+        "informative": 8,
+        "averaged": 8
+      }
+    },
+    "all_totals_exact": true
+  }
+]

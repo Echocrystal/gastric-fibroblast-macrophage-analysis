@@ -1,0 +1,12 @@
+model_id	input_n	stored_fit_n	responders	non_responders	missing_or_excluded_n	design_rank	residual_df	matches_existing_fit_summary
+sender_primary_z__univariable	45	45	12	33	0	2	43	TRUE
+sender_primary_z__MSI_adjusted	45	45	12	33	0	3	42	TRUE
+receiver_specific_z__univariable	45	45	12	33	0	2	43	TRUE
+receiver_specific_z__MSI_adjusted	45	45	12	33	0	3	42	TRUE
+ecosystem_z__univariable	45	45	12	33	0	2	43	TRUE
+ecosystem_z__MSI_adjusted	45	45	12	33	0	3	42	TRUE
+ecosystem_merged_sensitivity_z__univariable	45	45	12	33	0	2	43	TRUE
+ecosystem_merged_sensitivity_z__MSI_adjusted	45	45	12	33	0	3	42	TRUE
+sender_receiver	45	45	12	33	0	3	42	TRUE
+sender_receiver_MSI	45	45	12	33	0	4	41	TRUE
+sender_receiver_interaction	45	45	12	33	0	4	41	TRUE

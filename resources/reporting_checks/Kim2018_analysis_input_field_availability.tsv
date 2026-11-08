@@ -1,0 +1,19 @@
+cohort	variable	source_field_present	cohort_n	available_n	unavailable_n	availability_type	model_adjustment
+Kim2018	patient_id	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	msi_type_pentaplex	TRUE	45	45	0	present_in_analysed_clinical_input	MSI status used in specified adjusted models
+Kim2018	msi_score_wes	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	ebv_in_situ	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	ebv_estimate_wes	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	mutation_load_category	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	tcga_subtype	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	acrg_mesenchymal	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	immune_signature	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	pdl1_tumor_pct	TRUE	45	41	4	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	pdl1_immune_pct	TRUE	45	41	4	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	pdl1_cps	TRUE	45	41	4	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	best_response	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	response_binary	TRUE	45	45	0	present_in_analysed_clinical_input	outcome
+Kim2018	source	TRUE	45	45	0	present_in_analysed_clinical_input	not a covariate in the 11 reported response models
+Kim2018	treatment_line	FALSE	45	0	45	field_not_provided_in_analysed_clinical_input	not adjusted; no value inferred or imputed
+Kim2018	tumour_anatomic_site	FALSE	45	0	45	field_not_provided_in_analysed_clinical_input	not adjusted; no value inferred or imputed
+Kim2018	histology	FALSE	45	0	45	field_not_provided_in_analysed_clinical_input	not adjusted; no value inferred or imputed

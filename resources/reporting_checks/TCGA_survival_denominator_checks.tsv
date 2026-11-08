@@ -1,0 +1,22 @@
+analysis_family	exposure	tier	candidate_n	included_n	excluded_n	events	original_reported_n	original_reported_events	exact_match	required_variables
+original_projection	sender_primary_z	univariable	412	386	26	155	386	155	TRUE	os_months;os_event_frozen;sender_primary_z
+original_projection	sender_primary_z	clinical	412	376	36	149	376	149	TRUE	os_months;os_event_frozen;sender_primary_z;age;sex;stage_group_frozen
+original_projection	sender_primary_z	clinical_purity	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;sender_primary_z;age;sex;stage_group_frozen;absolute_purity
+original_projection	receiver_specific_z	univariable	412	386	26	155	386	155	TRUE	os_months;os_event_frozen;receiver_specific_z
+original_projection	receiver_specific_z	clinical	412	376	36	149	376	149	TRUE	os_months;os_event_frozen;receiver_specific_z;age;sex;stage_group_frozen
+original_projection	receiver_specific_z	clinical_purity	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;receiver_specific_z;age;sex;stage_group_frozen;absolute_purity
+original_projection	ecosystem_z	univariable	412	386	26	155	386	155	TRUE	os_months;os_event_frozen;ecosystem_z
+original_projection	ecosystem_z	clinical	412	376	36	149	376	149	TRUE	os_months;os_event_frozen;ecosystem_z;age;sex;stage_group_frozen
+original_projection	ecosystem_z	clinical_purity	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;ecosystem_z;age;sex;stage_group_frozen;absolute_purity
+original_projection	ecosystem_merged_sensitivity_z	univariable	412	386	26	155	386	155	TRUE	os_months;os_event_frozen;ecosystem_merged_sensitivity_z
+original_projection	ecosystem_merged_sensitivity_z	clinical	412	376	36	149	376	149	TRUE	os_months;os_event_frozen;ecosystem_merged_sensitivity_z;age;sex;stage_group_frozen
+original_projection	ecosystem_merged_sensitivity_z	clinical_purity	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;ecosystem_merged_sensitivity_z;age;sex;stage_group_frozen;absolute_purity
+lineage_sensitivity	sender_primary_z	preregistered	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;sender_primary_z;age;sex;stage_group_frozen;absolute_purity
+lineage_sensitivity	sender_primary_z	broad_lineage	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;sender_primary_z;age;sex;stage_group_frozen;absolute_purity;Fibroblasts_leaveout;Monocytic lineage_leaveout
+lineage_sensitivity	sender_primary_z	broad_lineage_subtype	412	342	70	132	342	132	TRUE	os_months;os_event_frozen;sender_primary_z;age;sex;stage_group_frozen;absolute_purity;Fibroblasts_leaveout;Monocytic lineage_leaveout;tcga_subtype
+lineage_sensitivity	receiver_specific_z	preregistered	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;receiver_specific_z;age;sex;stage_group_frozen;absolute_purity
+lineage_sensitivity	receiver_specific_z	broad_lineage	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;receiver_specific_z;age;sex;stage_group_frozen;absolute_purity;Fibroblasts_leaveout;Monocytic lineage_leaveout
+lineage_sensitivity	receiver_specific_z	broad_lineage_subtype	412	342	70	132	342	132	TRUE	os_months;os_event_frozen;receiver_specific_z;age;sex;stage_group_frozen;absolute_purity;Fibroblasts_leaveout;Monocytic lineage_leaveout;tcga_subtype
+lineage_sensitivity	ecosystem_z	preregistered	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;ecosystem_z;age;sex;stage_group_frozen;absolute_purity
+lineage_sensitivity	ecosystem_z	broad_lineage	412	365	47	144	365	144	TRUE	os_months;os_event_frozen;ecosystem_z;age;sex;stage_group_frozen;absolute_purity;Fibroblasts_leaveout;Monocytic lineage_leaveout
+lineage_sensitivity	ecosystem_z	broad_lineage_subtype	412	342	70	132	342	132	TRUE	os_months;os_event_frozen;ecosystem_z;age;sex;stage_group_frozen;absolute_purity;Fibroblasts_leaveout;Monocytic lineage_leaveout;tcga_subtype

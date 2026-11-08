@@ -1,28 +1,28 @@
 [
   {
     "file": "export_existing_Kim2018_models.R",
-    "bytes": 12857,
-    "sha256": "131ceca448f9ee8e161636ef16220e2595e50789d7678b0518218b589f5d4aac"
+    "bytes": 12655,
+    "sha256": "a0dee8586d05f237c89ec26fa8722b3703578e31933978bfd2ed2865c21913bd"
   },
   {
     "file": "INPUT_FILE_MANIFEST.json",
-    "bytes": 1026,
-    "sha256": "a3958e2f7843a9f6361826e319fa91545a3512d40dc17b395ccfcb97ec390da4"
+    "bytes": 1003,
+    "sha256": "0e8a18eba7d6bd2a89ba186734c7b4f351accdb9b48cd15a02577c48ce975dcd"
   },
   {
     "file": "inputs/Figure6h_Kim2018_continuous_models_original.tsv",
-    "bytes": 383,
-    "sha256": "9a100f055c2b8bd299e6150e48b669724edca7ba91a1293290c225ca63ac828b"
+    "bytes": 378,
+    "sha256": "ad79c0d5c16a5aebc788a08eaf81cedf66b53a5088fd026d0a871690b3e6d016"
   },
   {
     "file": "inputs/Kim2018_bias_reduced_response_models_original.tsv",
-    "bytes": 1119,
-    "sha256": "c68081aca65d9c08a30d0aae603b042fd780c4b7f8a2c89840fd717156618a87"
+    "bytes": 1110,
+    "sha256": "d974597e8bd454be2a19370e680f7a1dfcb49c35b2eb0761113ba211e9acb55b"
   },
   {
     "file": "inputs/Kim2018_continuous_joint_state_response_models_original.tsv",
-    "bytes": 1149,
-    "sha256": "8f031264c538f946f9654a5bdf6a898303074f0dcd5b6432c34c8e38a9802663"
+    "bytes": 1140,
+    "sha256": "35a24539958c66e795fc489a3b8efdce5ff446805e780139832a4a0074bcdf73"
   },
   {
     "file": "inputs/Kim2018_model_inputs_deidentified.tsv",
@@ -31,48 +31,48 @@
   },
   {
     "file": "outputs/Figure6H_four_terms_complete.tsv",
-    "bytes": 2489,
-    "sha256": "fe0365744dab441c25263adfa86d2d3da85a3fc1ad705c3b0c652e1d4d7654a0"
+    "bytes": 2484,
+    "sha256": "2c154e8267be97f88cd3f8e81f0c8d33e1c3e3d9504c602dff09a4dd9ce55691"
   },
   {
     "file": "outputs/Figure6H_four_terms_REPRODUCTION_QA.tsv",
-    "bytes": 2183,
-    "sha256": "4a61588bc5247ce0fef66df3450f9e497cc3e43cb54cb4f66ecb215f002bf8dd"
+    "bytes": 2166,
+    "sha256": "093890d5f553e5830689cbbf12773f8e92909a1c36a4b76e32ee15fad4f1ee4e"
   },
   {
     "file": "outputs/Kim2018_existing_models_ALL_TERMS.tsv",
-    "bytes": 14174,
-    "sha256": "68512cd481eac89bc83413a9742d1cea06d684277142c9d7c48fc76f3365867f"
+    "bytes": 14142,
+    "sha256": "b9a8659633169163092015b643783ca3db9add3bef29d59ab0c8f14028153707"
   },
   {
     "file": "outputs/Kim2018_existing_models_complete.json",
-    "bytes": 41792,
-    "sha256": "213370a8b72909f7cb8e8695bb07e6037abc41e0107e523c611f9009c190da0a"
+    "bytes": 40723,
+    "sha256": "8b52b244843e7d5a974e27cc70ac1090b593f3a9e48b023f29fffe6f9b6f30cd"
   },
   {
     "file": "outputs/Kim2018_existing_models_FIT_SUMMARY.tsv",
-    "bytes": 2840,
-    "sha256": "bcc7a1dd4eb9b3d3f5801bd4dbe022b50242ad714e60344ff63e61748ac62b3b"
+    "bytes": 2828,
+    "sha256": "9c230b48873fb57d535f755b0ba297d29f5c107bed2c0bf98fe5290f9aa8e0c0"
   },
   {
     "file": "outputs/Kim2018_model_patient_inclusion.tsv",
-    "bytes": 23920,
-    "sha256": "3aab1b061310affc1f4942ff6b019a83e1a681946cefd84d1b390bf0b3a54b35"
+    "bytes": 23424,
+    "sha256": "f5220ebd2603e2d58141b5e1b2edb443bacfc03fd8c4acd78204b9a437bf6520"
   },
   {
     "file": "outputs/Kim2018_original16_terms_REPRODUCTION_QA.tsv",
-    "bytes": 7783,
-    "sha256": "2229f3c40fbd4ee9b50b4b09bcf2b4ccd72ecdf75374371d792e38fdc1693057"
+    "bytes": 7718,
+    "sha256": "77ea1b478d14d1e7c0ad28fcee2745f90e7578ec63eb26ed8ea7b5ca5d14ce3c"
   },
   {
     "file": "outputs/PUBLIC_PACKAGE_QA.json",
-    "bytes": 515,
-    "sha256": "d688591870261e25c3c368589f21bfeff77897743971e6b47d3b7acebac16a8c"
+    "bytes": 504,
+    "sha256": "38451298f750085a793f21bf1fc5b02b3d27c15f2b707036893a5d3e3dcd2845"
   },
   {
     "file": "outputs/sessionInfo.txt",
-    "bytes": 705,
-    "sha256": "8b9a98d57feddc5c00039ef2a99aa75eefcbe560ac965e2b9b890e1456a1dafb"
+    "bytes": 680,
+    "sha256": "08171881c5450cef45b68ff4585a6449c86146c74c9cb6311fadff65a9da19cd"
   },
   {
     "file": "README.md",
